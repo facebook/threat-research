@@ -15,6 +15,9 @@ This repository contains indicators and methods for detecting malware. Indicator
 * `ios_app_id` - An iOS App ID (e.g. 10000000001)
 
 ## FAQ
+### Why are you releasing this?
+Please see https://about.fb.com/news/2022/10/protecting-people-from-malicious-account-compromise-apps/ to learn more
+
 ### How were these detected?
 Meta uses a wide variety of techniques to find and combat malware. Exact detection methods are generally not shared publicly.
 
