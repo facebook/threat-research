@@ -1,0 +1,296 @@
+[
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "androappstore.com",
+    "comment": "Pakistan: Hosting PJobRAT and Mayhem",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "www.apphububstore.in",
+    "comment": "Pakistan: Hosting PJobRAT",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "appsstore.in",
+    "comment": "Pakistan: Hosting PJobRAT",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "apkstore.filehubspot.com",
+    "comment": "Pakistan: Believed to be hosting PJobRAT",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "helloworld.bounceme.net",
+    "comment": "Pakistan: Command and control server for PJobRAT",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "dasvidaniya.ddns.net",
+    "comment": "Pakistan: Command and control server for PJobRAT",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "gemtool.sytes.net",
+    "comment": "Pakistan: Command and control server for PJobRAT",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "saahas.servecounterstrike.com",
+    "comment": "Pakistan: Command and control server for Mayhem",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "md5",
+    "indicator_value": "7804aa608d73e7a9447ae177c31856fe",
+    "comment": "Pakistan: ViberLite v4 (PJobRAT)",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "md5",
+    "indicator_value": "a80a1b022fdcaa171e454086711dcf35",
+    "comment": "Pakistan: ViberLite v3 (PJobRAT)",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "md5",
+    "indicator_value": "a4f104e2058261c7dbfc1c69e1de8bce",
+    "comment": "Pakistan: ViberLite v2 (PJobRAT)",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "md5",
+    "indicator_value": "4ce92da8928a8d1d72289d126a9fe2f4",
+    "comment": "Pakistan: HangOn V4e (PJobRAT)",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "md5",
+    "indicator_value": "a53c74fa923edce0fa5919d11f945bcc",
+    "comment": "Pakistan: HangOn v4 (PJobRAT)",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "md5",
+    "indicator_value": "9fd4b37cbaf0d44795319977118d439d",
+    "comment": "Pakistan: HangOn (PJobRAT)",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "md5",
+    "indicator_value": "7bef7a2a6ba1b2aceb84ff3adb5db8b3",
+    "comment": "Pakistan: TrendBanter (PJobRAT)",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "md5",
+    "indicator_value": "v21b4327d6881be1893fd2a8431317f6b",
+    "comment": "Pakistan: Happy Chat (Mayhem)",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "faccebookaccunt.blogspot.com",
+    "comment": "APT-C-27: Credential phishing",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "ruba-bakkour-facebook.blogspot.com",
+    "comment": "APT-C-27: Credential phishing",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "chatsafe.tecnova.com.br",
+    "comment": "APT-C-27: Distribution of SilverHawk in 2020",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "download-telegram.vercel.app",
+    "comment": "APT-C-27: Used by SEA affiliated individuals to distribute a new unnamed Android family",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "download-revo.vercel.app",
+    "comment": "APT-C-27: Used by SEA affiliated individuals to distribute a new unnamed Android family",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "ip",
+    "indicator_value": "82.137.218.185",
+    "comment": "APT-C-27: Command and control server. Used to distribute a variety of commodity and custom Android malware.",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "md5",
+    "indicator_value": "df196bd42e1da1d34c23c8d947561618",
+    "comment": "APT-C-27: Fake version of Telegram",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "md5",
+    "indicator_value": "ccabc8f4868184a04b032b34d9303810",
+    "comment": "APT-C-27: Trojanized Syrian News app",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "ip",
+    "indicator_value": "82.137.255.0",
+    "comment": "APT-C-37: Long running command and control server",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "md5",
+    "indicator_value": "969fe5597a44bf4eb66ebdc7b09ef2c8",
+    "comment": "APT-C-37: Fake version of WhatsApp (SSLove)",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "f-b.today",
+    "comment": "Unnamed: Hosting SpyMax",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "messengers.video",
+    "comment": "Unnamed: Hosting SpyMax",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "whatsapp-sy.com",
+    "comment": "Unnamed: Hosting SpyMax",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "horan-free.com",
+    "comment": "Unnamed: Believed to have been hosting SpyMax",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "druze.life",
+    "comment": "Unnamed: Believed to have been hosting SpyMax",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "suwayda-24.com",
+    "comment": "Unnamed: Believed to have been hosting SpyMax",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "t-me.link",
+    "comment": "Unnamed: Believed to have been hosting SpyMax",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "lamat-horan.com",
+    "comment": "Unnamed: Hosting unnamed Android malware",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "anti-corona.app",
+    "comment": "Unnamed: Believed to have been hosting SpyMax",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "what-sapp.site",
+    "comment": "Unnamed: Believed to have been hosting SpyMax",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "informnapalm.net",
+    "comment": "Unnamed: Hosting trojanized apps for the YPG, Syrian Civil Defense, and malware pretending to be an update for WhatsApp.",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "facebook-helps-center.com",
+    "comment": "Unnamed: Older infrastructure hosting SpyMax malware pretending to be a WhatsApp update.",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "ip",
+    "indicator_value": "46.4.83.140",
+    "comment": "Unnamed: Command and control server",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "sputniknews.news",
+    "comment": "Unnamed: Believed to be attacker controlled",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "emmashop.app",
+    "comment": "Unnamed: Believed to be attacker controlled",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "face-book.xyz",
+    "comment": "Unnamed: Believed to be attacker controlled.",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "md5",
+    "indicator_value": "762acdd53eb35cd48686b72811ba9f3c",
+    "comment": "Unnamed: Hosted on lamat-horan.com. First seen in 2019. 0 detections on VT.",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "md5",
+    "indicator_value": "fcf357556c3af14bab820810f5e94436",
+    "comment": "Unnamed: Hosted on f-b.today. Masquerading as a Syrian satellite TV app. (SpyMax)",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "md5",
+    "indicator_value": "e8a528491b28e4d62a472da7396c7047",
+    "comment": "Unnamed: Hosted on f-b.today. Masquerading as a YouTube update. (SpyMax)",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "md5",
+    "indicator_value": "1c16ee8b2f0dff7280e1d97522ee7e3f",
+    "comment": "Unnamed: Hosted on informnapalm.net. A Syria themed APK. (SpyNote)",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "md5",
+    "indicator_value": "ce274c0bd0743695529a43d7992e2d2c",
+    "comment": "Unnamed: Hosted on informnapalm.net. Masquerading as a WhatsApp update. (SpyMax)",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "md5",
+    "indicator_value": "185062606b168f04b8b583045d300be5",
+    "comment": "Unnamed: Hosted on informnapalm.net. Masquerading as an app for the YPG. (SpyMax)",
+    "ds": "2021-11-16"
+  },
+  {
+    "indicator_type": "md5",
+    "indicator_value": "c2e55b0d7be1c1991a5b70be7280e528",
+    "comment": "Unnamed: Hosted on informnapalm.net. Masquerading as an app for the Syrian Civil Defence. (SpyMax)",
+    "ds": "2021-11-16"
+  }
+]
