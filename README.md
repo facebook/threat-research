@@ -1,4 +1,4 @@
-# Malware Detection Indicators
+# Threat Detection Indicators
 This repository contains indicators and methods for detecting malware and other malicious online activity. Indicators are listed here when our investigative teams strongly believe that they are tied to malicious activity. We recommend that all indicators listed in this repository be reviewed before taking action within your organization.
 
 ## Repository Structure
