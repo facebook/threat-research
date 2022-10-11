@@ -1,5 +1,5 @@
 # Malware Detection Indicators
-This repository contains indicators and methods for detecting malware. Indicators are listed here when our malware teams strongly believe that they are tied to malicious activity. We recommend that all indicators listed in this repository be reviewed before taking action within your organization.
+This repository contains indicators and methods for detecting malware and other malicious online activity. Indicators are listed here when our investigative teams strongly believe that they are tied to malicious activity. We recommend that all indicators listed in this repository be reviewed before taking action within your organization.
 
 ## Repository Structure
 * `indicators` - Holds indicators in CSV, TSV, and JSON formats
@@ -24,7 +24,7 @@ This repository contains indicators and methods for detecting malware. Indicator
 Please see https://about.fb.com/news/2022/10/protecting-people-from-malicious-account-compromise-apps/ to learn more
 
 ### How were these detected?
-Meta uses a wide variety of techniques to find and combat malware. Exact detection methods are generally not shared publicly.
+Meta uses a wide variety of techniques to find and combat malware and malicious activity. Exact detection methods are generally not shared publicly.
 
 ### How confident are you in these indicators?
 We have high confidence in our indicators. We manually vet all indicators before they are published to this repository. There still remains a very low chance that an indicator may be a false positive, so we recommend users review the indicators before taking action.
