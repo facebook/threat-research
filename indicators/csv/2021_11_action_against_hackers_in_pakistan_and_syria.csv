@@ -1,0 +1,50 @@
+indicator_type,indicator_value,comment,ds
+domain_name,androappstore.com,Pakistan: Hosting PJobRAT and Mayhem,2021-11-16
+domain_name,www.apphububstore.in,Pakistan: Hosting PJobRAT,2021-11-16
+domain_name,appsstore.in,Pakistan: Hosting PJobRAT,2021-11-16
+domain_name,apkstore.filehubspot.com,Pakistan: Believed to be hosting PJobRAT,2021-11-16
+domain_name,helloworld.bounceme.net,Pakistan: Command and control server for PJobRAT,2021-11-16
+domain_name,dasvidaniya.ddns.net,Pakistan: Command and control server for PJobRAT,2021-11-16
+domain_name,gemtool.sytes.net,Pakistan: Command and control server for PJobRAT,2021-11-16
+domain_name,saahas.servecounterstrike.com,Pakistan: Command and control server for Mayhem,2021-11-16
+md5,7804aa608d73e7a9447ae177c31856fe,Pakistan: ViberLite v4 (PJobRAT),2021-11-16
+md5,a80a1b022fdcaa171e454086711dcf35,Pakistan: ViberLite v3 (PJobRAT),2021-11-16
+md5,a4f104e2058261c7dbfc1c69e1de8bce,Pakistan: ViberLite v2 (PJobRAT),2021-11-16
+md5,4ce92da8928a8d1d72289d126a9fe2f4,Pakistan: HangOn V4e (PJobRAT),2021-11-16
+md5,a53c74fa923edce0fa5919d11f945bcc,Pakistan: HangOn v4 (PJobRAT),2021-11-16
+md5,9fd4b37cbaf0d44795319977118d439d,Pakistan: HangOn (PJobRAT),2021-11-16
+md5,7bef7a2a6ba1b2aceb84ff3adb5db8b3,Pakistan: TrendBanter (PJobRAT),2021-11-16
+md5,v21b4327d6881be1893fd2a8431317f6b,Pakistan: Happy Chat (Mayhem),2021-11-16
+domain_name,faccebookaccunt.blogspot.com,APT-C-27: Credential phishing,2021-11-16
+domain_name,ruba-bakkour-facebook.blogspot.com,APT-C-27: Credential phishing,2021-11-16
+domain_name,chatsafe.tecnova.com.br,APT-C-27: Distribution of SilverHawk in 2020,2021-11-16
+domain_name,download-telegram.vercel.app,APT-C-27: Used by SEA affiliated individuals to distribute a new unnamed Android family,2021-11-16
+domain_name,download-revo.vercel.app,APT-C-27: Used by SEA affiliated individuals to distribute a new unnamed Android family,2021-11-16
+ip,82.137.218.185,APT-C-27: Command and control server. Used to distribute a variety of commodity and custom Android malware.,2021-11-16
+md5,df196bd42e1da1d34c23c8d947561618,APT-C-27: Fake version of Telegram,2021-11-16
+md5,ccabc8f4868184a04b032b34d9303810,APT-C-27: Trojanized Syrian News app,2021-11-16
+ip,82.137.255.0,APT-C-37: Long running command and control server,2021-11-16
+md5,969fe5597a44bf4eb66ebdc7b09ef2c8,APT-C-37: Fake version of WhatsApp (SSLove),2021-11-16
+domain_name,f-b.today,Unnamed: Hosting SpyMax,2021-11-16
+domain_name,messengers.video,Unnamed: Hosting SpyMax,2021-11-16
+domain_name,whatsapp-sy.com,Unnamed: Hosting SpyMax,2021-11-16
+domain_name,horan-free.com,Unnamed: Believed to have been hosting SpyMax,2021-11-16
+domain_name,druze.life,Unnamed: Believed to have been hosting SpyMax,2021-11-16
+domain_name,suwayda-24.com,Unnamed: Believed to have been hosting SpyMax,2021-11-16
+domain_name,t-me.link,Unnamed: Believed to have been hosting SpyMax,2021-11-16
+domain_name,lamat-horan.com,Unnamed: Hosting unnamed Android malware,2021-11-16
+domain_name,anti-corona.app,Unnamed: Believed to have been hosting SpyMax,2021-11-16
+domain_name,what-sapp.site,Unnamed: Believed to have been hosting SpyMax,2021-11-16
+domain_name,informnapalm.net,"Unnamed: Hosting trojanized apps for the YPG, Syrian Civil Defense, and malware pretending to be an update for WhatsApp.",2021-11-16
+domain_name,facebook-helps-center.com,Unnamed: Older infrastructure hosting SpyMax malware pretending to be a WhatsApp update.,2021-11-16
+ip,46.4.83.140,Unnamed: Command and control server,2021-11-16
+domain_name,sputniknews.news,Unnamed: Believed to be attacker controlled,2021-11-16
+domain_name,emmashop.app,Unnamed: Believed to be attacker controlled,2021-11-16
+domain_name,face-book.xyz,Unnamed: Believed to be attacker controlled.,2021-11-16
+md5,762acdd53eb35cd48686b72811ba9f3c,Unnamed: Hosted on lamat-horan.com. First seen in 2019. 0 detections on VT.,2021-11-16
+md5,fcf357556c3af14bab820810f5e94436,Unnamed: Hosted on f-b.today. Masquerading as a Syrian satellite TV app. (SpyMax),2021-11-16
+md5,e8a528491b28e4d62a472da7396c7047,Unnamed: Hosted on f-b.today. Masquerading as a YouTube update. (SpyMax),2021-11-16
+md5,1c16ee8b2f0dff7280e1d97522ee7e3f,Unnamed: Hosted on informnapalm.net. A Syria themed APK. (SpyNote),2021-11-16
+md5,ce274c0bd0743695529a43d7992e2d2c,Unnamed: Hosted on informnapalm.net. Masquerading as a WhatsApp update. (SpyMax),2021-11-16
+md5,185062606b168f04b8b583045d300be5,Unnamed: Hosted on informnapalm.net. Masquerading as an app for the YPG. (SpyMax),2021-11-16
+md5,c2e55b0d7be1c1991a5b70be7280e528,Unnamed: Hosted on informnapalm.net. Masquerading as an app for the Syrian Civil Defence. (SpyMax),2021-11-16

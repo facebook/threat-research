@@ -13,6 +13,9 @@ This repository contains indicators and methods for detecting malware. Indicator
 ## Indicator Types
 * `android_package_name` - An Android package name (e.g. com.example.app)
 * `ios_app_id` - An iOS App ID (e.g. 10000000001)
+* `domain_name` - A domain name
+* `md5` - An MD5 Hash
+* `ip` - An IP Address
 
 ## FAQ
 ### Why are you releasing this?
@@ -29,3 +32,7 @@ Open an Issue on Github and we'll look into it
 
 ### How is this data licensed?
 Under the MIT License (see `LICENSE`)
+
+## Index of Filenames
+* 2022_malicious_mobile_apps - https://about.fb.com/news/2022/10/protecting-people-from-malicious-account-compromise-apps/
+* 2021_11_action_against_hackers_in_pakistan_and_syria - https://about.fb.com/news/2021/11/taking-action-against-hackers-in-pakistan-and-syria/
