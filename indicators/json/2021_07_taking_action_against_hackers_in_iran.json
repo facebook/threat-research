@@ -1,0 +1,1124 @@
+[
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "1st-smtp2go.email",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "2nd-smtp2go.email",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "3rd-smtp2go.email",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "4th-smtp2go.email",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "accounts.cam",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "activesessions.me",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "adobes.software",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "alhds.net",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "apppure.cf",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "bahri.site",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "bbcnews.email",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "bitly.cam",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "biturl.cx",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "brdcst.email",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "careeronestop.site",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "cc-security-inc.email",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "ccsecurity-mail-inc.email",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "ccsecurity-mail-inc.services",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "citymyworkday.com",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "cityofberkeley.support",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "cnbcnews.email",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "cnnnews.global",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "codejquery-ui.com",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "com-account-challenge.email",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "com-signin-v2.email",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "comlogin.online",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "comlogin.services",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "copyleft.today",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "crisiswatchsupport.shop",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "datacatch.xyz",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "dayzim.org",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "dh135.world",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "dollrealdoll.com",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "dollrealdoll.online",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "entrust.work",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "erictrumpfundation.com",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "facebookservices.gq",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "fblogin.me",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "fileblade.ga",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "findcareersatusbofa.com",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "fiservcareers.com",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "goodreads.rest",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "googl.club",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "gropinggo.com",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "hex6mak5z98nubb9vpd6t36cydkncfci9im872qx6hjci2egx8irq3qyt9pj.online",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "hike.studio",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "hiremilitaryheroes.com",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "hosted-microsoft.com",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "iemail.today",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "incognito.today",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "infoga.cam",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "iqtel.org",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "irtreporter.com",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "itiee.life",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "itieee.life",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "jessicamcgill.life",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "jqueryui-code.com",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "jumhuria.com",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "kartick.net",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "kaspersky.team",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "linkgen.me",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "linksbit.com",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "linq.ink",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "liveleak.cam",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "liveuamap.live",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "lockheedmartinjobs.us",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "loginaccount.email",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "logonexchangeonline.com",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "logonmicrosoftonline.com",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "lskjirn.life",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "mail2go.live",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "mail2go.online",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "mail2u.live",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "mailaccountlive.email",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "mailaccountlive.support",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "mailpublisher.live",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "mails.center",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "metacafe.live",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "micorsoftonilne.com",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "micorsoftonline.website",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "micorsoftonline.xyz",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "microsoftoffice.systems",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "microsoftonilne.cloud",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "mispace.cam",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "msol.live",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "msonline.live",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "mssecurityaccount.online",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "mydomainxyz.xyz",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "news-smtp2go.email",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "newsl.ink",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "noreplay.email",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "novafile.tk",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "onpointcorp.co",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "outlook-services.com",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "outlookservices.live",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "outlookservices.me",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "outube.live",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "pic-shareonline.com",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "pixlr.live",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "pixlr.myftp.org",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "post-jquery.com",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "prefiles.ml",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "publicsgroupe.net",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "pwutc.live",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "rali.live",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "recruitme.international",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "robotics.land",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "sabic.work",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "sandsngo.com",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "saudivisions2030.org",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "securityaccountreply.com",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "seery.online",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "sendblaster.org",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "sender.gb.net",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "shareae.cf",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "shlink.run",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "shlnk.run",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "short-l.link",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "shortli.live",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "shrt.rip",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "shur.live",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "shurl.site",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "site1.life",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "smtp-2go.com",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "smtp2go.best",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "smtp2go.club",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "smtp2go.email",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "smtp2go.fun",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "smtp2go.icu",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "smtp2go.live",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "smtp2go.me",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "smtp2go.pw",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "smtp2go.site",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "smtp2go.space",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "smtp2go.website",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "smtper.center",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "smtptogo.pw",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "soc-usa.email",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "soundcloud.fun",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "soundcloud.live",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "spreadme.international",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "src-ymlang.link",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "support-securitymail.email",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "support-ymail-team.online",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "surl.ist",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "surl.live",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "sxk8xrjtaikv3dxl7hgghw3vptvxpzzxeynrcltu4k3yeecjq3.online",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "systembackend.site",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "techmahindra.support",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "teleweb.world",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "tetra.email",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "thegardian.ml",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "thegaurdian.live",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "thomsonsreuters.email",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "thomsonsreuters.eu",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "thomsonsreuters.link",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "thomsonsreuters.net",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "tinil.ink",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "tinly.me",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "tinylink.pro",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "tinyurl.gold",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "tiwpan.xyz",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "tox.cheap",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "treasury.email",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "treporter.com",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "trumphotel.net",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "trumpnationallosangeles.email",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "trumporganization.world",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "trumporganizations.com",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "tv-youtube.com",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "uploaderfile.cf",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "usdailypost.com",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "usdailypost.net",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "usdp.news",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "vps.limited",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "watch-youtube.com",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "wikileaks.email",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "workshopplatform.network",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "xn--rumphotels-vcc.com",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "xn--twitte-u9a.com",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "xyzsitexyz.xyz",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "ymail-account.support",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "ymail-security-support.email",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "ymail-security.support",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "ymailaccounts.us",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "ymailsupport.info",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "zain.network",
+    "comment": "Iran: Tortoiseshell related Domain",
+    "ds": "2021-07-15"
+  }
+]
