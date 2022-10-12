@@ -109,13 +109,7 @@
     },
     {
         "indicator_type": "domain_name",
-        "indicator_value": "api-telecommunication.c",
-        "comment": "Cytrox Domain",
-        "ds": "2021-12-16"
-    },
-    {
-        "indicator_type": "domain_name",
-        "indicator_value": "om",
+        "indicator_value": "api-telecommunication.com",
         "comment": "Cytrox Domain",
         "ds": "2021-12-16"
     },
@@ -1291,13 +1285,7 @@
     },
     {
         "indicator_type": "domain_name",
-        "indicator_value": "serviceupdaterequest.co",
-        "comment": "Cytrox Domain",
-        "ds": "2021-12-16"
-    },
-    {
-        "indicator_type": "domain_name",
-        "indicator_value": "m",
+        "indicator_value": "serviceupdaterequest.com",
         "comment": "Cytrox Domain",
         "ds": "2021-12-16"
     },
