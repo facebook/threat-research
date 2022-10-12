@@ -1,0 +1,244 @@
+indicator_type,indicator_value,comment,ds
+domain_name,news-fbcb4.firebaseio.com,PSS Android C2 Domain,2021-04-21
+domain_name,news-fbcb4.appspot.com,PSS Android C2 Domain,2021-04-21
+domain_name,chaty-98547.firebaseio.com,PSS Android C2 Domain,2021-04-21
+domain_name,chaty-98547.appspot.com,PSS Android C2 Domain,2021-04-21
+domain_name,jamila-c8420.firebaseio.com,PSS Android C2 Domain,2021-04-21
+domain_name,jamila-c8420.appspot.com,PSS Android C2 Domain,2021-04-21
+domain_name,showra-22501.firebaseio.com,PSS Android C2 Domain,2021-04-21
+domain_name,showra-22501.appspot.com,PSS Android C2 Domain,2021-04-21
+domain_name,goodwork-25869.firebaseio.com,PSS Android C2 Domain,2021-04-21
+domain_name,goodwork-25869.appspot.com,PSS Android C2 Domain,2021-04-21
+domain_name,advance-chat-app.firebaseio.com,PSS Android C2 Domain,2021-04-21
+domain_name,advance-chat-app.appspot.com,PSS Android C2 Domain,2021-04-21
+domain_name,filtersapp-715ee.firebaseio.com,PSS Android C2 Domain,2021-04-21
+domain_name,filtersapp-715ee.appspot.com,PSS Android C2 Domain,2021-04-21
+domain_name,humanrights-1398b.firebaseio.com,PSS Android C2 Domain,2021-04-21
+domain_name,humanrights-1398b.appspot.com,PSS Android C2 Domain,2021-04-21
+domain_name,jamilabouhaird-c0935.firebaseio.com,PSS Android C2 Domain,2021-04-21
+domain_name,jamilabouhaird-c0935.appspot.com,PSS Android C2 Domain,2021-04-21
+domain_name,hotchat-f0c0e.appspot.com,PSS Android C2 Domain,2021-04-21
+domain_name,hotnewchat.appspot.com,PSS Android C2 Domain,2021-04-21
+sha256,aeb0c38219e714ab881d0065b9fc1915ba84ad5b86916a82814d056f1dfaf66d,PSS Android Malware Hash,2021-04-21
+sha256,3c21c0f64ef7b606abb73b9574d0d66895e180e6d1cf2ad21addd5ade79b69fb,PSS Android Malware Hash,2021-04-21
+sha256,d2787aff6e827809b836e62b06cca68bec92b3e2144f132a0015ce397cf3cac2,PSS Android Malware Hash,2021-04-21
+sha256,2580f7afb4746b223b14aceab76bd8bc2e4366bfa55ebf203de2715176032525,PSS Android Malware Hash,2021-04-21
+sha256,f7ea82e4c329bf8e29e9da37fcaf35201dd79c2fc55cc0feb88aedf0b2d26ec2,PSS Android Malware Hash,2021-04-21
+sha256,0540051935145fb1e3f9361ec55b62a759ce6796c1f355249805d186046328dc,PSS Android Malware Hash,2021-04-21
+sha256,03de278ec4c4855b885520a377f8b1df462a1d8a4b57b492b3b052aafe509793,PSS Android Malware Hash,2021-04-21
+sha256,fe77e052dc1a8ebea389bc0d017191e0f41d8e47d034c30df95e3d0dc33cfe10,PSS Android Malware Hash,2021-04-21
+sha256,6356d55c79a82829c949a46c762f9bb4ca53da01a304b13b362a8a9cab20d4d2,PSS Android Malware Hash,2021-04-21
+sha256,9a53506c429fa4ff9113b2cbd37d96c708b4ebb8f3424c1b7f6b05ef678f2230,PSS Android Malware Hash,2021-04-21
+sha256,bf61c078157dd7523cb580672273190de5de3d41577f5d66c5afcdfeade09213,PSS Android Malware Hash,2021-04-21
+sha256,154cb010e8ac4c50a47f4b218c133b5c7d059f5aff4c2820486e0ae511966e89,PSS Android Malware Hash,2021-04-21
+sha256,44ccafb69e61139d9107a87f58133c43b8586931faf620c38c1824057d66d614,PSS Android Malware Hash,2021-04-21
+domain_name,lion20810397.ddns.net,SpyNote C2,2021-04-21
+domain_name,camera.dvrcam.info,PSS Windows Malware C2 Domain,2021-04-21
+domain_name,facebooks.ddns.me,PSS Windows Malware C2 Domain,2021-04-21
+domain_name,google.loginto.me,PSS Windows Malware C2 Domain,2021-04-21
+sha256,05320c7348c156f0a98907d2b1527ff080eae36437d58735f2822d9f42f5d273,PSS Windows Malware Hash,2021-04-21
+domain_name,app-chat1.atwebpages.com,PSS Android Malware DL Domain,2021-04-21
+domain_name,app-showchat.atwebpages.com,PSS Android Malware DL Domain,2021-04-21
+domain_name,showra-chat.atwebpages.com,PSS Android Malware DL Domain,2021-04-21
+url,sites.google.com/view/cake-maker/mandms,Arid Viper: First hop C2 URL,2021-04-21
+url,sites.google.com/view/claudia-rose/get_page,Arid Viper: First hop C2 URL,2021-04-21
+url,sites.google.com/view/brandon-clarkson/access_page,Arid Viper: First hop C2 URL,2021-04-21
+url,sites.google.com/view/amber-stack/valid,Arid Viper: First hop C2 URL,2021-04-21
+url,sites.google.com/view/john-hernandez/path_page,Arid Viper: First hop C2 URL,2021-04-21
+url,sites.google.com/view/jasmine-king/new_page,Arid Viper: First hop C2 URL,2021-04-21
+url,sites.google.com/view/geo-taro/stacks,Arid Viper: First hop C2 URL,2021-04-21
+url,sites.google.com/view/charlok/adlov,Arid Viper: First hop C2 URL,2021-04-21
+domain_name,magicchat-1f275.firebaseio.com,Arid Viper: iOS Firebase Domain,2021-04-21
+domain_name,dash-chat-c02b3.firebaseio.com,Arid Viper: Android Firebase Domain,2021-04-21
+domain_name,dash-chat-c02b3.appspot.com,Arid Viper: Android Firebase Domain,2021-04-21
+domain_name,hidden-chat-e58d7.firebaseio.com,Arid Viper: Android Firebase Domain,2021-04-21
+domain_name,hidden-chat-e58d7.appspot.com,Arid Viper: Android Firebase Domain,2021-04-21
+domain_name,calculator-1e016.firebaseio.com,Arid Viper: Android Firebase Domain,2021-04-21
+domain_name,calculator-1e016.appspot.com,Arid Viper: Android Firebase Domain,2021-04-21
+domain_name,samehnew-10a7c.firebaseio.com,Arid Viper: Android Firebase Domain,2021-04-21
+domain_name,samehnew-10a7c.appspot.com,Arid Viper: Android Firebase Domain,2021-04-21
+domain_name,play-store-51182.firebaseio.com,Arid Viper: Android Firebase Domain,2021-04-21
+domain_name,play-store-51182.appspot.com,Arid Viper: Android Firebase Domain,2021-04-21
+domain_name,stand-by-97c5c.firebaseio.com,Arid Viper: Android Firebase Domain,2021-04-21
+domain_name,stand-by-97c5c.appspot.com,Arid Viper: Android Firebase Domain,2021-04-21
+domain_name,es-last-telegram.firebaseio.com,Arid Viper: Android Firebase Domain,2021-04-21
+domain_name,es-last-telegram.appspot.com,Arid Viper: Android Firebase Domain,2021-04-21
+domain_name,winetalk-9ff2d.firebaseio.com,Arid Viper: Android Firebase Domain,2021-04-21
+domain_name,winetalk-9ff2d.appspot.com,Arid Viper: Android Firebase Domain,2021-04-21
+domain_name,moone-b9497.firebaseio.com,Arid Viper: Android Firebase Domain,2021-04-21
+domain_name,moone-b9497.appspot.com,Arid Viper: Android Firebase Domain,2021-04-21
+domain_name,nachat-152615.firebaseio.com,Arid Viper: Android Firebase Domain,2021-04-21
+domain_name,nachat-152615.appspot.com,Arid Viper: Android Firebase Domain,2021-04-21
+domain_name,chat-14bb1.firebaseio.com,Arid Viper: Android Firebase Domain,2021-04-21
+domain_name,chat-14bb1.appspot.com,Arid Viper: Android Firebase Domain,2021-04-21
+domain_name,kevin-good.top,Arid Viper: Android C2 Domain,2021-04-21
+domain_name,marty-colvard.top,Arid Viper: Android C2 Domain,2021-04-21
+domain_name,anna-sanchez.online,Arid Viper: Android C2 Domain,2021-04-21
+domain_name,robert-conley.space,Arid Viper: Android C2 Domain,2021-04-21
+domain_name,wendy-johnston.pw,Arid Viper: Android C2 Domain,2021-04-21
+domain_name,jennifer-marler.pw,Arid Viper: Android C2 Domain,2021-04-21
+domain_name,goerge-amper.website,Arid Viper: Android C2 Domain,2021-04-21
+domain_name,stacks-zadar.website,Arid Viper: Android C2 Domain,2021-04-21
+domain_name,joe-rumley.pw,Arid Viper: Android C2 Domain,2021-04-21
+domain_name,richardbeman.info,Arid Viper: Android C2 Domain,2021-04-21
+domain_name,vickeryduncan.site,Arid Viper: Android C2 Domain,2021-04-21
+domain_name,moggfelicio.info,Arid Viper: Android C2 Domain,2021-04-21
+domain_name,stevensmalley.pro,Arid Viper: Android C2 Domain,2021-04-21
+domain_name,kentporter.site,Arid Viper: Android C2 Domain,2021-04-21
+domain_name,chad-jessie.info,Arid Viper: Android C2 Domain,2021-04-21
+domain_name,lordblackwood.club,Arid Viper: Android C2 Domain,2021-04-21
+domain_name,julie-parker.top,Arid Viper: Android C2 Domain,2021-04-21
+domain_name,tim-jordan.info,Arid Viper: Android C2 Domain,2021-04-21
+domain_name,hannah-parsons.info,Arid Viper: Android C2 Domain,2021-04-21
+domain_name,social-store.online,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,power-messenger.com,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,dash-chat.site,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,claytoniosep.live,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,chat-update.live,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,apps-store.online,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,williedvazquez.club,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,paulycongalton.pro,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,goo-ply-download.com,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,stand-by.site,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,jayboyadams.club,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,social-store.online,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,fast-download.pro,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,sandra-franklin.fun,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,hidden-chat.online,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,wannameet.co,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,loyronald.site,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,gp-market.com,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,beauty-msg.com,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,melissa-garcia.site,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,apps-download.store,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,smart-messenger.online,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,mix-store.online,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,products-office.online,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,wine-talk.online,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,day-on.site,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,side-talk.com,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,app-market.online,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,telegrom.org,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,vista-chat.com,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,lets-msger.fun,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,hookupdating.club,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,hookupmsg.club,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,fire-upload.host,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,files-store.host,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,heidi-minaya.host,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,sha-talk.co,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,whispers-talk.site,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,pure-talk.site,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,digital-apps.store,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,amanda-hart.website,Arid Viper: Android Malware Hosting Domain,2021-04-21
+domain_name,marwapetersson.info,Arid Viper: Micropsia C2 Domain,2021-04-21
+domain_name,norayowell.info,Arid Viper: Micropsia C2 Domain,2021-04-21
+domain_name,ansonwhitmore.live,Arid Viper: Micropsia C2 Domain,2021-04-21
+domain_name,nicoledotson.icu,Arid Viper: Micropsia C2 Domain,2021-04-21
+domain_name,mikkelbourke.pro,Arid Viper: Micropsia C2 Domain,2021-04-21
+domain_name,belcherjacky.info,Arid Viper: Micropsia C2 Domain,2021-04-21
+domain_name,overingtonray.info,Arid Viper: Micropsia C2 Domain,2021-04-21
+domain_name,scorerabbate.site,Arid Viper: Micropsia C2 Domain,2021-04-21
+domain_name,irenewansley.icu,Arid Viper: Micropsia C2 Domain,2021-04-21
+domain_name,judystevenson.info,Arid Viper: Micropsia C2 Domain,2021-04-21
+domain_name,gallant-william.icu,Arid Viper: Micropsia C2 Domain,2021-04-21
+domain_name,linda-callaghan.icu,Arid Viper: Micropsia C2 Domain,2021-04-21
+url,zc.pgyer.com/5SRZ,Arid Viper: iOS Malware Hosting Site,2021-04-21
+url,zc.pgyer.com/avwvei,Arid Viper: iOS Malware Hosting Site,2021-04-21
+domain_name,magic-store.online,Arid Viper: iOS Malware Hosting Site,2021-04-21
+domain_name,magic4smile.com,Arid Viper: iOS Malware Hosting Site,2021-04-21
+domain_name,magicsmile.fun,Arid Viper: iOS Malware Hosting Site,2021-04-21
+domain_name,magic-smile.fun,Arid Viper: iOS Malware Hosting Site,2021-04-21
+domain_name,magic-smile.co,Arid Viper: iOS Malware Hosting Site,2021-04-21
+domain_name,margarita-smith.host,Arid Viper: iOS Malware C2 Domain,2021-04-21
+domain_name,fasibauik.co,Arid Viper: Credential Theft Domain,2021-04-21
+domain_name,fasebcak.co,Arid Viper: Credential Theft Domain,2021-04-21
+domain_name,fasebcck.com,Arid Viper: Credential Theft Domain,2021-04-21
+domain_name,fasebcoki.com,Arid Viper: Credential Theft Domain,2021-04-21
+domain_name,fasebcak.com,Arid Viper: Credential Theft Domain,2021-04-21
+domain_name,fasbcaok.com,Arid Viper: Credential Theft Domain,2021-04-21
+domain_name,fasebaak.com,Arid Viper: Credential Theft Domain,2021-04-21
+domain_name,fasebaok.co,Arid Viper: Credential Theft Domain,2021-04-21
+domain_name,fasebaook.com,Arid Viper: Credential Theft Domain,2021-04-21
+domain_name,fasebaok.com,Arid Viper: Credential Theft Domain,2021-04-21
+domain_name,log-yoahao.co,Arid Viper: Credential Theft Domain,2021-04-21
+domain_name,log-yoheo.info,Arid Viper: Credential Theft Domain,2021-04-21
+domain_name,fecolooklegon.000webhostapp.com,Arid Viper: Credential Theft Domain,2021-04-21
+domain_name,faseback.com,Arid Viper: Credential Theft Domain,2021-04-21
+domain_name,fcaibaak.com,Arid Viper: Credential Theft Domain,2021-04-21
+domain_name,fasitoak.com,Arid Viper: Credential Theft Domain,2021-04-21
+domain_name,iklood.co,Arid Viper: Credential Theft Domain,2021-04-21
+domain_name,ikoad.co,Arid Viper: Credential Theft Domain,2021-04-21
+domain_name,enti5abat.pw,Arid Viper: Credential Theft Domain,2021-04-21
+domain_name,vista-chat.com,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,lets-msger.fun,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,hookupdating.club,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,fire-upload.host,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,files-store.host,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,hamas31.000webhostapp.com,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,krasil-anthony.icu,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,stikerscloud.com,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,donnamfelton.club,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,accounts-goog-le.com,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,palpolice.icu,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,moi-pna.pw,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,shortesly.website,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,putanything.com,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,uri-ready.website,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,url-redirect.website,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,cathy-seliver.icu,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,wab-wahtsapp.com,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,networkmiddleast.net,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,robertking.site,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,jodiecarey.live,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,stevenfloyd.icu,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,melissa-gonzalez.com,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,jeremy-tanner.live,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,frowtisice.club,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,ubanks.icu,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,rythergannon.info,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,isaac-rowland.space,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,charmainellauzier.host,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,amyacunningham.us,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,lonakodas.club,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,skelly-chester.icu,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,alttaeb.info,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,cynthiaecook.club,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,alishatnixon.site,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,randy-severs.info,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,spartacuscrixus.club,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,advanced-files.club,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,leticialittle.pro,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,bourneliam.info,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,katesalinas.icu,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,autlook.live,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,darrell-ferris.site,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,tommy-swope.site,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,herman-poore.info,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,kimberlycamp.club,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,enough-hamas.000webhostapp.com,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,hadfnews.000webhostapp.com,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,vedioplayers2020.000webhostapp.com,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,drivesuplouders.000webhostapp.com,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,touch.ps,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+domain_name,gifts-store.net,Arid Viper: Suspicious/Uncategorized Domain,2021-04-21
+md5,e567efd5c800c5b0c6eb5aa0bccc10e9,Arid Viper: iOS Hash (Mach-O),2021-04-21
+md5,4a3ba18ecc4b74d4321912882e175976,Arid Viper: iOS Hash (Mach-O),2021-04-21
+md5,a7a07b5c9d606fbc5480ebd5acd2cf1d,Arid Viper: Android Hash,2021-04-21
+md5,64034ca28c0844690f0a195534fff168,Arid Viper: Android Hash,2021-04-21
+md5,58333095cd9c36b7388901ce997baa0c,Arid Viper: Android Hash,2021-04-21
+md5,82254d20e63491be3dfcdc0ad9a9dc6b,Arid Viper: Android Hash,2021-04-21
+md5,250da45d3c509420836958547c8496ab,Arid Viper: Android Hash,2021-04-21
+md5,6b2970664cac51054906983f97bd5419,Arid Viper: Android Hash,2021-04-21
+md5,c3a7779e3eee4885078e03601fb2648b,Arid Viper: Android Hash,2021-04-21
+md5,dd8485d87d8998d47de4f5dfcc9213e1,Arid Viper: Android Hash,2021-04-21
+md5,8b48cec7cb30ff0f02b06c51aa15f24f,Arid Viper: Android Hash,2021-04-21
+md5,8b074a0c693d287fca74231d2d6d3a99,Arid Viper: Android Hash,2021-04-21
+md5,a913d9d9dfc7670df5f3a235b1398be8,Arid Viper: Micropsia Hash (Micropsia),2021-04-21
+md5,6e7b5c71f7ea462c47dc992090cd4d58,Arid Viper: Micropsia Hash (Primewire),2021-04-21
+md5,7ea20c7c999bbd59e9b90309c0afa972,Arid Viper: Micropsia Hash (Fgref),2021-04-21
+md5,1507f7ecc5fe8ef4c90c853d64e1a9f9,Arid Viper: Micropsia Hash (Sears),2021-04-21
+md5,bbe4dddc09dcef160db0fd4c24c4f052,Arid Viper: Micropsia Hash (Rahman),2021-04-21
+md5,e8effd3ad2069ff8ff6344b85fc12dd6,Arid Viper: Micropsia Hash (Pierogi),2021-04-21
+md5,ca1d9908f32ee5c0bdd9b4efec79108f,Arid Viper: Micropsia Hash (PyMicropsia),2021-04-21
+md5,7833c0f413c1611f7281ac303bcef4b3,Arid Viper: Micropsia Hash (Glasswire),2021-04-21
