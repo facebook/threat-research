@@ -1,0 +1,86 @@
+[
+	{
+		"id" : "2022_malicious_mobile_apps",
+		"added_ds" : "2022-10-04",
+		"reported_ds" : "2022-10-03",
+		"reference_urls" : ["https://about.fb.com/news/2022/10/protecting-people-from-malicious-account-compromise-apps/"],
+		"indicators" : {
+			"csv_files" : ["indicators/csv/2022_malicious_mobile_apps.csv"],
+			"json_files" : ["indicators/json/2022_malicious_mobile_apps.json"],
+			"tsv_files" : ["indicators/tsv/2022_malicious_mobile_apps.tsv"]
+		},
+		"signatures" : {
+			"yara_files" : []
+		}
+	},
+	{
+		"id" : "2022_09_removing_coordinated_inauthentic_behavior_from_china_and_russia",
+		"added_ds" : "2022-10-11",
+		"reported_ds" : "2022-09-27",
+		"reference_urls" : ["https://about.fb.com/news/2022/09/removing-coordinated-inauthentic-behavior-from-china-and-russia/"],
+		"indicators" : {
+			"csv_files" : ["indicators/csv/2022_09_removing_coordinated_inauthentic_behavior_from_china_and_russia.csv"],
+			"json_files" : ["indicators/json/2022_09_removing_coordinated_inauthentic_behavior_from_china_and_russia.json"],
+			"tsv_files" : ["indicators/tsv/2022_09_removing_coordinated_inauthentic_behavior_from_china_and_russia.tsv"]
+		},
+		"signatures" : {
+			"yara_files" : []
+		}
+	},
+	{
+		"id" : "2022_08_metas_adversarial_threat_report_q2",
+		"added_ds" : "2022-10-11",
+		"reported_ds" : "2022-08-04",
+		"reference_urls" : ["https://about.fb.com/news/2022/08/metas-adversarial-threat-report-q2-2022/"],
+		"indicators" : {
+			"csv_files" : ["indicators/csv/2022_08_metas_adversarial_threat_report_q2.csv"],
+			"json_files" : ["indicators/json/2022_08_metas_adversarial_threat_report_q2.json"],
+			"tsv_files" : ["indicators/tsv/2022_08_metas_adversarial_threat_report_q2.tsv"]
+		},
+		"signatures" : {
+			"yara_files" : ["signatures/yara/2022_08_metas_adversarial_threat_report_q2.yara"]
+		}
+	},
+	{
+		"id" : "2022_04_metas_adversarial_threat_report_q1",
+		"added_ds" : "2022-10-12",
+		"reported_ds" : "2022-04-07",
+		"reference_urls" : ["https://about.fb.com/news/2022/04/metas-adversarial-threat-report-q1-2022/"],
+		"indicators" : {
+			"csv_files" : ["indicators/csv/2022_04_metas_adversarial_threat_report_q1.csv"],
+			"json_files" : ["indicators/json/2022_04_metas_adversarial_threat_report_q1.json"],
+			"tsv_files" : ["indicators/tsv/2022_04_metas_adversarial_threat_report_q1.tsv"]
+		},
+		"signatures" : {
+			"yara_files" : ["signatures/yara/2022_04_metas_adversarial_threat_report_q1.yara"]
+		}
+	},
+	{
+		"id" : "2021_11_action_against_hackers_in_pakistan_and_syria",
+		"added_ds" : "2022-10-10",
+		"reported_ds" : "2021-11-16",
+		"reference_urls" : ["https://about.fb.com/news/2021/11/taking-action-against-hackers-in-pakistan-and-syria/"],
+		"indicators" : {
+			"csv_files" : ["indicators/csv/2021_11_action_against_hackers_in_pakistan_and_syria.csv"],
+			"json_files" : ["indicators/json/2021_11_action_against_hackers_in_pakistan_and_syria.json"],
+			"tsv_files" : ["indicators/tsv/2021_11_action_against_hackers_in_pakistan_and_syria.tsv"]
+		},
+		"signatures" : {
+			"yara_files" : []
+		}
+	},
+	{
+		"id" : "2021_07_taking_action_against_hackers_in_iran",
+		"added_ds" : "2022-10-11",
+		"reported_ds" : "2021-07-15",
+		"reference_urls" : ["https://about.fb.com/news/2021/07/taking-action-against-hackers-in-iran/"],
+		"indicators" : {
+			"csv_files" : ["indicators/csv/2021_07_taking_action_against_hackers_in_iran.csv"],
+			"json_files" : ["indicators/json/2021_07_taking_action_against_hackers_in_iran.json"],
+			"tsv_files" : ["indicators/tsv/2021_07_taking_action_against_hackers_in_iran.tsv"]
+		},
+		"signatures" : {
+			"yara_files" : []
+		}
+	}
+]

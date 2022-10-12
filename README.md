@@ -23,6 +23,26 @@ This repository contains indicators and methods for detecting malware and other 
 * `cib_url` - A URL associated with Coordinated Inauthentic Behavior (CIB)
 * `telegram_url` - A URL to a Telegram Channel
 
+## Index File Format
+The file `index.json` can be used to programatically consume our indicators. The file is JSON formatted and contains an array of JSON objects, one for each "entry" in this repository. All paths in this file are relative to the root of the repo. The schema is as follows:
+
+```json
+{
+		"id" : "id_of_the_entry",
+		"added_ds" : "yyyy-mm-dd that this entry was added to the repo",
+		"reported_ds" : "yyyy-mm-dd that this entry was first reported by Meta",
+		"reference_urls" : ["Array of URLs where you can learn more"],
+		"indicators" : {
+			"csv_files" : ["paths to CSV files associated with this entry"],
+			"json_files" : ["paths to JSON files associated with this entry"],
+			"tsv_files" : ["paths to TSV files associated with this entry"]
+		},
+		"signatures" : {
+			"yara_files" : ["paths to YARA files associated with this entry"]
+		}
+	}
+```
+
 ## FAQ
 ### Why are you releasing this?
 Please see https://about.fb.com/news/2022/10/protecting-people-from-malicious-account-compromise-apps/ to learn more
