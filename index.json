@@ -124,5 +124,19 @@
 		"signatures" : {
 			"yara_files" : []
 		}
+	},
+	{
+		"id" : "2020_12_taking_action_against_hackers_in_bangladesh_and_vietnam",
+		"added_ds" : "2022-10-12",
+		"reported_ds" : "2020-12-10",
+		"reference_urls" : ["https://about.fb.com/news/2020/12/taking-action-against-hackers-in-bangladesh-and-vietnam/"],
+		"indicators" : {
+			"csv_files" : ["indicators/csv/2020_12_taking_action_against_hackers_in_bangladesh_and_vietnam.csv"],
+			"json_files" : ["indicators/json/2020_12_taking_action_against_hackers_in_bangladesh_and_vietnam.json"],
+			"tsv_files" : ["indicators/tsv/2020_12_taking_action_against_hackers_in_bangladesh_and_vietnam.tsv"]
+		},
+		"signatures" : {
+			"yara_files" : ["signatures/yara/2020_12_taking_action_against_hackers_in_bangladesh_and_vietnam.yara"]
+		}
 	}
 ]
