@@ -28,19 +28,19 @@ The file `index.json` can be used to programatically consume our indicators. The
 
 ```json
 {
-		"id" : "id_of_the_entry",
-		"added_ds" : "yyyy-mm-dd that this entry was added to the repo",
-		"reported_ds" : "yyyy-mm-dd that this entry was first reported by Meta",
-		"reference_urls" : ["Array of URLs where you can learn more"],
-		"indicators" : {
-			"csv_files" : ["paths to CSV files associated with this entry"],
-			"json_files" : ["paths to JSON files associated with this entry"],
-			"tsv_files" : ["paths to TSV files associated with this entry"]
-		},
-		"signatures" : {
-			"yara_files" : ["paths to YARA files associated with this entry"]
-		}
+	"id" : "id_of_the_entry",
+	"added_ds" : "yyyy-mm-dd that this entry was added to the repo",
+	"reported_ds" : "yyyy-mm-dd that this entry was first reported by Meta",
+	"reference_urls" : ["Array of URLs where you can learn more"],
+	"indicators" : {
+		"csv_files" : ["paths to CSV files associated with this entry"],
+		"json_files" : ["paths to JSON files associated with this entry"],
+		"tsv_files" : ["paths to TSV files associated with this entry"]
+	},
+	"signatures" : {
+		"yara_files" : ["paths to YARA files associated with this entry"]
 	}
+}
 ```
 
 ## FAQ
