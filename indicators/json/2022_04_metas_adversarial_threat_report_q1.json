@@ -1,0 +1,476 @@
+[
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "bnt2.live",
+    "comment": "UNC788, Iran",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "archery.dedyn.io",
+    "comment": "UNC788, Iran",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "market.vinam.me",
+    "comment": "UNC788, Iran",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "signin.dedyn.io",
+    "comment": "UNC788, Iran",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "Market.dedyn.io",
+    "comment": "UNC788, Iran",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "md5",
+    "indicator_value": "43535540e94b39279af925e9548dce7f",
+    "comment": "UNC788, Iran",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "md5",
+    "indicator_value": "9b91427d195b8b7e75fbbc29a798bede",
+    "comment": "UNC788, Iran",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "md5",
+    "indicator_value": "aaa55f1e48aba8856661fedc0074e81a",
+    "comment": "UNC788, Iran",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "md5",
+    "indicator_value": "6e0ec6bd0bef489c83c2dce4876de5c8",
+    "comment": "UNC788, Iran",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "md5",
+    "indicator_value": "70875705e8bc3887cec4ef1873cdb152",
+    "comment": "UNC788, Iran",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "md5",
+    "indicator_value": "aa7330d2d360cac61394843d8af730bb",
+    "comment": "UNC788, Iran",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "md5",
+    "indicator_value": "ab533be4ff9c99e8a03bc4cd413badb6",
+    "comment": "UNC788, Iran",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "alharbitelecom.co",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "apply-jobs.com",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "applytalents.com",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "appslocallogin.online",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "careers-finder.com",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "cloudgoogle.co",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "cortanaservice.com",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "cortanaupdate.co",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "defenderupdate.ddns.net",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "edge-cloudservices.com",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "elecresearch.org",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "enerflex.ddns.net",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "enerflex.org",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "etisalatonline.com",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "exprogroup.org",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "freechess.live",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "funnychess.online",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "getadobe.ddns.net",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "getadobe.net",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "globaltalent.in",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "googleservices.co",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "googleupdate.co",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "helpdesk-product.com",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "khaleejtimes.co",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "librarycollection.org",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "linkedinz.me",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "listen-books.com",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "lukoil.in",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "mastergatevpn.com",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "microsoftcdn.co",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "microsoftdefender.info",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "microsoftedgesh.info",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "mideasthiring.com",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "office-shop.me",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "onedrivelive.me",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "onedriveupdate.net",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "online-audible.com",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "online-chess.live",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "outlookde.live",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "outlookdelivery.com",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "remgrogroup.com",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "saipem.org",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "sauditourismguide.com",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "savemoneytrick.com",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "sharepointnotify.com",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "sparrowsgroup.org",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "supportskype.com",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "talent-recruitment.org",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "talktalky.azurewebsites.net",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "thefreemovies.net",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "updateddns.ddns.net",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "updatedefender.net",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "updatedns.ddns.net",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "updateservices.co",
+    "comment": "Previously unreported group (Iran)",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "localadmin.online",
+    "comment": "Azerbaijan",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "localadmin.ru",
+    "comment": "Azerbaijan",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "analyzeryandex.000webhostapp.com",
+    "comment": "Azerbaijan",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "vote2021.w3spaces.com",
+    "comment": "Azerbaijan",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "phishing_url",
+    "indicator_value": "localadmin.online/votes/security",
+    "comment": "Azerbaijan",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "phishing_url",
+    "indicator_value": "localadmin.online/vote",
+    "comment": "Azerbaijan",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "phishing_url",
+    "indicator_value": "localadmin.online/vote/fb/login.html",
+    "comment": "Azerbaijan",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "latinoamericareporta.com",
+    "comment": "CIB: Costa Rica, El Salvador",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "revistadcr.com",
+    "comment": "CIB: Costa Rica, El Salvador",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "kavkazru.press",
+    "comment": "CIB: Russia, Ukraine",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "politica.in.ua",
+    "comment": "CIB: Russia, Ukraine",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "monitor-ua.com",
+    "comment": "CIB: Russia, Ukraine",
+    "ds": "2022-04-07"
+  },
+  {
+    "indicator_type": "domain_name",
+    "indicator_value": "ukraine2day.com",
+    "comment": "CIB: Russia, Ukraine",
+    "ds": "2022-04-07"
+  }
+]
