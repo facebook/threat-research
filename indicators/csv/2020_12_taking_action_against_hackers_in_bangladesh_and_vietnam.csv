@@ -1,0 +1,11 @@
+indicator_type,indicator_value,comment,ds
+sha256,768510fa9eb807bba9c3dcb3c7f87b771e20fa3d81247539e9ea4349205e39eb,APT32: Malware Hash,2020-12-10
+sha256,69730f2c2bb9668a17f8dfa1f1523e0e1e997ba98f027ce98f5cbaa869347383,APT32: Malware Hash,2020-12-10
+domain_name,tocaoonline.com,APT32: Domain,2020-12-10
+domain_name,qh2020.org,APT32: Domain,2020-12-10
+domain_name,tinmoivietnam.com,APT32: Domain,2020-12-10
+domain_name,nhansudaihoi13.org,APT32: Domain,2020-12-10
+domain_name,chatluongvacuocsong.vn,APT32: Domain,2020-12-10
+domain_name,tocaoonline.org,APT32: Domain,2020-12-10
+domain_name,facebookdeck.com,APT32: Domain,2020-12-10
+domain_name,thundernews.org,APT32: Domain,2020-12-10

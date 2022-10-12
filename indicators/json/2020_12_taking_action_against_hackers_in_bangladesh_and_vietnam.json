@@ -1,0 +1,62 @@
+[
+    {
+        "indicator_type": "sha256",
+        "indicator_value": "768510fa9eb807bba9c3dcb3c7f87b771e20fa3d81247539e9ea4349205e39eb",
+        "comment": "APT32: Malware Hash",
+        "ds": "2020-12-10"
+    },
+    {
+        "indicator_type": "sha256",
+        "indicator_value": "69730f2c2bb9668a17f8dfa1f1523e0e1e997ba98f027ce98f5cbaa869347383",
+        "comment": "APT32: Malware Hash",
+        "ds": "2020-12-10"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "tocaoonline.com",
+        "comment": "APT32: Domain",
+        "ds": "2020-12-10"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "qh2020.org",
+        "comment": "APT32: Domain",
+        "ds": "2020-12-10"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "tinmoivietnam.com",
+        "comment": "APT32: Domain",
+        "ds": "2020-12-10"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "nhansudaihoi13.org",
+        "comment": "APT32: Domain",
+        "ds": "2020-12-10"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "chatluongvacuocsong.vn",
+        "comment": "APT32: Domain",
+        "ds": "2020-12-10"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "tocaoonline.org",
+        "comment": "APT32: Domain",
+        "ds": "2020-12-10"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "facebookdeck.com",
+        "comment": "APT32: Domain",
+        "ds": "2020-12-10"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "thundernews.org",
+        "comment": "APT32: Domain",
+        "ds": "2020-12-10"
+    }
+]
