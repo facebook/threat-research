@@ -110,5 +110,19 @@
 		"signatures" : {
 			"yara_files" : []
 		}
+	},
+	{
+		"id" : "2021_03_taking_action_against_hackers_in_china",
+		"added_ds" : "2022-10-12",
+		"reported_ds" : "2021-03-24",
+		"reference_urls" : ["https://about.fb.com/news/2021/03/taking-action-against-hackers-in-china/"],
+		"indicators" : {
+			"csv_files" : ["indicators/csv/2021_03_taking_action_against_hackers_in_china.csv"],
+			"json_files" : ["indicators/json/2021_03_taking_action_against_hackers_in_china.json"],
+			"tsv_files" : ["indicators/tsv/2021_03_taking_action_against_hackers_in_china.tsv"]
+		},
+		"signatures" : {
+			"yara_files" : []
+		}
 	}
 ]
