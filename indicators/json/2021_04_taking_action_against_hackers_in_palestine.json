@@ -1,0 +1,1460 @@
+[
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "news-fbcb4.firebaseio.com",
+        "comment": "PSS Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "news-fbcb4.appspot.com",
+        "comment": "PSS Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "chaty-98547.firebaseio.com",
+        "comment": "PSS Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "chaty-98547.appspot.com",
+        "comment": "PSS Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "jamila-c8420.firebaseio.com",
+        "comment": "PSS Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "jamila-c8420.appspot.com",
+        "comment": "PSS Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "showra-22501.firebaseio.com",
+        "comment": "PSS Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "showra-22501.appspot.com",
+        "comment": "PSS Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "goodwork-25869.firebaseio.com",
+        "comment": "PSS Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "goodwork-25869.appspot.com",
+        "comment": "PSS Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "advance-chat-app.firebaseio.com",
+        "comment": "PSS Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "advance-chat-app.appspot.com",
+        "comment": "PSS Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "filtersapp-715ee.firebaseio.com",
+        "comment": "PSS Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "filtersapp-715ee.appspot.com",
+        "comment": "PSS Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "humanrights-1398b.firebaseio.com",
+        "comment": "PSS Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "humanrights-1398b.appspot.com",
+        "comment": "PSS Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "jamilabouhaird-c0935.firebaseio.com",
+        "comment": "PSS Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "jamilabouhaird-c0935.appspot.com",
+        "comment": "PSS Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "hotchat-f0c0e.appspot.com",
+        "comment": "PSS Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "hotnewchat.appspot.com",
+        "comment": "PSS Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "sha256",
+        "indicator_value": "aeb0c38219e714ab881d0065b9fc1915ba84ad5b86916a82814d056f1dfaf66d",
+        "comment": "PSS Android Malware Hash",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "sha256",
+        "indicator_value": "3c21c0f64ef7b606abb73b9574d0d66895e180e6d1cf2ad21addd5ade79b69fb",
+        "comment": "PSS Android Malware Hash",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "sha256",
+        "indicator_value": "d2787aff6e827809b836e62b06cca68bec92b3e2144f132a0015ce397cf3cac2",
+        "comment": "PSS Android Malware Hash",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "sha256",
+        "indicator_value": "2580f7afb4746b223b14aceab76bd8bc2e4366bfa55ebf203de2715176032525",
+        "comment": "PSS Android Malware Hash",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "sha256",
+        "indicator_value": "f7ea82e4c329bf8e29e9da37fcaf35201dd79c2fc55cc0feb88aedf0b2d26ec2",
+        "comment": "PSS Android Malware Hash",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "sha256",
+        "indicator_value": "0540051935145fb1e3f9361ec55b62a759ce6796c1f355249805d186046328dc",
+        "comment": "PSS Android Malware Hash",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "sha256",
+        "indicator_value": "03de278ec4c4855b885520a377f8b1df462a1d8a4b57b492b3b052aafe509793",
+        "comment": "PSS Android Malware Hash",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "sha256",
+        "indicator_value": "fe77e052dc1a8ebea389bc0d017191e0f41d8e47d034c30df95e3d0dc33cfe10",
+        "comment": "PSS Android Malware Hash",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "sha256",
+        "indicator_value": "6356d55c79a82829c949a46c762f9bb4ca53da01a304b13b362a8a9cab20d4d2",
+        "comment": "PSS Android Malware Hash",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "sha256",
+        "indicator_value": "9a53506c429fa4ff9113b2cbd37d96c708b4ebb8f3424c1b7f6b05ef678f2230",
+        "comment": "PSS Android Malware Hash",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "sha256",
+        "indicator_value": "bf61c078157dd7523cb580672273190de5de3d41577f5d66c5afcdfeade09213",
+        "comment": "PSS Android Malware Hash",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "sha256",
+        "indicator_value": "154cb010e8ac4c50a47f4b218c133b5c7d059f5aff4c2820486e0ae511966e89",
+        "comment": "PSS Android Malware Hash",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "sha256",
+        "indicator_value": "44ccafb69e61139d9107a87f58133c43b8586931faf620c38c1824057d66d614",
+        "comment": "PSS Android Malware Hash",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "lion20810397.ddns.net",
+        "comment": "SpyNote C2",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "camera.dvrcam.info",
+        "comment": "PSS Windows Malware C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "facebooks.ddns.me",
+        "comment": "PSS Windows Malware C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "google.loginto.me",
+        "comment": "PSS Windows Malware C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "sha256",
+        "indicator_value": "05320c7348c156f0a98907d2b1527ff080eae36437d58735f2822d9f42f5d273",
+        "comment": "PSS Windows Malware Hash",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "app-chat1.atwebpages.com",
+        "comment": "PSS Android Malware DL Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "app-showchat.atwebpages.com",
+        "comment": "PSS Android Malware DL Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "showra-chat.atwebpages.com",
+        "comment": "PSS Android Malware DL Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "url",
+        "indicator_value": "sites.google.com/view/cake-maker/mandms",
+        "comment": "Arid Viper: First hop C2 URL",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "url",
+        "indicator_value": "sites.google.com/view/claudia-rose/get_page",
+        "comment": "Arid Viper: First hop C2 URL",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "url",
+        "indicator_value": "sites.google.com/view/brandon-clarkson/access_page",
+        "comment": "Arid Viper: First hop C2 URL",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "url",
+        "indicator_value": "sites.google.com/view/amber-stack/valid",
+        "comment": "Arid Viper: First hop C2 URL",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "url",
+        "indicator_value": "sites.google.com/view/john-hernandez/path_page",
+        "comment": "Arid Viper: First hop C2 URL",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "url",
+        "indicator_value": "sites.google.com/view/jasmine-king/new_page",
+        "comment": "Arid Viper: First hop C2 URL",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "url",
+        "indicator_value": "sites.google.com/view/geo-taro/stacks",
+        "comment": "Arid Viper: First hop C2 URL",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "url",
+        "indicator_value": "sites.google.com/view/charlok/adlov",
+        "comment": "Arid Viper: First hop C2 URL",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "magicchat-1f275.firebaseio.com",
+        "comment": "Arid Viper: iOS Firebase Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "dash-chat-c02b3.firebaseio.com",
+        "comment": "Arid Viper: Android Firebase Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "dash-chat-c02b3.appspot.com",
+        "comment": "Arid Viper: Android Firebase Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "hidden-chat-e58d7.firebaseio.com",
+        "comment": "Arid Viper: Android Firebase Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "hidden-chat-e58d7.appspot.com",
+        "comment": "Arid Viper: Android Firebase Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "calculator-1e016.firebaseio.com",
+        "comment": "Arid Viper: Android Firebase Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "calculator-1e016.appspot.com",
+        "comment": "Arid Viper: Android Firebase Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "samehnew-10a7c.firebaseio.com",
+        "comment": "Arid Viper: Android Firebase Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "samehnew-10a7c.appspot.com",
+        "comment": "Arid Viper: Android Firebase Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "play-store-51182.firebaseio.com",
+        "comment": "Arid Viper: Android Firebase Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "play-store-51182.appspot.com",
+        "comment": "Arid Viper: Android Firebase Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "stand-by-97c5c.firebaseio.com",
+        "comment": "Arid Viper: Android Firebase Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "stand-by-97c5c.appspot.com",
+        "comment": "Arid Viper: Android Firebase Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "es-last-telegram.firebaseio.com",
+        "comment": "Arid Viper: Android Firebase Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "es-last-telegram.appspot.com",
+        "comment": "Arid Viper: Android Firebase Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "winetalk-9ff2d.firebaseio.com",
+        "comment": "Arid Viper: Android Firebase Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "winetalk-9ff2d.appspot.com",
+        "comment": "Arid Viper: Android Firebase Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "moone-b9497.firebaseio.com",
+        "comment": "Arid Viper: Android Firebase Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "moone-b9497.appspot.com",
+        "comment": "Arid Viper: Android Firebase Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "nachat-152615.firebaseio.com",
+        "comment": "Arid Viper: Android Firebase Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "nachat-152615.appspot.com",
+        "comment": "Arid Viper: Android Firebase Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "chat-14bb1.firebaseio.com",
+        "comment": "Arid Viper: Android Firebase Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "chat-14bb1.appspot.com",
+        "comment": "Arid Viper: Android Firebase Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "kevin-good.top",
+        "comment": "Arid Viper: Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "marty-colvard.top",
+        "comment": "Arid Viper: Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "anna-sanchez.online",
+        "comment": "Arid Viper: Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "robert-conley.space",
+        "comment": "Arid Viper: Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "wendy-johnston.pw",
+        "comment": "Arid Viper: Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "jennifer-marler.pw",
+        "comment": "Arid Viper: Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "goerge-amper.website",
+        "comment": "Arid Viper: Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "stacks-zadar.website",
+        "comment": "Arid Viper: Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "joe-rumley.pw",
+        "comment": "Arid Viper: Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "richardbeman.info",
+        "comment": "Arid Viper: Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "vickeryduncan.site",
+        "comment": "Arid Viper: Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "moggfelicio.info",
+        "comment": "Arid Viper: Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "stevensmalley.pro",
+        "comment": "Arid Viper: Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "kentporter.site",
+        "comment": "Arid Viper: Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "chad-jessie.info",
+        "comment": "Arid Viper: Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "lordblackwood.club",
+        "comment": "Arid Viper: Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "julie-parker.top",
+        "comment": "Arid Viper: Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "tim-jordan.info",
+        "comment": "Arid Viper: Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "hannah-parsons.info",
+        "comment": "Arid Viper: Android C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "social-store.online",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "power-messenger.com",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "dash-chat.site",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "claytoniosep.live",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "chat-update.live",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "apps-store.online",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "williedvazquez.club",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "paulycongalton.pro",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "goo-ply-download.com",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "stand-by.site",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "jayboyadams.club",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "social-store.online",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "fast-download.pro",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "sandra-franklin.fun",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "hidden-chat.online",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "wannameet.co",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "loyronald.site",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "gp-market.com",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "beauty-msg.com",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "melissa-garcia.site",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "apps-download.store",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "smart-messenger.online",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "mix-store.online",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "products-office.online",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "wine-talk.online",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "day-on.site",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "side-talk.com",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "app-market.online",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "telegrom.org",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "vista-chat.com",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "lets-msger.fun",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "hookupdating.club",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "hookupmsg.club",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "fire-upload.host",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "files-store.host",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "heidi-minaya.host",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "sha-talk.co",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "whispers-talk.site",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "pure-talk.site",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "digital-apps.store",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "amanda-hart.website",
+        "comment": "Arid Viper: Android Malware Hosting Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "marwapetersson.info",
+        "comment": "Arid Viper: Micropsia C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "norayowell.info",
+        "comment": "Arid Viper: Micropsia C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "ansonwhitmore.live",
+        "comment": "Arid Viper: Micropsia C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "nicoledotson.icu",
+        "comment": "Arid Viper: Micropsia C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "mikkelbourke.pro",
+        "comment": "Arid Viper: Micropsia C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "belcherjacky.info",
+        "comment": "Arid Viper: Micropsia C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "overingtonray.info",
+        "comment": "Arid Viper: Micropsia C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "scorerabbate.site",
+        "comment": "Arid Viper: Micropsia C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "irenewansley.icu",
+        "comment": "Arid Viper: Micropsia C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "judystevenson.info",
+        "comment": "Arid Viper: Micropsia C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "gallant-william.icu",
+        "comment": "Arid Viper: Micropsia C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "linda-callaghan.icu",
+        "comment": "Arid Viper: Micropsia C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "url",
+        "indicator_value": "zc.pgyer.com/5SRZ",
+        "comment": "Arid Viper: iOS Malware Hosting Site",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "url",
+        "indicator_value": "zc.pgyer.com/avwvei",
+        "comment": "Arid Viper: iOS Malware Hosting Site",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "magic-store.online",
+        "comment": "Arid Viper: iOS Malware Hosting Site",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "magic4smile.com",
+        "comment": "Arid Viper: iOS Malware Hosting Site",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "magicsmile.fun",
+        "comment": "Arid Viper: iOS Malware Hosting Site",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "magic-smile.fun",
+        "comment": "Arid Viper: iOS Malware Hosting Site",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "magic-smile.co",
+        "comment": "Arid Viper: iOS Malware Hosting Site",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "margarita-smith.host",
+        "comment": "Arid Viper: iOS Malware C2 Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "fasibauik.co",
+        "comment": "Arid Viper: Credential Theft Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "fasebcak.co",
+        "comment": "Arid Viper: Credential Theft Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "fasebcck.com",
+        "comment": "Arid Viper: Credential Theft Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "fasebcoki.com",
+        "comment": "Arid Viper: Credential Theft Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "fasebcak.com",
+        "comment": "Arid Viper: Credential Theft Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "fasbcaok.com",
+        "comment": "Arid Viper: Credential Theft Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "fasebaak.com",
+        "comment": "Arid Viper: Credential Theft Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "fasebaok.co",
+        "comment": "Arid Viper: Credential Theft Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "fasebaook.com",
+        "comment": "Arid Viper: Credential Theft Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "fasebaok.com",
+        "comment": "Arid Viper: Credential Theft Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "log-yoahao.co",
+        "comment": "Arid Viper: Credential Theft Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "log-yoheo.info",
+        "comment": "Arid Viper: Credential Theft Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "fecolooklegon.000webhostapp.com",
+        "comment": "Arid Viper: Credential Theft Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "faseback.com",
+        "comment": "Arid Viper: Credential Theft Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "fcaibaak.com",
+        "comment": "Arid Viper: Credential Theft Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "fasitoak.com",
+        "comment": "Arid Viper: Credential Theft Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "iklood.co",
+        "comment": "Arid Viper: Credential Theft Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "ikoad.co",
+        "comment": "Arid Viper: Credential Theft Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "enti5abat.pw",
+        "comment": "Arid Viper: Credential Theft Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "vista-chat.com",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "lets-msger.fun",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "hookupdating.club",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "fire-upload.host",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "files-store.host",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "hamas31.000webhostapp.com",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "krasil-anthony.icu",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "stikerscloud.com",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "donnamfelton.club",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "accounts-goog-le.com",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "palpolice.icu",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "moi-pna.pw",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "shortesly.website",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "putanything.com",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "uri-ready.website",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "url-redirect.website",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "cathy-seliver.icu",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "wab-wahtsapp.com",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "networkmiddleast.net",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "robertking.site",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "jodiecarey.live",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "stevenfloyd.icu",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "melissa-gonzalez.com",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "jeremy-tanner.live",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "frowtisice.club",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "ubanks.icu",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "rythergannon.info",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "isaac-rowland.space",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "charmainellauzier.host",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "amyacunningham.us",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "lonakodas.club",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "skelly-chester.icu",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "alttaeb.info",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "cynthiaecook.club",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "alishatnixon.site",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "randy-severs.info",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "spartacuscrixus.club",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "advanced-files.club",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "leticialittle.pro",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "bourneliam.info",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "katesalinas.icu",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "autlook.live",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "darrell-ferris.site",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "tommy-swope.site",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "herman-poore.info",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "kimberlycamp.club",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "enough-hamas.000webhostapp.com",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "hadfnews.000webhostapp.com",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "vedioplayers2020.000webhostapp.com",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "drivesuplouders.000webhostapp.com",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "touch.ps",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "gifts-store.net",
+        "comment": "Arid Viper: Suspicious/Uncategorized Domain",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "md5",
+        "indicator_value": "e567efd5c800c5b0c6eb5aa0bccc10e9",
+        "comment": "Arid Viper: iOS Hash (Mach-O)",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "md5",
+        "indicator_value": "4a3ba18ecc4b74d4321912882e175976",
+        "comment": "Arid Viper: iOS Hash (Mach-O)",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "md5",
+        "indicator_value": "a7a07b5c9d606fbc5480ebd5acd2cf1d",
+        "comment": "Arid Viper: Android Hash",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "md5",
+        "indicator_value": "64034ca28c0844690f0a195534fff168",
+        "comment": "Arid Viper: Android Hash",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "md5",
+        "indicator_value": "58333095cd9c36b7388901ce997baa0c",
+        "comment": "Arid Viper: Android Hash",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "md5",
+        "indicator_value": "82254d20e63491be3dfcdc0ad9a9dc6b",
+        "comment": "Arid Viper: Android Hash",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "md5",
+        "indicator_value": "250da45d3c509420836958547c8496ab",
+        "comment": "Arid Viper: Android Hash",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "md5",
+        "indicator_value": "6b2970664cac51054906983f97bd5419",
+        "comment": "Arid Viper: Android Hash",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "md5",
+        "indicator_value": "c3a7779e3eee4885078e03601fb2648b",
+        "comment": "Arid Viper: Android Hash",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "md5",
+        "indicator_value": "dd8485d87d8998d47de4f5dfcc9213e1",
+        "comment": "Arid Viper: Android Hash",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "md5",
+        "indicator_value": "8b48cec7cb30ff0f02b06c51aa15f24f",
+        "comment": "Arid Viper: Android Hash",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "md5",
+        "indicator_value": "8b074a0c693d287fca74231d2d6d3a99",
+        "comment": "Arid Viper: Android Hash",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "md5",
+        "indicator_value": "a913d9d9dfc7670df5f3a235b1398be8",
+        "comment": "Arid Viper: Micropsia Hash (Micropsia)",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "md5",
+        "indicator_value": "6e7b5c71f7ea462c47dc992090cd4d58",
+        "comment": "Arid Viper: Micropsia Hash (Primewire)",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "md5",
+        "indicator_value": "7ea20c7c999bbd59e9b90309c0afa972",
+        "comment": "Arid Viper: Micropsia Hash (Fgref)",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "md5",
+        "indicator_value": "1507f7ecc5fe8ef4c90c853d64e1a9f9",
+        "comment": "Arid Viper: Micropsia Hash (Sears)",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "md5",
+        "indicator_value": "bbe4dddc09dcef160db0fd4c24c4f052",
+        "comment": "Arid Viper: Micropsia Hash (Rahman)",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "md5",
+        "indicator_value": "e8effd3ad2069ff8ff6344b85fc12dd6",
+        "comment": "Arid Viper: Micropsia Hash (Pierogi)",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "md5",
+        "indicator_value": "ca1d9908f32ee5c0bdd9b4efec79108f",
+        "comment": "Arid Viper: Micropsia Hash (PyMicropsia)",
+        "ds": "2021-04-21"
+    },
+    {
+        "indicator_type": "md5",
+        "indicator_value": "7833c0f413c1611f7281ac303bcef4b3",
+        "comment": "Arid Viper: Micropsia Hash (Glasswire)",
+        "ds": "2021-04-21"
+    }
+]

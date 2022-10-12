@@ -67,3 +67,4 @@ Under the MIT License (see `LICENSE`)
 * 2021_12_taking_action_against_surveillance_for_hire (csv, json, tsv) - https://about.fb.com/news/2021/12/taking-action-against-surveillance-for-hire/
 * 2021_11_action_against_hackers_in_pakistan_and_syria (csv, json, tsv) - https://about.fb.com/news/2021/11/taking-action-against-hackers-in-pakistan-and-syria/
 * 2021_07_taking_action_against_hackers_in_iran (csv, json, tsv) - https://about.fb.com/news/2021/07/taking-action-against-hackers-in-iran/
+* 2021_04_taking_action_against_hackers_in_palestine (csv, json, tsv) - https://about.fb.com/news/2021/04/taking-action-against-hackers-in-palestine/
