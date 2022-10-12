@@ -1,0 +1,158 @@
+[
+    {
+        "indicator_type": "md5",
+        "indicator_value": "10c1f38305792a0f925e8a2cf9482ce3",
+        "comment": "Plugin Phantom",
+        "ds": "2021-03-24"
+    },
+    {
+        "indicator_type": "md5",
+        "indicator_value": "3c0a20f0726032ad816e670971509b2d",
+        "comment": "Plugin Phantom",
+        "ds": "2021-03-24"
+    },
+    {
+        "indicator_type": "md5",
+        "indicator_value": "01fe88068e43c2276f7d8bbf54824f0f",
+        "comment": "Plugin Phantom",
+        "ds": "2021-03-24"
+    },
+    {
+        "indicator_type": "md5",
+        "indicator_value": "fd8da30dd9e45bd31af79a9652d50ece",
+        "comment": "Plugin Phantom",
+        "ds": "2021-03-24"
+    },
+    {
+        "indicator_type": "md5",
+        "indicator_value": "10748ca7648d26316b4857b6139ca93d",
+        "comment": "Plugin Phantom",
+        "ds": "2021-03-24"
+    },
+    {
+        "indicator_type": "md5",
+        "indicator_value": "a5199e6f1904f5a532a562fbb9d5abc6",
+        "comment": "Plugin Phantom",
+        "ds": "2021-03-24"
+    },
+    {
+        "indicator_type": "md5",
+        "indicator_value": "670a389a93b82ccf198dd7789a865096",
+        "comment": "Action Spy",
+        "ds": "2021-03-24"
+    },
+    {
+        "indicator_type": "md5",
+        "indicator_value": "9bc5fec740bdb4d93f2da9b2db75dc3f",
+        "comment": "Action Spy",
+        "ds": "2021-03-24"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "misran.org",
+        "comment": "Hosting PluginPhantom malware",
+        "ds": "2021-03-24"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "apkprue.info",
+        "comment": "Hosting PluginPhantom malware",
+        "ds": "2021-03-24"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "www.apkpure.bz",
+        "comment": "Hosting PluginPhantom malware",
+        "ds": "2021-03-24"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "gotossl.ml",
+        "comment": "Hosting ActionSpy malware",
+        "ds": "2021-03-24"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "geo2ipapi.org",
+        "comment": "Hosting ActionSpy malware",
+        "ds": "2021-03-24"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "anayurt.net",
+        "comment": "Hosting ActionSpy malware",
+        "ds": "2021-03-24"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "preservtyg.com",
+        "comment": "Watering hole with malicious iframe",
+        "ds": "2021-03-24"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "uhtpuerdfbnm.com",
+        "comment": "Watering hole with malicious iframe",
+        "ds": "2021-03-24"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "uyghurhaber.com",
+        "comment": "Watering hole with malicious iframe",
+        "ds": "2021-03-24"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "newyorkingsite.com",
+        "comment": "Watering hole with malicious iframe",
+        "ds": "2021-03-24"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "istiqlaihaber.com",
+        "comment": "Watering hole with malicious iframe",
+        "ds": "2021-03-24"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "uyghur-news.com",
+        "comment": "Watering hole with malicious iframe",
+        "ds": "2021-03-24"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "strunhvgpk.com",
+        "comment": "Contained malicious javascript resembling previously reported exploit code which installed INSOMNIA",
+        "ds": "2021-03-24"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "sslportservices.com",
+        "comment": "Connected to infrastructure hosting malicious javascript",
+        "ds": "2021-03-24"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "playgoog1e.com",
+        "comment": "Believed to be used to host Android malware",
+        "ds": "2021-03-24"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "www.apkhl.pw",
+        "comment": "Believed to be used to host Android malware",
+        "ds": "2021-03-24"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "uyghur-soft-market.com",
+        "comment": "Believed to be used to host Android malware",
+        "ds": "2021-03-24"
+    },
+    {
+        "indicator_type": "domain_name",
+        "indicator_value": "icptime.com",
+        "comment": "Believed to be used to host Android malware",
+        "ds": "2021-03-24"
+    }
+]
