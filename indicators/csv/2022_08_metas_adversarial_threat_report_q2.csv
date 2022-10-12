@@ -1,0 +1,53 @@
+indicator_type,indicator_value,comment,ds
+domain_name,signalpro.org,BITTER APT: Hosting Dracarys Malware,2022-08-04
+domain_name,signal-premium.org,BITTER APT: Hosting Dracarys Malware,2022-08-04
+domain_name,signalpremium.com,BITTER APT: Hosting Dracarys Malware,2022-08-04
+domain_name,telegram-pro.org,BITTER APT: Hosting Dracarys Malware,2022-08-04
+domain_name,signal-premium-app.org,BITTER APT: Dracarys Malware C2,2022-08-04
+domain_name,youtubepremiumapp.com,BITTER APT: Dracarys Malware C2,2022-08-04
+domain_name,pflix.camdvr.org,BITTER APT: Dracarys Malware C2,2022-08-04
+ip,94.140.114.22,BITTER APT: Dracarys Malware C2,2022-08-04
+domain_name,weather.play-protect.com,BITTER APT: Assessed to be attacker controlled infrastructure,2022-08-04
+domain_name,gallery.play-protect.com,BITTER APT: Assessed to be attacker controlled infrastructure,2022-08-04
+domain_name,sikhsiyasatapp.net,BITTER APT: Assessed to be attacker controlled infrastructure,2022-08-04
+domain_name,telegramapppro.org,BITTER APT: Assessed to be attacker controlled infrastructure,2022-08-04
+domain_name,play-protect.com,BITTER APT: Assessed to be attacker controlled infrastructure,2022-08-04
+domain_name,www.sikhsiyasatapp.net,BITTER APT: Assessed to be attacker controlled infrastructure,2022-08-04
+domain_name,briarapppro.org,BITTER APT: Assessed to be attacker controlled infrastructure,2022-08-04
+domain_name,islam-360-plus.com,BITTER APT: Assessed to be attacker controlled infrastructure,2022-08-04
+domain_name,converse-app.org,BITTER APT: Assessed to be attacker controlled infrastructure,2022-08-04
+domain_name,telegram-app.tech,BITTER APT: Assessed to be attacker controlled infrastructure,2022-08-04
+domain_name,appprotonvpn.com,BITTER APT: Assessed to be attacker controlled infrastructure,2022-08-04
+domain_name,linphone-app.com,BITTER APT: Assessed to be attacker controlled infrastructure,2022-08-04
+domain_name,appbriar.com,BITTER APT: Assessed to be attacker controlled infrastructure,2022-08-04
+domain_name,gosignal.org,BITTER APT: Assessed to be attacker controlled infrastructure,2022-08-04
+domain_name,app2.appvlc.com,BITTER APT: Assessed to be attacker controlled infrastructure,2022-08-04
+md5,a3d18021cd444e8fe23fffc1a6140071,BITTER APT: Signal Pro Dracarys,2022-08-04
+md5,07532dea34c87ea2c91d2e035ed5dc87,BITTER APT: Youtube Premium Dracarys,2022-08-04
+md5,e20473bea7fe5968f0a032303838b601,BITTER APT: Signal Pro Dracarys,2022-08-04
+md5,d9a39c41e9f599766b5527986e807840,BITTER APT: pflix Dracarys,2022-08-04
+md5,b06e2f95ecf7012138bee314be9baed9,BITTER APT: pflix Dracarys,2022-08-04
+domain_name,1drivestorage.com,APT36: Assessed to be actor-controlled domain hosting malware,2022-08-04
+domain_name,appsupdate.net,APT36: Assessed to be actor-controlled domain hosting malware,2022-08-04
+domain_name,archiverst.com,APT36: Assessed to be actor-controlled domain used to redirect to other actor-controlled domains,2022-08-04
+domain_name,filestudios.net,APT36: Assessed to be actor-controlled domain hosting malware,2022-08-04
+domain_name,hatvax.com,APT36: C2 for malware,2022-08-04
+domain_name,medizz.co,APT36: C2 for malware,2022-08-04
+domain_name,play.google.com.whatsapp.playapps.ga,APT36: Assessed to be actor-controlled domain hosting malware,2022-08-04
+domain_name,ratapi11223344786.azurewebsites.net,APT36: C2 for malware,2022-08-04
+domain_name,rdeskapi719543132892786.azurewebsites.net,APT36: C2 for malware,2022-08-04
+domain_name,rkarsin453287786.azurewebsites.net,APT36: C2 for malware,2022-08-04
+domain_name,secureapplication.azurewebsites.net,APT36: C2 for malware,2022-08-04
+domain_name,securechat.azurewebsites.net,APT36: C2 for malware,2022-08-04
+domain_name,shareflx.com,APT36: Assessed to be actor-controlled domain hosting malware,2022-08-04
+domain_name,shareflx.createasocialcard.top,APT36: Social card preview site that redirects to actor-controlled domain,2022-08-04
+domain_name,shareflx.social-card-share.top,APT36: Social card preview site that redirects to actor-controlled domain,2022-08-04
+domain_name,shareflx.socialpreviews.top,APT36: Social card preview site that redirects to actor-controlled domain,2022-08-04
+domain_name,storeupdates.net,APT36: Assessed to be actor-controlled domain hosting malware,2022-08-04
+domain_name,testandroidopen.azurewebsites.net,APT36: C2 for malware,2022-08-04
+domain_name,theambix.org,APT36: C2 for malware,2022-08-04
+domain_name,yoursdrive.com,APT36: Assessed to be actor-controlled domain hosting malware,2022-08-04
+sha256,5d885fd9b896c8d59dbdc6b3ae4068662544f401d98a7eba757b329714d87c45,APT36,2022-08-04
+sha256,b3510e0a8775d9ab5c8409510041dc1e7da47923d5bf3e8f0848a4a3970ffca7,APT36,2022-08-04
+sha256,7999f5af42e6a825db56aa800a6b957c19d609225cc339f12cf85dde06af3b74,APT36,2022-08-04
+sha256,5d9027c76306efd5fb57f42dbbaa26f976657a523c32d8fd3fa628ee1417d0aa,APT36,2022-08-04
