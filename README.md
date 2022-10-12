@@ -64,5 +64,6 @@ Under the MIT License (see `LICENSE`)
 * 2022_09_removing_coordinated_inauthentic_behavior_from_china_and_russia (csv, json, tsv) - https://about.fb.com/news/2022/09/removing-coordinated-inauthentic-behavior-from-china-and-russia/
 * 2022_08_metas_adversarial_threat_report_q2 (csv, json, tsv, yara) - https://about.fb.com/news/2022/08/metas-adversarial-threat-report-q2-2022/
 * 2022_04_metas_adversarial_threat_report_q1 (csv, json, tsv, yara) - https://about.fb.com/news/2022/04/metas-adversarial-threat-report-q1-2022/
+* 2021_12_taking_action_against_surveillance_for_hire (csv, json, tsv) - https://about.fb.com/news/2021/12/taking-action-against-surveillance-for-hire/
 * 2021_11_action_against_hackers_in_pakistan_and_syria (csv, json, tsv) - https://about.fb.com/news/2021/11/taking-action-against-hackers-in-pakistan-and-syria/
 * 2021_07_taking_action_against_hackers_in_iran (csv, json, tsv) - https://about.fb.com/news/2021/07/taking-action-against-hackers-in-iran/

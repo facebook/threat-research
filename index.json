@@ -56,6 +56,20 @@
 		}
 	},
 	{
+		"id" : "2021_12_taking_action_against_surveillance_for_hire",
+		"added_ds" : "2022-10-12",
+		"reported_ds" : "2021-12-16",
+		"reference_urls" : ["https://about.fb.com/news/2021/12/taking-action-against-surveillance-for-hire/"],
+		"indicators" : {
+			"csv_files" : ["indicators/csv/2021_12_taking_action_against_surveillance_for_hire.csv"],
+			"json_files" : ["indicators/json/2021_12_taking_action_against_surveillance_for_hire.json"],
+			"tsv_files" : ["indicators/tsv/2021_12_taking_action_against_surveillance_for_hire.tsv"]
+		},
+		"signatures" : {
+			"yara_files" : []
+		}
+	},
+	{
 		"id" : "2021_11_action_against_hackers_in_pakistan_and_syria",
 		"added_ds" : "2022-10-10",
 		"reported_ds" : "2021-11-16",
