@@ -3,6 +3,8 @@ This repository contains indicators and methods for detecting malware and other 
 
 ## Repository Structure
 * `indicators` - Holds indicators in CSV, TSV, and JSON formats
+* `signatures` - Hold detection signatures
+	* `signatures/yara` - YARA (https://virustotal.github.io/yara/) signatures to detect malware and other files
 
 ## Schema
 * `indicator_type` - References the type of indicator (e.g. `android_package_name`)
@@ -39,6 +41,6 @@ Under the MIT License (see `LICENSE`)
 ## Index of Filenames
 * 2022_malicious_mobile_apps (csv, json, tsv) - https://about.fb.com/news/2022/10/protecting-people-from-malicious-account-compromise-apps/
 * 2022_09_removing_coordinated_inauthentic_behavior_from_china_and_russia (csv, json, tsv) - https://about.fb.com/news/2022/09/removing-coordinated-inauthentic-behavior-from-china-and-russia/
-* 2022_08_metas_adversarial_threat_report_q2 (csv, json, tsv, yara)- https://about.fb.com/news/2022/08/metas-adversarial-threat-report-q2-2022/
+* 2022_08_metas_adversarial_threat_report_q2 (csv, json, tsv, yara) - https://about.fb.com/news/2022/08/metas-adversarial-threat-report-q2-2022/
 * 2021_11_action_against_hackers_in_pakistan_and_syria (csv, json, tsv) - https://about.fb.com/news/2021/11/taking-action-against-hackers-in-pakistan-and-syria/
 * 2021_07_taking_action_against_hackers_in_iran (csv, json, tsv) - https://about.fb.com/news/2021/07/taking-action-against-hackers-in-iran/
