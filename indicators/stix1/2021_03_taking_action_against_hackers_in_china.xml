@@ -1,0 +1,345 @@
+<stix:STIX_Package 
+	xmlns:DomainNameObj="http://cybox.mitre.org/objects#DomainNameObject-1"
+	xmlns:stixVocabs="http://stix.mitre.org/default_vocabularies-1"
+	xmlns:cyboxVocabs="http://cybox.mitre.org/default_vocabularies-2"
+	xmlns:FileObj="http://cybox.mitre.org/objects#FileObject-2"
+	xmlns:cyboxCommon="http://cybox.mitre.org/common-2"
+	xmlns:stixCommon="http://stix.mitre.org/common-1"
+	xmlns:indicator="http://stix.mitre.org/Indicator-2"
+	xmlns:stix="http://stix.mitre.org/stix-1"
+	xmlns:cybox="http://cybox.mitre.org/cybox-2"
+	xmlns:meta_stix="https://meta.com/stix"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:ds="http://www.w3.org/2000/09/xmldsig#"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	 id="meta_stix:Package-6529019c-9401-49c6-9aeb-5565a032ce0d" version="1.2">
+    <stix:Indicators>
+        <stix:Indicator id="2021_03_taking_action_against_hackers_in_china:hash-bc3dc013-8365-45ac-9cba-bc7da24959a7" timestamp="2022-10-13T21:03:25.541631+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Plugin Phantom (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-b6fa013d-3bbc-4c0b-8018-70f600b3d015">
+                <cybox:Object id="meta_stix:File-32f1be83-5c1f-4585-b954-6e79329379b1">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>10c1f38305792a0f925e8a2cf9482ce3</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_03_taking_action_against_hackers_in_china:hash-1f89aa55-f6d5-4a2f-81d0-5314d5f635ea" timestamp="2022-10-13T21:03:25.543048+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Plugin Phantom (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-08a9c927-8454-4add-a865-2387d9f5fcaf">
+                <cybox:Object id="meta_stix:File-d444acfc-15a0-4827-a4ff-5cc53d010338">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>3c0a20f0726032ad816e670971509b2d</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_03_taking_action_against_hackers_in_china:hash-72488ba5-53bd-43a6-b8cd-d894620ac389" timestamp="2022-10-13T21:03:25.543224+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Plugin Phantom (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-e8814b3c-20aa-4661-bdad-10e4cfa6197c">
+                <cybox:Object id="meta_stix:File-bd20bdd4-5801-422b-bd3c-04beaee8906a">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>01fe88068e43c2276f7d8bbf54824f0f</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_03_taking_action_against_hackers_in_china:hash-bbae30b2-cb30-44b9-a805-56a82e644391" timestamp="2022-10-13T21:03:25.543374+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Plugin Phantom (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-3d93e106-bf87-489c-89b2-b10bb3d36878">
+                <cybox:Object id="meta_stix:File-a9d819cd-149a-422e-9e5e-0b0255972f31">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>fd8da30dd9e45bd31af79a9652d50ece</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_03_taking_action_against_hackers_in_china:hash-e00e6899-580d-4ad9-9235-47367668b446" timestamp="2022-10-13T21:03:25.543526+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Plugin Phantom (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-0683b208-8ace-40d3-8256-14abf8f5e4d1">
+                <cybox:Object id="meta_stix:File-f816df50-9a01-46b4-b9c3-88f16628804f">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>10748ca7648d26316b4857b6139ca93d</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_03_taking_action_against_hackers_in_china:hash-ed159344-f92a-4009-8c13-f5abae86a873" timestamp="2022-10-13T21:03:25.543673+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Plugin Phantom (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-96533af3-e666-41b5-b4f8-2a22709f191b">
+                <cybox:Object id="meta_stix:File-f9f51a1c-77b9-4240-8c9b-19a10a67e222">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>a5199e6f1904f5a532a562fbb9d5abc6</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_03_taking_action_against_hackers_in_china:hash-ccaf6a84-a7fb-4e73-bf49-bbf5f11294fe" timestamp="2022-10-13T21:03:25.543819+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Action Spy (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-4c213917-7c4a-4c5c-a56e-bb7adb171b4a">
+                <cybox:Object id="meta_stix:File-f84af768-a3d7-45ad-af70-7178682fe354">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>670a389a93b82ccf198dd7789a865096</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_03_taking_action_against_hackers_in_china:hash-11aa02f1-ee6b-4474-819c-8df0195581bf" timestamp="2022-10-13T21:03:25.543962+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Action Spy (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-412966f1-05e2-4e32-808f-386c651116ea">
+                <cybox:Object id="meta_stix:File-c1afdd4c-e760-44e9-817d-21f5bba9673b">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>9bc5fec740bdb4d93f2da9b2db75dc3f</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_03_taking_action_against_hackers_in_china:domain_name-fcc8d1f0-d825-49e0-ac7d-4415a2fb4d3a" timestamp="2022-10-13T21:03:25.544144+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Hosting PluginPhantom malware</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-610ec483-fa6d-44aa-bd8b-4283143eaaa1">
+                <cybox:Object id="meta_stix:DomainName-a5a37e2a-49a4-47a2-b5ed-dc13eccf2d2e">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">misran.org</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_03_taking_action_against_hackers_in_china:domain_name-ec1c5055-dca9-49b3-9eb6-bb450b9c1256" timestamp="2022-10-13T21:03:25.544304+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Hosting PluginPhantom malware</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-976b7592-0ebb-45b2-a999-ee215c6d31f4">
+                <cybox:Object id="meta_stix:DomainName-11fa1d4f-9808-4ff8-859f-3ed6c395e5b5">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">apkprue.info</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_03_taking_action_against_hackers_in_china:domain_name-abd7c22c-8c51-404c-be08-7c42fe8eefd7" timestamp="2022-10-13T21:03:25.544436+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Hosting PluginPhantom malware</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-5d856b2f-ab15-4887-9864-ba27a3d45615">
+                <cybox:Object id="meta_stix:DomainName-95c77b2b-1cc5-4eb8-bace-6e77011eafe1">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">www.apkpure.bz</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_03_taking_action_against_hackers_in_china:domain_name-a17023d8-4124-4c0f-a99a-c8efc5c439af" timestamp="2022-10-13T21:03:25.544569+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Hosting ActionSpy malware</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-3e977511-5b11-4c3f-8667-e1985b78832a">
+                <cybox:Object id="meta_stix:DomainName-62b0db98-82cc-4b97-bed5-4624e4c4205e">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">gotossl.ml</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_03_taking_action_against_hackers_in_china:domain_name-89371135-e6e2-4311-9e51-e28ccd1f17e5" timestamp="2022-10-13T21:03:25.544699+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Hosting ActionSpy malware</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-43819809-9f90-4e35-8825-346857be5283">
+                <cybox:Object id="meta_stix:DomainName-e8f70a50-f1a7-457b-819a-6bbea360f0c0">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">geo2ipapi.org</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_03_taking_action_against_hackers_in_china:domain_name-9ffd2dc7-7cbb-4978-a964-8617576dcfbb" timestamp="2022-10-13T21:03:25.544828+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Hosting ActionSpy malware</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-1d671537-8a75-4e1f-876b-ffa934f8cb02">
+                <cybox:Object id="meta_stix:DomainName-f54b9cdd-43a5-4030-855f-aa325a95888e">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">anayurt.net</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_03_taking_action_against_hackers_in_china:domain_name-1eaaf583-214c-488f-8a01-928a5a2dc3a4" timestamp="2022-10-13T21:03:25.544955+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Watering hole with malicious iframe</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-3d5d2862-3db0-4e01-922a-7062a78dc097">
+                <cybox:Object id="meta_stix:DomainName-f734126b-a430-45d6-9a01-7ba2de895e3c">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">preservtyg.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_03_taking_action_against_hackers_in_china:domain_name-b5958f50-5ae1-4550-b318-10a66051f4cc" timestamp="2022-10-13T21:03:25.545084+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Watering hole with malicious iframe</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-8e2d863b-38d0-4b33-8922-a1b922dce0a0">
+                <cybox:Object id="meta_stix:DomainName-06beadc1-47ae-4c77-8438-d2b619fc016f">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">uhtpuerdfbnm.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_03_taking_action_against_hackers_in_china:domain_name-f5b2f562-4a76-48fa-b498-6b32ec760490" timestamp="2022-10-13T21:03:25.545211+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Watering hole with malicious iframe</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-26b8ec8b-6203-44ab-b15a-6bf89540c156">
+                <cybox:Object id="meta_stix:DomainName-7ae5aa9e-d150-4e39-9755-c561ecd68390">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">uyghurhaber.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_03_taking_action_against_hackers_in_china:domain_name-f69ba94f-3869-47bb-b28c-328a64480da6" timestamp="2022-10-13T21:03:25.545339+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Watering hole with malicious iframe</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-68176c7a-e778-4f48-bc69-ba99da67bbab">
+                <cybox:Object id="meta_stix:DomainName-ae7c6ef4-95cb-40be-ad3c-14554c984094">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">newyorkingsite.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_03_taking_action_against_hackers_in_china:domain_name-18b10ef5-72ef-47b3-a1bd-98222c57fefa" timestamp="2022-10-13T21:03:25.545476+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Watering hole with malicious iframe</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-26a0f649-ee35-444f-8437-5287ad741551">
+                <cybox:Object id="meta_stix:DomainName-b9c5c891-2bd7-41bd-ac94-853706ffdb0a">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">istiqlaihaber.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_03_taking_action_against_hackers_in_china:domain_name-064a8d68-aba8-4395-9fab-5ab3218a2887" timestamp="2022-10-13T21:03:25.545599+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Watering hole with malicious iframe</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-7a2d815a-2fe6-4482-8642-27912dd89645">
+                <cybox:Object id="meta_stix:DomainName-904f2a30-dc21-4948-b715-935f33a71ae0">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">uyghur-news.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_03_taking_action_against_hackers_in_china:domain_name-dccecea2-c9d0-4f1f-886b-bb6b30dca31c" timestamp="2022-10-13T21:03:25.545764+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Contained malicious javascript resembling previously reported exploit code which installed INSOMNIA</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-cc715ee8-ab7d-40ca-bf80-e0df47422592">
+                <cybox:Object id="meta_stix:DomainName-3ca8a62c-c62c-4119-93f0-7e565afcfcde">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">strunhvgpk.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_03_taking_action_against_hackers_in_china:domain_name-0ce80b86-e5b1-48ae-9495-244f1fbefb8e" timestamp="2022-10-13T21:03:25.545898+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Connected to infrastructure hosting malicious javascript</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-22f4211a-01ea-4268-b55e-934458e033e3">
+                <cybox:Object id="meta_stix:DomainName-a1f1c25e-62e0-4921-8ec2-f0e007b91572">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">sslportservices.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_03_taking_action_against_hackers_in_china:domain_name-4268e3d7-c5c8-45ee-89ac-2112bf71eb3e" timestamp="2022-10-13T21:03:25.546026+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Believed to be used to host Android malware</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-f90a0fed-92d6-4545-b86e-6ba95660cdd6">
+                <cybox:Object id="meta_stix:DomainName-61ebcf54-0c14-46be-b2c9-bc565404bf38">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">playgoog1e.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_03_taking_action_against_hackers_in_china:domain_name-6b5ba029-970b-4278-8476-7d772cea2774" timestamp="2022-10-13T21:03:25.546156+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Believed to be used to host Android malware</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-b632b4a9-6568-4641-80e0-d9b884da9a85">
+                <cybox:Object id="meta_stix:DomainName-a56317f1-ed71-46c1-9ed3-230ed46ba990">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">www.apkhl.pw</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_03_taking_action_against_hackers_in_china:domain_name-26afe20b-542a-4cde-9884-60bb484bc874" timestamp="2022-10-13T21:03:25.546286+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Believed to be used to host Android malware</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-9a538ba4-5d67-42f9-92ff-866e11ac29f1">
+                <cybox:Object id="meta_stix:DomainName-cb6a0e23-99e1-4140-bcad-204eb7c3b380">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">uyghur-soft-market.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_03_taking_action_against_hackers_in_china:domain_name-8d1fcff3-cce4-4dd8-87cf-ae6c0a44b636" timestamp="2022-10-13T21:03:25.546412+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Believed to be used to host Android malware</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-d76f4eac-f0fb-4e29-9257-b7e7b4e5a2d8">
+                <cybox:Object id="meta_stix:DomainName-f0b6527a-3dd7-46be-98c1-961801306371">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">icptime.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+    </stix:Indicators>
+</stix:STIX_Package>

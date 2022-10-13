@@ -1,0 +1,637 @@
+<stix:STIX_Package 
+	xmlns:AddressObj="http://cybox.mitre.org/objects#AddressObject-2"
+	xmlns:stixVocabs="http://stix.mitre.org/default_vocabularies-1"
+	xmlns:cyboxVocabs="http://cybox.mitre.org/default_vocabularies-2"
+	xmlns:FileObj="http://cybox.mitre.org/objects#FileObject-2"
+	xmlns:DomainNameObj="http://cybox.mitre.org/objects#DomainNameObject-1"
+	xmlns:stixCommon="http://stix.mitre.org/common-1"
+	xmlns:cybox="http://cybox.mitre.org/cybox-2"
+	xmlns:cyboxCommon="http://cybox.mitre.org/common-2"
+	xmlns:indicator="http://stix.mitre.org/Indicator-2"
+	xmlns:stix="http://stix.mitre.org/stix-1"
+	xmlns:meta_stix="https://meta.com/stix"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:ds="http://www.w3.org/2000/09/xmldsig#"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	 id="meta_stix:Package-f2a8e9b0-bc0c-4442-914c-8e85319e1b84" version="1.2">
+    <stix:Indicators>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-3d2d51f7-643d-474c-b2bb-abdbfa030cc3" timestamp="2022-10-13T21:02:21.932802+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>BITTER APT: Hosting Dracarys Malware</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-e627ccd2-af0c-4f4c-98c6-13c9ae02fafe">
+                <cybox:Object id="meta_stix:DomainName-71e2dadf-e5f5-49e6-8644-7b535da4f213">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">signalpro.org</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-c6315d26-1dfb-4bcd-8f4c-dfc6a9f98137" timestamp="2022-10-13T21:02:21.934071+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>BITTER APT: Hosting Dracarys Malware</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-062a70af-edb3-4115-8306-02e71683d969">
+                <cybox:Object id="meta_stix:DomainName-f0050188-9517-4698-a6be-01fe7fdb7001">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">signal-premium.org</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-478594b1-0255-4f61-b7ca-9a4151e99c95" timestamp="2022-10-13T21:02:21.934215+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>BITTER APT: Hosting Dracarys Malware</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-abe2ce1b-cd02-4e60-9335-da62280b51fb">
+                <cybox:Object id="meta_stix:DomainName-fcff7422-452c-4c1e-b318-01276cd0372b">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">signalpremium.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-5b0922dd-b731-4f7d-bc93-e42ddeac8fac" timestamp="2022-10-13T21:02:21.934365+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>BITTER APT: Hosting Dracarys Malware</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-f4db0b12-c9c0-43b8-a20c-d725cde0f919">
+                <cybox:Object id="meta_stix:DomainName-3903191a-d16a-4155-b534-7492300fe2ef">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">telegram-pro.org</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-46e7efc7-3244-46c9-82e3-55499177002e" timestamp="2022-10-13T21:02:21.934515+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>BITTER APT: Dracarys Malware C2</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-de7b6abe-edab-4679-aee7-9771a0b450b5">
+                <cybox:Object id="meta_stix:DomainName-c7b6a80a-2f10-4b8d-a49c-8ae3ff2d5350">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">signal-premium-app.org</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-f67bb54e-2f07-4d83-9dbd-b2fe1d0a43b1" timestamp="2022-10-13T21:02:21.934648+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>BITTER APT: Dracarys Malware C2</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-eb18b397-bb72-4b52-913d-deaf760b9aaa">
+                <cybox:Object id="meta_stix:DomainName-5cca8ea0-b55b-40c4-b7a2-63faff5da31b">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">youtubepremiumapp.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-4412b70b-fbb3-4068-ad2a-a082d3112a45" timestamp="2022-10-13T21:02:21.934780+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>BITTER APT: Dracarys Malware C2</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-9b6ef984-ffce-4b13-850b-bdde9a193354">
+                <cybox:Object id="meta_stix:DomainName-c6afb064-d94a-4a5c-a7a2-64e603711ad3">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">pflix.camdvr.org</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:ip-9ed12bd7-271f-46be-ba1a-f20e6dabeb9c" timestamp="2022-10-13T21:02:21.934912+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>BITTER APT: Dracarys Malware C2</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">IP Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-9626a959-7e19-4f89-82c0-6d8fe3e0ab5f">
+                <cybox:Object id="meta_stix:Address-97e47c99-57b7-4aab-8080-8cc463f2b170">
+                    <cybox:Properties xsi:type="AddressObj:AddressObjectType" category="ipv4-addr">
+                        <AddressObj:Address_Value condition="Equals">94.140.114.22</AddressObj:Address_Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-7c97d7fb-355b-40ab-b604-695eb661ac9b" timestamp="2022-10-13T21:02:21.935054+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>BITTER APT: Assessed to be attacker controlled infrastructure</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-6b80d401-a9e7-491e-b3fc-2a8adc0275d9">
+                <cybox:Object id="meta_stix:DomainName-bfab7e03-d23e-4370-bb57-009c25ed34c0">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">weather.play-protect.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-cd23b6af-806d-4b41-9e40-5364ad822dd7" timestamp="2022-10-13T21:02:21.935219+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>BITTER APT: Assessed to be attacker controlled infrastructure</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-ca847e13-163c-4555-b9b4-62c1fb111ba6">
+                <cybox:Object id="meta_stix:DomainName-b6826843-a220-4582-901e-84982398a630">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">gallery.play-protect.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-8a4227b2-47df-43f9-a9be-5450cf38946b" timestamp="2022-10-13T21:02:21.935351+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>BITTER APT: Assessed to be attacker controlled infrastructure</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-3b7fe13c-1bab-42cc-86fc-93f1cea75fbe">
+                <cybox:Object id="meta_stix:DomainName-b34ab321-0471-4329-aa4f-d9a8aca6cd8b">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">sikhsiyasatapp.net</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-38e4bbd4-3300-4c5a-a8f5-e3804f4bbd03" timestamp="2022-10-13T21:02:21.935480+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>BITTER APT: Assessed to be attacker controlled infrastructure</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-c698763d-0ddc-4286-9f1f-a4289999f8cd">
+                <cybox:Object id="meta_stix:DomainName-72ab4d2b-a095-44ba-9dcd-552ab435c224">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">telegramapppro.org</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-b2daf735-b6f1-4e70-b10c-b4e879b13196" timestamp="2022-10-13T21:02:21.935612+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>BITTER APT: Assessed to be attacker controlled infrastructure</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-370b14aa-5d27-4b36-b0d7-cac245a2ab4e">
+                <cybox:Object id="meta_stix:DomainName-3d135ccc-a41a-4bf7-b4ed-1aa8f4531e3b">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">play-protect.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-93f6a63a-736f-4019-930f-c9d0dd7c57bc" timestamp="2022-10-13T21:02:21.935761+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>BITTER APT: Assessed to be attacker controlled infrastructure</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-59e702ac-9cb4-48d6-a537-ba1a455bb63d">
+                <cybox:Object id="meta_stix:DomainName-dce153c6-7323-476b-915b-b6c69e115e88">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">www.sikhsiyasatapp.net</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-d6b07ee7-38c2-45fd-b341-aaa33aefe762" timestamp="2022-10-13T21:02:21.935883+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>BITTER APT: Assessed to be attacker controlled infrastructure</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-1aa52a10-a1c2-4c9f-bd94-885aa865da41">
+                <cybox:Object id="meta_stix:DomainName-9c4cf2d6-0152-4413-ba95-3dc56fcf3201">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">briarapppro.org</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-06f96399-885e-461c-91d4-b2bc515e35c2" timestamp="2022-10-13T21:02:21.936001+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>BITTER APT: Assessed to be attacker controlled infrastructure</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-dd377ac6-18c2-46d2-8c06-9aea2180c1f4">
+                <cybox:Object id="meta_stix:DomainName-099c5526-4cbf-44f2-bef1-14f8e14a6ae2">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">islam-360-plus.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-98068aef-99ce-49c6-bd56-045655de9f3f" timestamp="2022-10-13T21:02:21.936125+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>BITTER APT: Assessed to be attacker controlled infrastructure</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-f8168089-464e-4daf-86d6-07f6c4f4d6c7">
+                <cybox:Object id="meta_stix:DomainName-fab86753-7675-4b2a-bdc7-77b3029c080b">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">converse-app.org</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-757a1525-6504-42e1-b038-55be66d268d2" timestamp="2022-10-13T21:02:21.936242+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>BITTER APT: Assessed to be attacker controlled infrastructure</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-f1e24704-484e-4c11-8034-04137a938216">
+                <cybox:Object id="meta_stix:DomainName-e294d48a-e438-457f-a688-dac384a8ef23">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">telegram-app.tech</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-b45db146-a090-4da7-8d6e-78752d2d2751" timestamp="2022-10-13T21:02:21.936362+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>BITTER APT: Assessed to be attacker controlled infrastructure</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-4a6a4299-f0c0-4d5e-a591-da2ee661c120">
+                <cybox:Object id="meta_stix:DomainName-5ff15ab3-ed34-4a3d-a7bb-d81fb29c8f1b">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">appprotonvpn.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-596b144a-4ae3-49b9-9c95-e9e47b3f3d9e" timestamp="2022-10-13T21:02:21.936488+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>BITTER APT: Assessed to be attacker controlled infrastructure</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-2b72b74b-c72f-4e4d-b1af-128d5ee2a5d5">
+                <cybox:Object id="meta_stix:DomainName-29ecee13-8e73-4540-94ac-634f5cdf4b7f">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">linphone-app.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-8aa1b903-05ca-4c52-8fb6-0f855fbfb3f7" timestamp="2022-10-13T21:02:21.936632+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>BITTER APT: Assessed to be attacker controlled infrastructure</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-ea5c136e-6a03-43cf-baee-4d1a8a470a1d">
+                <cybox:Object id="meta_stix:DomainName-f1d118ca-2a04-4052-8f97-40db94736ef8">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">appbriar.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-742d61c4-c580-4a52-b32b-8715f4d290f7" timestamp="2022-10-13T21:02:21.936759+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>BITTER APT: Assessed to be attacker controlled infrastructure</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-ddb4cc4a-3f50-4fc1-8159-39430be94155">
+                <cybox:Object id="meta_stix:DomainName-5990dbc3-10a9-421f-94a9-c369ffb2fdf7">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">gosignal.org</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-97f7554d-a1bc-418c-89bb-08627e85c69e" timestamp="2022-10-13T21:02:21.936916+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>BITTER APT: Assessed to be attacker controlled infrastructure</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-c363a987-7744-41ea-be71-3f8274c09418">
+                <cybox:Object id="meta_stix:DomainName-8c65c595-604d-4d1e-b6df-e248355feeac">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">app2.appvlc.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:hash-888a3e0a-7e13-42f0-982b-4ec2f730c7f8" timestamp="2022-10-13T21:02:21.937045+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>BITTER APT: Signal Pro Dracarys (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-295949f4-82e3-4531-8247-4c9fd443202f">
+                <cybox:Object id="meta_stix:File-7acb41f9-3124-4df7-9d77-350e6977de23">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>a3d18021cd444e8fe23fffc1a6140071</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:hash-3da38e90-2b60-4a1b-be05-7e1c5b10ed95" timestamp="2022-10-13T21:02:21.937337+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>BITTER APT: Youtube Premium Dracarys (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-c5e4b1fc-4d9e-42d0-b116-4f978b136b85">
+                <cybox:Object id="meta_stix:File-529cf49d-c828-431a-a355-42e0071720c5">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>07532dea34c87ea2c91d2e035ed5dc87</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:hash-2f7ebe7e-ef1d-4d9d-a2cd-eee1a4d1722c" timestamp="2022-10-13T21:02:21.937495+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>BITTER APT: Signal Pro Dracarys (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-148f39c2-5f61-4391-bac3-3f0ffd69800d">
+                <cybox:Object id="meta_stix:File-b61c7c15-3ade-4eec-b3f3-45ecb3aa72b2">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>e20473bea7fe5968f0a032303838b601</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:hash-ea2c11eb-aa86-4ff9-8d90-5154a31c3b58" timestamp="2022-10-13T21:02:21.937650+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>BITTER APT: pflix Dracarys (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-ee80f6ec-1c64-4dde-ac1a-136129288fc9">
+                <cybox:Object id="meta_stix:File-4a5da9c9-af59-4cc9-ba2c-c3786bbf1260">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>d9a39c41e9f599766b5527986e807840</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:hash-443945c7-2565-4584-92a7-ae6de981f2b9" timestamp="2022-10-13T21:02:21.937809+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>BITTER APT: pflix Dracarys (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-e648cab8-15fd-4a83-8e9c-331eed9ef3cc">
+                <cybox:Object id="meta_stix:File-93ebfb11-5a74-4f14-9676-3ab1ae5d271f">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>b06e2f95ecf7012138bee314be9baed9</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-433be249-3fd0-4e43-94a6-3eff793747c9" timestamp="2022-10-13T21:02:21.937950+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT36: Assessed to be actor-controlled domain hosting malware</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-dc1c12fe-2da0-43ce-b102-f4f34a107033">
+                <cybox:Object id="meta_stix:DomainName-ea706090-c8c1-4894-b69b-77037d3134e0">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">1drivestorage.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-14a48801-f07e-4678-8ff9-afb34eeb6ebb" timestamp="2022-10-13T21:02:21.938073+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT36: Assessed to be actor-controlled domain hosting malware</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-a4e93fa5-0a6f-4699-b675-1196ef0fe505">
+                <cybox:Object id="meta_stix:DomainName-03c7352a-5af6-4549-a39f-560120c79b2e">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">appsupdate.net</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-0e5ebe4d-46ba-415c-8598-71054f1cdb07" timestamp="2022-10-13T21:02:21.938196+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT36: Assessed to be actor-controlled domain used to redirect to other actor-controlled domains</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-f0bfc9b2-ba18-42df-a6e6-a4d176ea353a">
+                <cybox:Object id="meta_stix:DomainName-33d30e81-43be-4061-92bf-c319ee0f71d1">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">archiverst.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-1d02b8b5-3ecc-4e63-a273-1be88e80d8b3" timestamp="2022-10-13T21:02:21.938316+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT36: Assessed to be actor-controlled domain hosting malware</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-9788df35-d622-4a2d-8abe-3fe1625efd3a">
+                <cybox:Object id="meta_stix:DomainName-e503b913-d8f2-41ba-9f91-ed2b35198f34">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">filestudios.net</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-91fa76b2-d100-4cc4-8e0d-dc8ef6503fee" timestamp="2022-10-13T21:02:21.938449+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT36: C2 for malware</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-30fa9e14-1f4a-462e-8d46-5ff35626ebcf">
+                <cybox:Object id="meta_stix:DomainName-e19c2e09-17ad-45fb-ac86-927f7689e410">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">hatvax.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-4ceba622-57c5-4f50-acb9-43507b29bc76" timestamp="2022-10-13T21:02:21.938605+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT36: C2 for malware</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-a3ea3cca-1e31-4a6c-901f-9ae67050ab35">
+                <cybox:Object id="meta_stix:DomainName-f744ab08-0a91-4395-8b57-1e4c86cc5d1a">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">medizz.co</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-255d8b00-7357-40cd-a245-8395908b6ced" timestamp="2022-10-13T21:02:21.938725+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT36: Assessed to be actor-controlled domain hosting malware</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-4947e948-4c33-4e78-be44-e8410928a11d">
+                <cybox:Object id="meta_stix:DomainName-01290e7b-de0b-4b90-8b6f-1d22aacf48c1">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">play.google.com.whatsapp.playapps.ga</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-d8833583-98b4-4676-8d37-0e8026bd26d4" timestamp="2022-10-13T21:02:21.938848+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT36: C2 for malware</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-7ebd1e8a-e326-4f51-8eda-b928fed8900b">
+                <cybox:Object id="meta_stix:DomainName-e6c4713a-9f7a-458d-a2aa-7196f8c79b3b">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">ratapi11223344786.azurewebsites.net</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-3efa15cd-dadb-412a-995b-dc962dcee4da" timestamp="2022-10-13T21:02:21.938967+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT36: C2 for malware</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-91bf10e0-4ca5-47a4-8813-9e75026c2c2a">
+                <cybox:Object id="meta_stix:DomainName-40c118ba-5aec-4218-9ac5-d5dce49fa155">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">rdeskapi719543132892786.azurewebsites.net</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-9a8c2198-cf8c-4cb6-aeda-8257b0c97fbb" timestamp="2022-10-13T21:02:21.939087+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT36: C2 for malware</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-0de8ce17-9a3b-432c-9e95-5dd444081ee9">
+                <cybox:Object id="meta_stix:DomainName-8c9a540b-e6cb-409b-9411-02f61ca42343">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">rkarsin453287786.azurewebsites.net</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-4ce86bb7-29b9-49e3-b781-750524dde8e9" timestamp="2022-10-13T21:02:21.939210+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT36: C2 for malware</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-2a944120-153c-4f29-9ff6-b72ec72888a2">
+                <cybox:Object id="meta_stix:DomainName-aa506a41-4fa1-4090-994d-b5a2af0a52d5">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">secureapplication.azurewebsites.net</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-9389f30b-c674-4345-8a09-8990935528a2" timestamp="2022-10-13T21:02:21.939332+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT36: C2 for malware</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-583c512b-205b-46d2-825a-0f7795eed61e">
+                <cybox:Object id="meta_stix:DomainName-d76034b3-0f0a-4c8e-87d4-421f9e48de3b">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">securechat.azurewebsites.net</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-fd2089f8-a51a-4542-91b1-f004e6b1a800" timestamp="2022-10-13T21:02:21.939454+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT36: Assessed to be actor-controlled domain hosting malware</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-d7d09532-ce63-49f7-8d83-d2c4c354aa59">
+                <cybox:Object id="meta_stix:DomainName-e39cf063-2d76-4c0a-8ea2-6a0b84d2c336">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">shareflx.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-c929b79a-6775-40bf-9d43-35784cb653b6" timestamp="2022-10-13T21:02:21.939570+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT36: Social card preview site that redirects to actor-controlled domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-21e615be-cdc3-4c6d-8693-9478a8213b58">
+                <cybox:Object id="meta_stix:DomainName-19be678d-7768-48f1-a6f6-b09ed79e5d22">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">shareflx.createasocialcard.top</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-455f3407-1cb4-4ce8-86ae-ab90460415a0" timestamp="2022-10-13T21:02:21.939693+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT36: Social card preview site that redirects to actor-controlled domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-5d9507e1-4003-41e0-8cc7-529d9c843aef">
+                <cybox:Object id="meta_stix:DomainName-33672b36-35e1-48e2-9954-1ded2c599e6d">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">shareflx.social-card-share.top</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-a13dc53e-e57e-4096-9529-770eebca4045" timestamp="2022-10-13T21:02:21.939816+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT36: Social card preview site that redirects to actor-controlled domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-1910a58c-8cb6-45f6-ba41-8922967b3c44">
+                <cybox:Object id="meta_stix:DomainName-d6dbc699-516d-4a94-97b8-ccd89e9d70c2">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">shareflx.socialpreviews.top</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-3113e487-1257-4a25-888e-1cebb673e92f" timestamp="2022-10-13T21:02:21.939932+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT36: Assessed to be actor-controlled domain hosting malware</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-3367dba4-2828-4304-8d47-af7584ed735f">
+                <cybox:Object id="meta_stix:DomainName-c1ddc0f6-6f73-4ac5-851a-97de3bb0d8c3">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">storeupdates.net</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-3e4158d8-65db-43c2-a3fe-bc90e0abddf6" timestamp="2022-10-13T21:02:21.940081+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT36: C2 for malware</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-a549b2a8-a3ea-46d8-8479-79da216480dc">
+                <cybox:Object id="meta_stix:DomainName-737ca400-27f0-47cd-8443-9eaf52915cd0">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">testandroidopen.azurewebsites.net</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-c908daaf-f2a4-42b9-bce6-e4f5a28686f8" timestamp="2022-10-13T21:02:21.940204+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT36: C2 for malware</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-4dc08fbf-01e0-43c6-a302-4bbb20158dfa">
+                <cybox:Object id="meta_stix:DomainName-f1476451-2d6d-4d53-9275-820e0a7e4040">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">theambix.org</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:domain_name-a147afb2-6aa4-43a2-b264-247bace11589" timestamp="2022-10-13T21:02:21.940326+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT36: Assessed to be actor-controlled domain hosting malware</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-1a37daea-d70d-41a8-b60e-753defd6649b">
+                <cybox:Object id="meta_stix:DomainName-c7c42858-c36f-4479-ab8d-da1305947550">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">yoursdrive.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:hash-97bd4819-56c9-434d-8c67-eaa74a8e186a" timestamp="2022-10-13T21:02:21.940446+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT36 (sha256)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-5bc36073-8ffc-4d68-aaa3-7aef5b9445c4">
+                <cybox:Object id="meta_stix:File-7e30ecb5-c608-4e8d-b982-84538ef092fd">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">SHA256</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>5d885fd9b896c8d59dbdc6b3ae4068662544f401d98a7eba757b329714d87c45</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:hash-9d937852-f2e7-49e5-bd57-72fa7060c541" timestamp="2022-10-13T21:02:21.940591+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT36 (sha256)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-56047cd9-3ada-4b01-87f0-b73c6687c8e7">
+                <cybox:Object id="meta_stix:File-7330a0c6-3b0d-47c4-ab6f-3287ea409c68">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">SHA256</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>b3510e0a8775d9ab5c8409510041dc1e7da47923d5bf3e8f0848a4a3970ffca7</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:hash-378c1da0-756e-417a-984f-971aeaf6afda" timestamp="2022-10-13T21:02:21.940732+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT36 (sha256)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-a99d343d-bdcb-4227-99ce-c735010b3e1b">
+                <cybox:Object id="meta_stix:File-98dabb5c-342b-435e-bcea-c77db7c114a5">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">SHA256</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>7999f5af42e6a825db56aa800a6b957c19d609225cc339f12cf85dde06af3b74</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_08_metas_adversarial_threat_report_q2:hash-9f6e7002-72f1-429e-8da9-5e004f8e37b5" timestamp="2022-10-13T21:02:21.940875+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT36 (sha256)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-5d805f58-8c5d-4b42-a49b-c6eddf53f824">
+                <cybox:Object id="meta_stix:File-53b4ec43-0272-49a6-ac9c-a7ed45ae788b">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">SHA256</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>5d9027c76306efd5fb57f42dbbaa26f976657a523c32d8fd3fa628ee1417d0aa</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+    </stix:Indicators>
+</stix:STIX_Package>

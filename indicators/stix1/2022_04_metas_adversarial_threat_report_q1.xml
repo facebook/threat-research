@@ -1,0 +1,924 @@
+<stix:STIX_Package 
+	xmlns:DomainNameObj="http://cybox.mitre.org/objects#DomainNameObject-1"
+	xmlns:URIObj="http://cybox.mitre.org/objects#URIObject-2"
+	xmlns:stixVocabs="http://stix.mitre.org/default_vocabularies-1"
+	xmlns:cyboxVocabs="http://cybox.mitre.org/default_vocabularies-2"
+	xmlns:FileObj="http://cybox.mitre.org/objects#FileObject-2"
+	xmlns:indicator="http://stix.mitre.org/Indicator-2"
+	xmlns:cyboxCommon="http://cybox.mitre.org/common-2"
+	xmlns:cybox="http://cybox.mitre.org/cybox-2"
+	xmlns:stixCommon="http://stix.mitre.org/common-1"
+	xmlns:stix="http://stix.mitre.org/stix-1"
+	xmlns:meta_stix="https://meta.com/stix"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:ds="http://www.w3.org/2000/09/xmldsig#"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	 id="meta_stix:Package-154b426e-b4c9-41bc-a733-7ffb0ecd2c80" version="1.2">
+    <stix:Indicators>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-c9c53963-dfa9-4a9c-8488-1f2a79860b43" timestamp="2022-10-13T21:02:37.640732+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>UNC788, Iran</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-e8df76fa-4b69-4e10-9f46-fbc5b2686819">
+                <cybox:Object id="meta_stix:DomainName-778a9b64-5d13-450e-b5e8-e99fbb95f101">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">bnt2.live</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-7695f165-cda1-4823-9754-002879068059" timestamp="2022-10-13T21:02:37.641993+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>UNC788, Iran</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-2b64be85-70ff-47c8-82e8-c1b777e69a47">
+                <cybox:Object id="meta_stix:DomainName-1e87f196-656e-4864-9de3-f4ca28c42876">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">archery.dedyn.io</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-0105461c-061d-4e59-b077-f9cc3390ca55" timestamp="2022-10-13T21:02:37.642142+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>UNC788, Iran</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-29479f6d-c33d-4445-9ed8-8bf683844e56">
+                <cybox:Object id="meta_stix:DomainName-46556bdc-c8e1-494b-b366-9f07dc867cdc">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">market.vinam.me</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-83ede297-56f3-40c1-826d-8a53a8d6fc1c" timestamp="2022-10-13T21:02:37.642294+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>UNC788, Iran</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-b1c338b1-7876-4f2a-bafa-0fe144b0e49c">
+                <cybox:Object id="meta_stix:DomainName-53cc5636-b304-4096-9d4f-f565ef2aea0c">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">signin.dedyn.io</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-dbb411e7-4637-4362-ae72-2526ee98e60c" timestamp="2022-10-13T21:02:37.642426+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>UNC788, Iran</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-32c9a62f-0c5c-4c61-9383-29cd62aa8bcf">
+                <cybox:Object id="meta_stix:DomainName-f0e195b0-464f-4752-8f52-b6831138959b">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">Market.dedyn.io</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:hash-ddb8ca92-bda8-49be-a5f8-71d6d9f60e1f" timestamp="2022-10-13T21:02:37.642560+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>UNC788, Iran (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-94279c05-fbe9-4129-8bdc-e9273e7d6d50">
+                <cybox:Object id="meta_stix:File-c37abb96-4bb1-4a4b-bea7-51c2b73349d7">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>43535540e94b39279af925e9548dce7f</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:hash-56f7070c-96b9-4817-9777-dd888140901d" timestamp="2022-10-13T21:02:37.642854+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>UNC788, Iran (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-709be812-3626-42c5-8beb-7499e197ca20">
+                <cybox:Object id="meta_stix:File-1534c3c4-6198-4a77-ac5f-c8682c6bc5bb">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>9b91427d195b8b7e75fbbc29a798bede</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:hash-910dd5cd-f67e-4bc2-b2d1-452a1ff4514c" timestamp="2022-10-13T21:02:37.643018+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>UNC788, Iran (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-822d8bd9-8083-47a2-9d65-de6017117e70">
+                <cybox:Object id="meta_stix:File-c8d1a0cd-edeb-4f78-8030-6149f6f76124">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>aaa55f1e48aba8856661fedc0074e81a</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:hash-700fe420-83cc-4089-a83f-16e85715e27a" timestamp="2022-10-13T21:02:37.643205+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>UNC788, Iran (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-af5e6604-7974-4716-9bf7-646a9c1a0717">
+                <cybox:Object id="meta_stix:File-4c9b4d4a-51fa-4b0e-a506-23edcce86575">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>6e0ec6bd0bef489c83c2dce4876de5c8</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:hash-a51ddebc-885d-4d40-96f8-aaaa61310ecc" timestamp="2022-10-13T21:02:37.643362+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>UNC788, Iran (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-90b7bf2b-ed51-486a-a279-30f0c633d551">
+                <cybox:Object id="meta_stix:File-5016465b-5c0f-4773-9a7c-4a6faa7505bf">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>70875705e8bc3887cec4ef1873cdb152</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:hash-c61957d5-2621-4fe1-85a0-04c3fc57f85a" timestamp="2022-10-13T21:02:37.643520+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>UNC788, Iran (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-082a10a4-6be6-4d4a-98db-c02eecbd244c">
+                <cybox:Object id="meta_stix:File-492e3edc-1b0d-4dad-abd4-1a29f1f35fa7">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>aa7330d2d360cac61394843d8af730bb</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:hash-4f2aa808-61ab-48e8-bfbd-6ff08843d80b" timestamp="2022-10-13T21:02:37.643666+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>UNC788, Iran (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-990ebf70-21dd-485d-8cf2-d817c4f89035">
+                <cybox:Object id="meta_stix:File-c27e3824-0364-48be-8b04-d62cf9480190">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>ab533be4ff9c99e8a03bc4cd413badb6</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-4c4dcb22-8bcf-4961-89a9-3abbed714fe3" timestamp="2022-10-13T21:02:37.643812+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-1eb1f66a-ff3e-407b-ae70-bf544efd66ee">
+                <cybox:Object id="meta_stix:DomainName-57b13fea-4724-4ae7-a1db-dd4924bd1543">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">alharbitelecom.co</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-6168caaa-b3bb-4f66-89f3-c7966823f48d" timestamp="2022-10-13T21:02:37.643943+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-6a516a8a-d47f-48b7-a158-6a5cb5be54b3">
+                <cybox:Object id="meta_stix:DomainName-7283a75f-f9f8-4441-bd58-d396d214472e">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">apply-jobs.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-e69e7735-b0f9-4ad1-b5f5-f43dfa03715a" timestamp="2022-10-13T21:02:37.644063+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-28dc85c0-e375-4481-b904-cbf32d70a0de">
+                <cybox:Object id="meta_stix:DomainName-cf350ed0-012f-4110-bbbf-3865378b78d7">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">applytalents.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-5646bb0d-f8b6-425d-bea2-fcec0cf179a0" timestamp="2022-10-13T21:02:37.644186+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-691c3b12-fdfc-4c61-84e7-2c7a22ad59d8">
+                <cybox:Object id="meta_stix:DomainName-96f12604-85aa-4d8b-9fc6-f6a6b2f736f1">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">appslocallogin.online</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-9ce1b1ec-a4d2-468d-99fc-876af8d59d29" timestamp="2022-10-13T21:02:37.644309+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-2f5953a7-4aaf-4b04-b41f-e8bf7247a81f">
+                <cybox:Object id="meta_stix:DomainName-842fbc1a-5a42-48d6-b47c-81fc54bf0365">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">careers-finder.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-4e8c332f-e219-49c3-860f-aa2cda87ee38" timestamp="2022-10-13T21:02:37.644429+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-dc672173-5f85-4bb2-a75f-6d5c05eff4e3">
+                <cybox:Object id="meta_stix:DomainName-bcf97c7c-a9bc-49e7-82bf-fecf706cb0b1">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">cloudgoogle.co</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-329ba0fa-533a-4c93-b8a6-eb64062cbb94" timestamp="2022-10-13T21:02:37.644549+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-9062a18b-1dde-456d-81eb-50704d7a2ea1">
+                <cybox:Object id="meta_stix:DomainName-91fa1e7f-bd3c-4cc0-99da-e2889d94a246">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">cortanaservice.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-6ceabde0-7b1d-4745-8fd0-e645c63548d3" timestamp="2022-10-13T21:02:37.644675+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-90572995-a323-4fb3-9bde-16e50930f407">
+                <cybox:Object id="meta_stix:DomainName-9d36ff5d-9d7e-4760-b929-c033aa36f5e7">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">cortanaupdate.co</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-087041f8-7fef-4235-be1a-783cf5a033dc" timestamp="2022-10-13T21:02:37.644830+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-2f9b2e8c-104f-4028-8ea1-bc129c820105">
+                <cybox:Object id="meta_stix:DomainName-b95c07e7-a7e0-48b8-81c8-d8d34a944c15">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">defenderupdate.ddns.net</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-6b13b8f7-1264-4da1-8b3b-99eb4ebff23b" timestamp="2022-10-13T21:02:37.644953+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-5213d098-46dd-482b-a9a0-e20460193693">
+                <cybox:Object id="meta_stix:DomainName-0e1b54d1-6e98-4a56-a97b-0f3a35b75c37">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">edge-cloudservices.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-e4fa8055-c9df-4c55-958e-9e89efbacac8" timestamp="2022-10-13T21:02:37.645077+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-53067b8c-e969-4f2f-ac4d-1a02a8b947c5">
+                <cybox:Object id="meta_stix:DomainName-ebe2af7c-5294-45df-9fc0-fd8e55e01886">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">elecresearch.org</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-ddfb8890-3f5d-4c6d-8c7b-9033c5d6f190" timestamp="2022-10-13T21:02:37.645201+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-b5de42e4-34ad-4577-aa9e-0b02fe83fc40">
+                <cybox:Object id="meta_stix:DomainName-31b60393-9b81-4a20-9830-cbb0fb5ce1ca">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">enerflex.ddns.net</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-67952b6f-3ddb-45bc-a296-dd202686d8dc" timestamp="2022-10-13T21:02:37.645321+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-b85fdddf-4f05-4476-8b4a-e5013a9e37e9">
+                <cybox:Object id="meta_stix:DomainName-7aa8c9c4-850e-4ff9-8a51-9650eb9ae918">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">enerflex.org</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-02de22e3-2327-4c15-aebc-2421ba05d769" timestamp="2022-10-13T21:02:37.645441+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-5ace31e9-059c-4eeb-a338-a46390fde74f">
+                <cybox:Object id="meta_stix:DomainName-77740f2b-b22b-4741-85ee-9965f55c2f73">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">etisalatonline.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-946da133-3ca7-49e6-9f98-8a31924cd846" timestamp="2022-10-13T21:02:37.645565+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-b9e96994-e49f-4986-97e4-e1fe2117f95e">
+                <cybox:Object id="meta_stix:DomainName-1231c790-638f-4406-b026-73614d49ae3e">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">exprogroup.org</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-3708ec19-820f-4166-8d71-4c4cf17eb38a" timestamp="2022-10-13T21:02:37.645686+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-39691ea1-f566-45fb-b76d-05844a854cab">
+                <cybox:Object id="meta_stix:DomainName-434cb5d8-bcb0-4525-9563-9568012a155f">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">freechess.live</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-64790a09-a41d-4ce0-bd38-5e8006c25033" timestamp="2022-10-13T21:02:37.645810+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-ac794514-323a-42fc-aa67-4c7644529c5b">
+                <cybox:Object id="meta_stix:DomainName-76a85eef-86fa-403d-8753-619dff8b215f">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">funnychess.online</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-5a9f4699-38c0-40f3-a4b5-63f967bf2b4e" timestamp="2022-10-13T21:02:37.645928+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-7413271b-bb40-40a3-973a-22bc5fba80f8">
+                <cybox:Object id="meta_stix:DomainName-74d62e03-0087-460a-ab2f-1139de2e0dd3">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">getadobe.ddns.net</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-8327f710-70b8-4b8e-8323-14417b03f67a" timestamp="2022-10-13T21:02:37.646054+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-619a6e16-3788-4e0b-b171-fefe4ce7ddac">
+                <cybox:Object id="meta_stix:DomainName-eb2a41ac-a5e2-4acb-bec9-43ee3af17d88">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">getadobe.net</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-18bf7b3a-28e9-47c7-b5cb-4b120a193301" timestamp="2022-10-13T21:02:37.646179+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-d301f006-950a-45f8-a007-1945c95315fb">
+                <cybox:Object id="meta_stix:DomainName-6cd247c0-7dd0-4e4b-a275-714476d45304">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">globaltalent.in</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-9cdf1775-1afd-42c3-8581-0238f546e0bf" timestamp="2022-10-13T21:02:37.646326+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-cdafc529-90f7-4979-a6f0-a5a2371ce033">
+                <cybox:Object id="meta_stix:DomainName-5456ff5e-caa9-4d91-bca7-4e5873b8df0c">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">googleservices.co</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-d38b375f-aaf2-4ca8-a958-06bbe5b97ab7" timestamp="2022-10-13T21:02:37.646452+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-9f034f63-416b-45b0-9139-9907bbadbfbe">
+                <cybox:Object id="meta_stix:DomainName-b07ccfc7-2b2a-4967-88ec-e4e1a162cd35">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">googleupdate.co</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-633787b2-7b38-4744-a262-e9f0d680c301" timestamp="2022-10-13T21:02:37.646572+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-fd11478f-f342-4e35-968a-91b5426eb086">
+                <cybox:Object id="meta_stix:DomainName-0d9ef296-18b4-4a06-a819-1b573fbcec4e">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">helpdesk-product.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-c39fca79-bb89-4686-b9b6-7b4915e05b74" timestamp="2022-10-13T21:02:37.646736+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-1550619a-4a95-4e3a-8127-d13919dff659">
+                <cybox:Object id="meta_stix:DomainName-f6cf06fb-19b4-4add-a095-3846d8a4f7d7">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">khaleejtimes.co</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-021f4b7f-f0a2-4cd7-ba92-ffa646407678" timestamp="2022-10-13T21:02:37.646866+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-224615fd-941b-484c-bdd0-bb48a598c119">
+                <cybox:Object id="meta_stix:DomainName-9a54920e-5d61-468e-83d1-3de6403e5c17">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">librarycollection.org</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-48f7cd63-7b93-4f64-b793-7538c5022329" timestamp="2022-10-13T21:02:37.646995+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-e6cfd874-f6d7-4700-973e-493c59257b46">
+                <cybox:Object id="meta_stix:DomainName-30a53a75-2504-4709-af5d-4d89254a13af">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">linkedinz.me</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-3ab26669-79bc-4d86-8bb4-6e15140fedf2" timestamp="2022-10-13T21:02:37.647124+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-041eaf48-3b3a-4397-8744-b502e2939f2d">
+                <cybox:Object id="meta_stix:DomainName-9d7343ca-75b8-4aeb-be48-097dac9aa48f">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">listen-books.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-b9967960-4f9e-43f3-9eba-85112b31b94c" timestamp="2022-10-13T21:02:37.647254+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-dae8178b-1c00-4005-bb96-e8311c290ac6">
+                <cybox:Object id="meta_stix:DomainName-874cb9c9-6820-456a-b5b2-8359490e167f">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">lukoil.in</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-a1e435fe-4afe-4bf7-957d-e59f4e06f3de" timestamp="2022-10-13T21:02:37.647384+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-281f6cb2-4e46-4ec2-9395-9a5e2f6c116c">
+                <cybox:Object id="meta_stix:DomainName-464bb801-c5b6-4a6e-873e-c3670e41493d">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">mastergatevpn.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-35fbf4f6-7121-4711-a8a1-e3e801ee10e6" timestamp="2022-10-13T21:02:37.647516+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-6854353b-fe15-4e97-bb5c-4479e5dbd0f7">
+                <cybox:Object id="meta_stix:DomainName-2faa670c-0167-421f-a09a-c7d47460f00b">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">microsoftcdn.co</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-7c4d0a71-eaa0-445d-a6d8-f2e4203b337a" timestamp="2022-10-13T21:02:37.647647+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-cbcfe9bf-da98-4678-b1db-2afc0ae9a85b">
+                <cybox:Object id="meta_stix:DomainName-7c2019ed-f1c8-450f-b670-1ad0f2d67b10">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">microsoftdefender.info</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-1b2aab34-b77e-4c5c-abaa-6939367e677f" timestamp="2022-10-13T21:02:37.647790+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-41e16890-56b2-4d91-98eb-3c261dc9f14d">
+                <cybox:Object id="meta_stix:DomainName-75248c30-1b74-4965-94fa-4bc998ca78e0">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">microsoftedgesh.info</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-a90b0711-f8d2-42b4-8948-706e6c92c084" timestamp="2022-10-13T21:02:37.647923+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-113c0722-06ba-4fc0-9a79-d48f95742a4a">
+                <cybox:Object id="meta_stix:DomainName-7328ad7d-3786-4165-905d-253b9fb4131b">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">mideasthiring.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-430cc652-d79f-4af0-9659-b4d2ec0f0f97" timestamp="2022-10-13T21:02:37.648074+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-eeb50f8a-86a2-4564-b2b4-3f8df18f15a4">
+                <cybox:Object id="meta_stix:DomainName-d7b6cbba-185d-45d7-877d-61a64997b779">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">office-shop.me</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-20bde920-890a-4620-ab7a-27a1e37d2572" timestamp="2022-10-13T21:02:37.648195+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-48c9e6e0-73bf-40b4-939a-c1d9df73996c">
+                <cybox:Object id="meta_stix:DomainName-b95e198c-823e-4f39-af29-65a49815dc9b">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">onedrivelive.me</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-9c84f7f6-5296-4512-96d2-ccfd8bf71c8d" timestamp="2022-10-13T21:02:37.648315+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-16da574d-23d6-4f03-a16c-7bb6982c8773">
+                <cybox:Object id="meta_stix:DomainName-14a77946-816a-4267-b0e4-ad5902f7ae44">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">onedriveupdate.net</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-e05cd4e3-8bc9-4d0d-bed2-b54deeb7879a" timestamp="2022-10-13T21:02:37.648439+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-26cb8c8e-cec9-4705-8442-ac39250245c4">
+                <cybox:Object id="meta_stix:DomainName-40ffdc3c-a672-4e42-b9a7-752fb6a50bf3">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">online-audible.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-65841e7a-f769-4e53-9250-7e49297c83d4" timestamp="2022-10-13T21:02:37.648561+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-71bf350c-8169-4590-8dd4-a8a13cb9e08b">
+                <cybox:Object id="meta_stix:DomainName-f2209eb3-d95f-48a4-a7d4-404eaaae5205">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">online-chess.live</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-b8bef852-a134-44b0-a8fa-a74b0e6afca5" timestamp="2022-10-13T21:02:37.648679+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-41f06428-af7f-41f5-a92d-37321fe6e47d">
+                <cybox:Object id="meta_stix:DomainName-49c8e44f-c152-4eed-b0bd-7b5b5347e942">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">outlookde.live</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-178b4105-68dd-4c2c-a591-246c9c1a6b4b" timestamp="2022-10-13T21:02:37.648804+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-78807c6a-b6ba-4123-a5d8-4876bd7ac1f6">
+                <cybox:Object id="meta_stix:DomainName-ceffcfc9-b980-4f74-b10a-72857be2a45e">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">outlookdelivery.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-3703cfe0-10b6-4437-8e87-d8c7b6e1635e" timestamp="2022-10-13T21:02:37.648924+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-1e2a23d8-414c-47c0-a4b0-369b78183526">
+                <cybox:Object id="meta_stix:DomainName-30323c36-993e-4906-b12d-1c8af191b9f8">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">remgrogroup.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-7fedb904-b845-410e-a7d6-6e6e2f206ba0" timestamp="2022-10-13T21:02:37.649046+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-bfc12a4e-75e9-4439-92bb-4cda18801209">
+                <cybox:Object id="meta_stix:DomainName-144e1300-4a66-404a-a916-a06e06d0c06d">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">saipem.org</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-f3952ec4-f40b-4705-b00c-91f47c290984" timestamp="2022-10-13T21:02:37.649168+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-bd4c566d-fe2a-47c3-bb8d-e90083d57b39">
+                <cybox:Object id="meta_stix:DomainName-4ad1e65b-e172-4a85-927f-70a4fe311e12">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">sauditourismguide.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-932771af-2db3-4db4-be01-4ae0756634a5" timestamp="2022-10-13T21:02:37.649289+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-86d96b09-36af-462f-a585-a0b5daa963c9">
+                <cybox:Object id="meta_stix:DomainName-66848dad-3a27-4066-91e1-b76adf306915">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">savemoneytrick.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-0c77a820-f0a2-4578-96a8-b72df5602a04" timestamp="2022-10-13T21:02:37.649416+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-05cfb1ab-842e-483c-9f77-32b5afb873bf">
+                <cybox:Object id="meta_stix:DomainName-8e9fc78d-e180-4ae8-bd55-7d320170fd96">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">sharepointnotify.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-b262a6ce-d892-4941-ac59-eeec487c2191" timestamp="2022-10-13T21:02:37.649562+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-f90face9-afd2-43de-8624-7ccc6461ce25">
+                <cybox:Object id="meta_stix:DomainName-25f2b8d5-f18a-4150-a27a-84e2adbe1df7">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">sparrowsgroup.org</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-f1ea4a81-1e5c-481f-ac46-9cf3c0de3df4" timestamp="2022-10-13T21:02:37.649693+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-e4786c86-d85f-4e84-8c65-eec22a62da83">
+                <cybox:Object id="meta_stix:DomainName-c7e4bf1e-0fd9-4216-8805-b8d70d496264">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">supportskype.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-becbd038-ad5b-49bc-89c6-0b62bd2a7c93" timestamp="2022-10-13T21:02:37.649856+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-e686415d-590b-4d01-978a-f5330958e682">
+                <cybox:Object id="meta_stix:DomainName-0be7f2b3-a127-4c77-9bb6-9b8e12a81748">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">talent-recruitment.org</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-bac7e104-0428-4212-98b2-6edfb2209d74" timestamp="2022-10-13T21:02:37.649988+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-a1cd03b0-3d3a-40a8-b57a-9ffa304a38e1">
+                <cybox:Object id="meta_stix:DomainName-ffc403cc-9512-4617-b863-4cd42f6a1997">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">talktalky.azurewebsites.net</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-1c0629fb-b1c8-41ed-bb19-9b5f61fbd519" timestamp="2022-10-13T21:02:37.650119+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-f493a819-0234-4a14-b261-703bf0ebc891">
+                <cybox:Object id="meta_stix:DomainName-561c9e2a-e017-4e95-b170-3e7fcd819759">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">thefreemovies.net</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-eefeeb13-1cdd-440c-932b-28110ed214e8" timestamp="2022-10-13T21:02:37.650249+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-1a5e0930-1820-419d-9158-c3d5b40c704a">
+                <cybox:Object id="meta_stix:DomainName-8b3a6491-f169-4fac-877e-0758f5d6c1ef">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">updateddns.ddns.net</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-d8e6f302-3a0c-48b3-8025-c1161cb08fb9" timestamp="2022-10-13T21:02:37.650380+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-23fa6879-1434-4108-b843-aacbd83a8817">
+                <cybox:Object id="meta_stix:DomainName-9f2d8986-73ec-4b2b-b435-a0009ba94941">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">updatedefender.net</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-c6b83c07-fdf7-4ce6-8b3e-673e7c07f857" timestamp="2022-10-13T21:02:37.650511+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-916c6e95-06ea-452e-9f32-2ddb60d80bd1">
+                <cybox:Object id="meta_stix:DomainName-0f529d2b-454a-41c6-ab40-bba1e062cc64">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">updatedns.ddns.net</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-08ffab97-6643-489a-a165-b36e9f3a53f7" timestamp="2022-10-13T21:02:37.650645+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Previously unreported group (Iran)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-aa77661c-3212-4ec1-a982-71f874cfbb90">
+                <cybox:Object id="meta_stix:DomainName-57470c70-2c24-45c3-a5eb-ee30fbd1a28d">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">updateservices.co</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-d41fdbe9-9983-4c65-982f-eddc774f8193" timestamp="2022-10-13T21:02:37.650773+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Azerbaijan</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-70c42a71-3196-4d9c-b1da-fcb7c4a60e64">
+                <cybox:Object id="meta_stix:DomainName-01421b58-91be-478a-a50c-1c153a026e69">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">localadmin.online</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-24d49c3b-fc16-4976-b89a-843aff775bdd" timestamp="2022-10-13T21:02:37.650914+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Azerbaijan</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-3d02c9a7-ebb6-4907-9191-c738c7d367c4">
+                <cybox:Object id="meta_stix:DomainName-03334ed5-f23d-473b-9931-f8d2ba63fc7b">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">localadmin.ru</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-98ffbf2d-688b-40a0-87f3-8ca27430815a" timestamp="2022-10-13T21:02:37.651043+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Azerbaijan</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-e2416387-2f65-4b3b-bee4-565d275a25af">
+                <cybox:Object id="meta_stix:DomainName-26907d2e-af40-4738-8070-cd64ad97ab2e">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">analyzeryandex.000webhostapp.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-d12730a1-7300-4fb2-bb07-99eb4dbebdd1" timestamp="2022-10-13T21:02:37.651192+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Azerbaijan</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-c4877814-25c6-46f2-8858-502f4e4a34bf">
+                <cybox:Object id="meta_stix:DomainName-77e38e64-846f-41e3-82f2-2451535ce1e7">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">vote2021.w3spaces.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:url-306443bc-e5ab-441e-881d-8611961a203b" timestamp="2022-10-13T21:02:37.651350+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Azerbaijan (phishing_url)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">URL Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-c1cab347-302f-4931-a677-a42012717f1d">
+                <cybox:Object id="meta_stix:URI-62ef7a47-ad54-4ec1-8479-6deb20e7e465">
+                    <cybox:Properties xsi:type="URIObj:URIObjectType" type="URL">
+                        <URIObj:Value>localadmin.online/votes/security</URIObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:url-1aeddfb1-ae82-489d-998a-d18eaf7b905a" timestamp="2022-10-13T21:02:37.651498+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Azerbaijan (phishing_url)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">URL Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-fa4dd197-8ff2-41ff-8c63-d172c8bfabba">
+                <cybox:Object id="meta_stix:URI-4ff9d6a2-551a-40fb-bac4-69893914e34b">
+                    <cybox:Properties xsi:type="URIObj:URIObjectType" type="URL">
+                        <URIObj:Value>localadmin.online/vote</URIObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:url-6c9acf21-983d-4595-8807-6f6f28617de7" timestamp="2022-10-13T21:02:37.651628+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Azerbaijan (phishing_url)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">URL Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-70be5237-a81d-49fc-b039-d4c336e3ad4b">
+                <cybox:Object id="meta_stix:URI-a3afde3f-8bb1-44fe-9e38-fc5414e6c8b4">
+                    <cybox:Properties xsi:type="URIObj:URIObjectType" type="URL">
+                        <URIObj:Value>localadmin.online/vote/fb/login.html</URIObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-8ef47d72-e36a-4687-86c7-b79e082c7317" timestamp="2022-10-13T21:02:37.651757+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>CIB: Costa Rica, El Salvador</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-de9d6b30-fe85-4e8e-bfa7-ce931e02ff29">
+                <cybox:Object id="meta_stix:DomainName-82f6b1ce-f2f0-47b0-b166-91df362348df">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">latinoamericareporta.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-88a7490a-441b-4628-bb89-07c448c2d46c" timestamp="2022-10-13T21:02:37.651887+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>CIB: Costa Rica, El Salvador</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-dcd8c36c-32d9-4d59-a3a2-da153d7f0fec">
+                <cybox:Object id="meta_stix:DomainName-6164dab2-7b40-45bc-87e9-ce5c42d8fa17">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">revistadcr.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-552d3978-41a0-4bc2-b88c-cbc3ab012aa1" timestamp="2022-10-13T21:02:37.652014+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>CIB: Russia, Ukraine</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-914b0ee7-76f7-4426-9c5e-dd23a704b65c">
+                <cybox:Object id="meta_stix:DomainName-b74d6ac2-2daf-4208-9de4-39bec5b923d3">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">kavkazru.press</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-3c9def5b-bb54-4a07-9bb3-c47075488c90" timestamp="2022-10-13T21:02:37.652141+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>CIB: Russia, Ukraine</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-ccba57ce-9805-444e-a404-937fc7546c6c">
+                <cybox:Object id="meta_stix:DomainName-d171fba2-e114-47fb-88d0-df5cfea7d5cf">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">politica.in.ua</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-953e074c-6bff-48fe-94d6-18b2290c6ba6" timestamp="2022-10-13T21:02:37.652267+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>CIB: Russia, Ukraine</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-3484f987-0af5-4230-a6fe-76c901791c0a">
+                <cybox:Object id="meta_stix:DomainName-a9230ad4-5a66-426c-abfe-a6f49aa63787">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">monitor-ua.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2022_04_metas_adversarial_threat_report_q1:domain_name-274e1c57-0cc0-42c5-8dd8-1f7ce3b629d6" timestamp="2022-10-13T21:02:37.652393+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>CIB: Russia, Ukraine</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-2e68de89-9259-4f2f-bd81-0f5f83af37d1">
+                <cybox:Object id="meta_stix:DomainName-99ef32b1-5c34-4648-862d-e0493dfa7763">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">ukraine2day.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+    </stix:Indicators>
+</stix:STIX_Package>

@@ -1,0 +1,649 @@
+<stix:STIX_Package 
+	xmlns:stixVocabs="http://stix.mitre.org/default_vocabularies-1"
+	xmlns:cyboxVocabs="http://cybox.mitre.org/default_vocabularies-2"
+	xmlns:DomainNameObj="http://cybox.mitre.org/objects#DomainNameObject-1"
+	xmlns:FileObj="http://cybox.mitre.org/objects#FileObject-2"
+	xmlns:AddressObj="http://cybox.mitre.org/objects#AddressObject-2"
+	xmlns:indicator="http://stix.mitre.org/Indicator-2"
+	xmlns:cyboxCommon="http://cybox.mitre.org/common-2"
+	xmlns:stix="http://stix.mitre.org/stix-1"
+	xmlns:cybox="http://cybox.mitre.org/cybox-2"
+	xmlns:stixCommon="http://stix.mitre.org/common-1"
+	xmlns:meta_stix="https://meta.com/stix"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:ds="http://www.w3.org/2000/09/xmldsig#"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	 id="meta_stix:Package-d0000874-ed97-4349-971e-04c74af2932f" version="1.2">
+    <stix:Indicators>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:domain_name-1be52179-cba7-4aa7-a7a2-92b92c65dc57" timestamp="2022-10-13T21:02:58.577265+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Pakistan: Hosting PJobRAT and Mayhem</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-5a0cf5d1-6299-4e6e-a793-06da341ebf40">
+                <cybox:Object id="meta_stix:DomainName-ad77b0a7-690f-451a-bedb-35769576e73a">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">androappstore.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:domain_name-9c1d2b62-30c7-4f04-aa60-3b36f2510f54" timestamp="2022-10-13T21:02:58.578568+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Pakistan: Hosting PJobRAT</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-c9b9c1cc-2ae7-4765-9124-05e9b0c09804">
+                <cybox:Object id="meta_stix:DomainName-9ef49156-bc3b-49e7-af1d-773d94b38b79">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">www.apphububstore.in</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:domain_name-684c59e7-8c39-4abc-a72c-0abb6ab10c84" timestamp="2022-10-13T21:02:58.578714+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Pakistan: Hosting PJobRAT</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-ae40eb09-9935-4ddf-a1b3-5079ea7063d9">
+                <cybox:Object id="meta_stix:DomainName-56f36ee6-e70f-453b-9007-534525ac036e">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">appsstore.in</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:domain_name-7c910945-3909-41fc-9734-15251f067cbc" timestamp="2022-10-13T21:02:58.578847+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Pakistan: Believed to be hosting PJobRAT</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-32e7dca9-60c4-4ef7-bb1b-0ced2e3277af">
+                <cybox:Object id="meta_stix:DomainName-b3fd1273-b401-459a-97bb-22308ef94f19">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">apkstore.filehubspot.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:domain_name-3061b528-f70d-4317-b76d-b388eb2e7623" timestamp="2022-10-13T21:02:58.578971+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Pakistan: Command and control server for PJobRAT</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-52648c95-88cd-4db5-a613-c1f9fbfefc47">
+                <cybox:Object id="meta_stix:DomainName-2b80dc0f-ff2e-451b-8879-dfeaaf029db2">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">helloworld.bounceme.net</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:domain_name-b0dbbd79-2a32-47b9-b55a-0c4775878e44" timestamp="2022-10-13T21:02:58.579099+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Pakistan: Command and control server for PJobRAT</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-76b7786d-86f0-4cb3-a4b2-6cb93c864ce7">
+                <cybox:Object id="meta_stix:DomainName-5e2a3722-be08-4584-85fc-1c3c61f0372a">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">dasvidaniya.ddns.net</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:domain_name-bd4aa230-aef8-4036-873d-9bc1072157fb" timestamp="2022-10-13T21:02:58.579222+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Pakistan: Command and control server for PJobRAT</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-3976e91b-286d-445f-b785-f4b306738aa1">
+                <cybox:Object id="meta_stix:DomainName-0e27cc98-ce67-4927-8412-3b9128574b6e">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">gemtool.sytes.net</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:domain_name-430ff9d3-ac95-4f34-8b92-9fd89ea903d7" timestamp="2022-10-13T21:02:58.579345+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Pakistan: Command and control server for Mayhem</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-376c5b1a-3fb8-4c73-b5ca-c11302a95797">
+                <cybox:Object id="meta_stix:DomainName-a2c8adbd-659a-4c44-8fdb-2e3b2d27a036">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">saahas.servecounterstrike.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:hash-05d91252-7fd7-45bb-8b89-67f1c7b8f000" timestamp="2022-10-13T21:02:58.579469+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Pakistan: ViberLite v4 (PJobRAT) (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-39dd0130-243a-4ea4-a70f-368671e51e5b">
+                <cybox:Object id="meta_stix:File-644c65d5-12eb-45f7-a1af-0cc5259c87cf">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>7804aa608d73e7a9447ae177c31856fe</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:hash-4c948478-8829-4e46-b8fd-e7b9d9ac8e41" timestamp="2022-10-13T21:02:58.579788+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Pakistan: ViberLite v3 (PJobRAT) (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-e5534c40-cc1a-4db0-8d53-7ff2dcfaec55">
+                <cybox:Object id="meta_stix:File-739b4af0-7780-4fbd-9d29-8405c6674fd1">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>a80a1b022fdcaa171e454086711dcf35</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:hash-07770bf7-6738-482d-afe6-3fb646b0a442" timestamp="2022-10-13T21:02:58.579947+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Pakistan: ViberLite v2 (PJobRAT) (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-a2d26cc3-47ff-409e-a82d-34bdd6a094fa">
+                <cybox:Object id="meta_stix:File-7250a7ac-664e-4da2-bf9d-0568a4db850a">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>a4f104e2058261c7dbfc1c69e1de8bce</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:hash-257fb289-b66b-4b5d-a8bc-0b0fbbd70c07" timestamp="2022-10-13T21:02:58.580094+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Pakistan: HangOn V4e (PJobRAT) (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-75b2209e-b9a0-4600-9d34-b68aef2643b2">
+                <cybox:Object id="meta_stix:File-6405cf66-6bac-4d7e-9bcf-3cba048179f3">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>4ce92da8928a8d1d72289d126a9fe2f4</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:hash-bc34b984-6eea-4285-8720-a990ad2ad810" timestamp="2022-10-13T21:02:58.580243+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Pakistan: HangOn v4 (PJobRAT) (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-0e6f3357-057a-44bf-b5c2-1a0ad69241af">
+                <cybox:Object id="meta_stix:File-c11f7bbf-1b53-4cbd-af51-573e6dbbac5a">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>a53c74fa923edce0fa5919d11f945bcc</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:hash-cbb59df8-09ca-4f34-b757-dd93ae8ff451" timestamp="2022-10-13T21:02:58.580388+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Pakistan: HangOn (PJobRAT) (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-9c35961d-880b-4b90-a625-cf7c24ae4ac0">
+                <cybox:Object id="meta_stix:File-fc3a814f-40cb-416f-83bb-062a838820c5">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>9fd4b37cbaf0d44795319977118d439d</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:hash-f6436f84-4a48-4629-9997-d04d3984fdb2" timestamp="2022-10-13T21:02:58.580530+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Pakistan: TrendBanter (PJobRAT) (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-90ed6559-35ea-45b7-a92e-5da6d723cbed">
+                <cybox:Object id="meta_stix:File-4af1542e-fd6d-43e7-a45a-5c351e75ae1f">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>7bef7a2a6ba1b2aceb84ff3adb5db8b3</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:hash-07afceda-39cc-49e2-8def-b72f89df05e5" timestamp="2022-10-13T21:02:58.580674+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Pakistan: Happy Chat (Mayhem) (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-204c31f6-5c05-4f89-97e6-cdf6c554d737">
+                <cybox:Object id="meta_stix:File-92cc5e93-909c-42e2-aba9-d96fae56de4a">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>v21b4327d6881be1893fd2a8431317f6b</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:domain_name-d7ad8fe3-005b-444b-92bd-9711f49f199f" timestamp="2022-10-13T21:02:58.580814+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT-C-27: Credential phishing</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-382bab32-9e77-45f4-aa3d-a1a8750fc76e">
+                <cybox:Object id="meta_stix:DomainName-538e8c67-8f98-4eb9-9298-a91577e01a64">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">faccebookaccunt.blogspot.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:domain_name-d8d58890-70b5-4cc0-bcab-a7090b799dc0" timestamp="2022-10-13T21:02:58.580938+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT-C-27: Credential phishing</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-e326b8b3-3cd7-4d93-8976-abd12f399b6c">
+                <cybox:Object id="meta_stix:DomainName-ce480d78-4bd9-4041-b835-2e6a16e2af93">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">ruba-bakkour-facebook.blogspot.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:domain_name-8fe0ca0b-3bc5-4d65-a249-bf43fbb2e788" timestamp="2022-10-13T21:02:58.581058+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT-C-27: Distribution of SilverHawk in 2020</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-4b21f3ec-cac1-4010-86ff-b1cf4c28cccf">
+                <cybox:Object id="meta_stix:DomainName-95281853-adae-40ab-a525-8ef5d3efc780">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">chatsafe.tecnova.com.br</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:domain_name-198fe1ce-1226-4f1a-aadd-8c269dbcc8ed" timestamp="2022-10-13T21:02:58.581180+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT-C-27: Used by SEA affiliated individuals to distribute a new unnamed Android family</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-4aff5b83-1612-4519-8aa4-2e981b49a4c7">
+                <cybox:Object id="meta_stix:DomainName-95a318c1-bf4a-4fbc-a8e4-70f25f0a8648">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">download-telegram.vercel.app</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:domain_name-215d56ca-88fc-4f35-9149-2368af84d8c0" timestamp="2022-10-13T21:02:58.581337+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT-C-27: Used by SEA affiliated individuals to distribute a new unnamed Android family</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-8e85ec27-b649-4ec4-ba26-e1357dfafc03">
+                <cybox:Object id="meta_stix:DomainName-3700f87d-ee85-420c-a0d2-2e0d833b6564">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">download-revo.vercel.app</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:ip-ac2e938c-624e-44a5-97cf-20927146c422" timestamp="2022-10-13T21:02:58.581466+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT-C-27: Command and control server. Used to distribute a variety of commodity and custom Android malware.</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">IP Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-4d4ff0e4-a64f-476e-bb47-7da1cf451cff">
+                <cybox:Object id="meta_stix:Address-a435d1f0-b59d-4ef5-9045-8b3b35b5d633">
+                    <cybox:Properties xsi:type="AddressObj:AddressObjectType" category="ipv4-addr">
+                        <AddressObj:Address_Value condition="Equals">82.137.218.185</AddressObj:Address_Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:hash-cb0269fc-2320-4455-accd-91ada6d7be7f" timestamp="2022-10-13T21:02:58.581601+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT-C-27: Fake version of Telegram (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-6a406219-a11c-484f-a615-85d0eee761f3">
+                <cybox:Object id="meta_stix:File-b45dd33c-c816-4acb-b06e-bcd1a9e1011c">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>df196bd42e1da1d34c23c8d947561618</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:hash-cec10cd8-2ccb-4de3-979b-1a97b2d1acd0" timestamp="2022-10-13T21:02:58.581771+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT-C-27: Trojanized Syrian News app (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-8f99a26a-998a-4c9b-a628-dec8e75b3521">
+                <cybox:Object id="meta_stix:File-5b7a1f5f-d793-4131-b462-973c4bcfc543">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>ccabc8f4868184a04b032b34d9303810</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:ip-134d316e-e8f6-41c7-a555-164b22a5e69e" timestamp="2022-10-13T21:02:58.581925+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT-C-37: Long running command and control server</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">IP Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-b8fcf681-2a3b-4f21-a5ac-db8709524bf0">
+                <cybox:Object id="meta_stix:Address-060cec96-de40-415d-94d8-27c54a6714e2">
+                    <cybox:Properties xsi:type="AddressObj:AddressObjectType" category="ipv4-addr">
+                        <AddressObj:Address_Value condition="Equals">82.137.255.0</AddressObj:Address_Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:hash-71f29a60-836a-412e-ba67-dbda114c0610" timestamp="2022-10-13T21:02:58.582058+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT-C-37: Fake version of WhatsApp (SSLove) (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-31a413f8-d51d-48fd-92dc-0b2d9591dace">
+                <cybox:Object id="meta_stix:File-127b80c5-766a-47a5-bd58-1edc4378ccde">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>969fe5597a44bf4eb66ebdc7b09ef2c8</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:domain_name-05dd6aa3-2b74-4a83-aff5-4478f6a28c09" timestamp="2022-10-13T21:02:58.582213+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Unnamed: Hosting SpyMax</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-2ecc6a23-8e0e-48a5-bb43-7b4c8802c4fe">
+                <cybox:Object id="meta_stix:DomainName-5f32f9dd-43c8-4260-846c-1bd7b6dbc7ac">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">f-b.today</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:domain_name-5c8ea725-4ee0-4a43-af9f-22bf6eded6c4" timestamp="2022-10-13T21:02:58.582344+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Unnamed: Hosting SpyMax</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-5b229469-2428-4aa3-9d9b-63b6caebef71">
+                <cybox:Object id="meta_stix:DomainName-cee73d0f-b72c-4dfc-adbc-a19dfbf9f07a">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">messengers.video</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:domain_name-834db828-ea4e-4327-a2a2-3c3f7cb9d4bf" timestamp="2022-10-13T21:02:58.582475+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Unnamed: Hosting SpyMax</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-60421bec-5e93-40a3-bc7a-f11e4ebe9dc6">
+                <cybox:Object id="meta_stix:DomainName-6c5e5a04-ba51-4b62-bfa2-98ea2a7bed3c">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">whatsapp-sy.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:domain_name-5822a689-980d-4184-a2dc-9fcd5813c7b4" timestamp="2022-10-13T21:02:58.582605+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Unnamed: Believed to have been hosting SpyMax</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-9f9ee60b-5099-4791-bf04-acb2635b9bee">
+                <cybox:Object id="meta_stix:DomainName-4b6f5f95-825c-4dda-8813-ee7c8898517a">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">horan-free.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:domain_name-fd3cf31c-3133-454e-b789-e02523eab44d" timestamp="2022-10-13T21:02:58.582732+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Unnamed: Believed to have been hosting SpyMax</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-a5b497c2-8fea-43cf-aaf8-9bbd6ed571cb">
+                <cybox:Object id="meta_stix:DomainName-0039b7d0-9c46-41d1-a443-adec4156b38a">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">druze.life</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:domain_name-71426c7b-2467-4e7c-999c-053d8a3ac8ac" timestamp="2022-10-13T21:02:58.582885+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Unnamed: Believed to have been hosting SpyMax</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-bbe6f546-e938-4aad-99c1-e2a07584cd54">
+                <cybox:Object id="meta_stix:DomainName-d8451d33-78f7-4d9e-a513-8f069f08a886">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">suwayda-24.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:domain_name-1d33db2d-3f08-4fc2-8157-fb0a746a38b8" timestamp="2022-10-13T21:02:58.583066+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Unnamed: Believed to have been hosting SpyMax</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-4a50fade-8661-484a-8251-c55c110f3ae4">
+                <cybox:Object id="meta_stix:DomainName-6be85f88-554a-4a54-9a08-15dd9727722b">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">t-me.link</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:domain_name-153687c3-1d71-4d02-9430-31396d1b1afb" timestamp="2022-10-13T21:02:58.583193+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Unnamed: Hosting unnamed Android malware</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-a457c7a9-457f-44e3-8f6f-e77a8e9c073c">
+                <cybox:Object id="meta_stix:DomainName-3a88ab19-7b81-492e-8f24-8d0cb0ace59d">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">lamat-horan.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:domain_name-4e89866d-8555-4350-aa07-bc391d51aba5" timestamp="2022-10-13T21:02:58.583324+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Unnamed: Believed to have been hosting SpyMax</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-7d5e435d-08f5-4fce-9a3f-fde191824c8b">
+                <cybox:Object id="meta_stix:DomainName-c1ca3070-ae0a-436d-8cb7-95a576655c77">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">anti-corona.app</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:domain_name-052a4df8-f0fa-4d53-83a2-f7945276b482" timestamp="2022-10-13T21:02:58.583451+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Unnamed: Believed to have been hosting SpyMax</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-039042ee-5479-4ba8-92ff-b74a7846b064">
+                <cybox:Object id="meta_stix:DomainName-ea47d0b5-746b-4a9b-b17a-a990385ecfd5">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">what-sapp.site</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:domain_name-f281ee93-bcf1-4a04-a0af-75a9be101afc" timestamp="2022-10-13T21:02:58.583582+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Unnamed: Hosting trojanized apps for the YPG, Syrian Civil Defense, and malware pretending to be an update for WhatsApp.</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-58e09b2e-65d7-4335-9c55-e798bccd5305">
+                <cybox:Object id="meta_stix:DomainName-4e0a64a5-4d88-4f3f-92f5-598e8fe33418">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">informnapalm.net</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:domain_name-f3743356-8112-432c-b60f-8b5e49c979f3" timestamp="2022-10-13T21:02:58.583740+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Unnamed: Older infrastructure hosting SpyMax malware pretending to be a WhatsApp update.</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-ad6d506c-88c5-41d3-9ab5-a418c229fb82">
+                <cybox:Object id="meta_stix:DomainName-0eedbd92-fc4e-4752-863b-d562e80d43e2">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">facebook-helps-center.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:ip-d8c4c5d9-68fc-4f6c-b8a9-cbeeebb2472d" timestamp="2022-10-13T21:02:58.583885+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Unnamed: Command and control server</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">IP Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-aa97abab-0520-4227-b387-303abef6922c">
+                <cybox:Object id="meta_stix:Address-cf3f667d-3619-42f1-958e-2a5930166392">
+                    <cybox:Properties xsi:type="AddressObj:AddressObjectType" category="ipv4-addr">
+                        <AddressObj:Address_Value condition="Equals">46.4.83.140</AddressObj:Address_Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:domain_name-d129e2b3-c346-432d-bff1-dea20e779483" timestamp="2022-10-13T21:02:58.584030+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Unnamed: Believed to be attacker controlled</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-90f86c90-f35c-4895-a89a-4ad0e33c1d58">
+                <cybox:Object id="meta_stix:DomainName-c18719f4-fa28-47d2-b39d-94a75899b153">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">sputniknews.news</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:domain_name-c8da4cb2-c459-4164-82cf-8aefaf97e5f8" timestamp="2022-10-13T21:02:58.584159+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Unnamed: Believed to be attacker controlled</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-28c311c4-c878-43c1-9eac-0fdc11208905">
+                <cybox:Object id="meta_stix:DomainName-d1a7bb4e-9efb-4815-a775-960584d3f53b">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">emmashop.app</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:domain_name-fc0f2389-6f87-417d-9b96-9f207c97d5ab" timestamp="2022-10-13T21:02:58.584289+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Unnamed: Believed to be attacker controlled.</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-07537103-cf0b-40fa-beae-d7865f795a3d">
+                <cybox:Object id="meta_stix:DomainName-204f4cee-bdd6-4347-9e30-6327e802e41c">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">face-book.xyz</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:hash-eed52ffe-8ba8-44a7-9491-3ae799ac03cf" timestamp="2022-10-13T21:02:58.584419+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Unnamed: Hosted on lamat-horan.com. First seen in 2019. 0 detections on VT. (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-8386e158-1219-48d0-ade8-4aa6d8e2379e">
+                <cybox:Object id="meta_stix:File-f9592e11-5a71-4bb6-84dd-cba1d6e42db0">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>762acdd53eb35cd48686b72811ba9f3c</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:hash-22e76eb1-c7c3-4266-af48-ea67ef41c021" timestamp="2022-10-13T21:02:58.584575+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Unnamed: Hosted on f-b.today. Masquerading as a Syrian satellite TV app. (SpyMax) (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-6663c3a5-a368-46d4-80de-7562463ef5f5">
+                <cybox:Object id="meta_stix:File-87f3fe42-ef7b-47d2-96da-06c84ac3373b">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>fcf357556c3af14bab820810f5e94436</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:hash-b9e1b6e0-eb68-4b41-86de-f07fdaef884e" timestamp="2022-10-13T21:02:58.584756+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Unnamed: Hosted on f-b.today. Masquerading as a YouTube update. (SpyMax) (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-d896b959-28ff-4899-bc4e-7905c861537d">
+                <cybox:Object id="meta_stix:File-2fbdd5a8-a0be-419a-8ef4-6145b8655fca">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>e8a528491b28e4d62a472da7396c7047</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:hash-c941680b-18ae-4b28-9757-68a9e579f824" timestamp="2022-10-13T21:02:58.584917+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Unnamed: Hosted on informnapalm.net. A Syria themed APK. (SpyNote) (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-33ba23d2-b294-425f-9e5d-5006c2e9adc3">
+                <cybox:Object id="meta_stix:File-1f4b1126-0895-4028-a0e7-f2b022588d70">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>1c16ee8b2f0dff7280e1d97522ee7e3f</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:hash-621a1ba8-0cfd-4fb8-a685-a54082711c2f" timestamp="2022-10-13T21:02:58.585059+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Unnamed: Hosted on informnapalm.net. Masquerading as a WhatsApp update. (SpyMax) (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-a50a52d8-7175-4e07-ade1-b9daa95125db">
+                <cybox:Object id="meta_stix:File-0c833453-8beb-4a3d-a6c0-0b12a45f4a77">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>ce274c0bd0743695529a43d7992e2d2c</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:hash-257a66af-2778-4506-836f-15436830ebc0" timestamp="2022-10-13T21:02:58.585207+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Unnamed: Hosted on informnapalm.net. Masquerading as an app for the YPG. (SpyMax) (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-5dbd2ce0-ae57-4ba4-b7f8-c240dba4355c">
+                <cybox:Object id="meta_stix:File-9d7835a3-4eda-47af-ab8e-a91251a1846d">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>185062606b168f04b8b583045d300be5</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_11_action_against_hackers_in_pakistan_and_syria:hash-84f92033-e293-41e7-89fc-579009307ed6" timestamp="2022-10-13T21:02:58.585392+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Unnamed: Hosted on informnapalm.net. Masquerading as an app for the Syrian Civil Defence. (SpyMax) (md5)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-c4c0f1e6-dcc6-4a1a-94cd-27df4c56d216">
+                <cybox:Object id="meta_stix:File-8dca8c76-b751-4f60-8239-b7e76cd734e3">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">MD5</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>c2e55b0d7be1c1991a5b70be7280e528</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+    </stix:Indicators>
+</stix:STIX_Package>

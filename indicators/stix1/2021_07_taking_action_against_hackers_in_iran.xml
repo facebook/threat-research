@@ -1,0 +1,2074 @@
+<stix:STIX_Package 
+	xmlns:stixVocabs="http://stix.mitre.org/default_vocabularies-1"
+	xmlns:DomainNameObj="http://cybox.mitre.org/objects#DomainNameObject-1"
+	xmlns:cyboxCommon="http://cybox.mitre.org/common-2"
+	xmlns:stixCommon="http://stix.mitre.org/common-1"
+	xmlns:cybox="http://cybox.mitre.org/cybox-2"
+	xmlns:stix="http://stix.mitre.org/stix-1"
+	xmlns:indicator="http://stix.mitre.org/Indicator-2"
+	xmlns:meta_stix="https://meta.com/stix"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:ds="http://www.w3.org/2000/09/xmldsig#"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	 id="meta_stix:Package-a613618e-5125-468f-8f06-c39478a766b9" version="1.2">
+    <stix:Indicators>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-7d067c1f-8913-4058-b42d-57c1e835d3c5" timestamp="2022-10-13T21:03:08.329280+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-2d8d64fd-b937-4016-8e43-0638e8e50712">
+                <cybox:Object id="meta_stix:DomainName-981b71e9-712b-49cd-acde-b9810218724b">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">1st-smtp2go.email</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-0036a089-6449-4859-93c9-d0a05788ffc5" timestamp="2022-10-13T21:03:08.330675+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-2b69986e-3992-403a-a153-df1760932f1f">
+                <cybox:Object id="meta_stix:DomainName-fdb6bb3b-3866-468a-b550-95f909722ffa">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">2nd-smtp2go.email</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-ddf25b97-9f0c-46c5-a6f6-e27224bc1b9a" timestamp="2022-10-13T21:03:08.330838+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-0082428e-e75e-4c00-9de7-33f435588904">
+                <cybox:Object id="meta_stix:DomainName-5671ad8d-ab73-4cd5-8bad-54e0f2726ec1">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">3rd-smtp2go.email</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-3a763b88-0377-4367-bad2-c64feaf22ed8" timestamp="2022-10-13T21:03:08.330977+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-9d3830b7-3d03-443e-bec2-169e68da95ea">
+                <cybox:Object id="meta_stix:DomainName-29599494-bccf-4dad-880f-ed1d2ac68943">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">4th-smtp2go.email</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-b2d00cb4-e82a-46a7-be04-395a695b5d2b" timestamp="2022-10-13T21:03:08.331113+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-86fed157-7084-4b7f-8306-f151327d3c9c">
+                <cybox:Object id="meta_stix:DomainName-81e5e6c9-cbea-4def-bb12-cd1d5ad3ccc3">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">accounts.cam</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-12b97ad4-844c-4e6c-8730-23f3c69b6ccb" timestamp="2022-10-13T21:03:08.331248+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-2b989350-260b-48a0-b5f9-5ab305fcab51">
+                <cybox:Object id="meta_stix:DomainName-2c217239-98d3-43c6-b990-c398fa10f83c">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">activesessions.me</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-f459a9a2-01ac-406b-9dbc-42ebfb5a60af" timestamp="2022-10-13T21:03:08.331383+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-c93a9a14-8aed-42b7-8e6f-58ccaf589e1d">
+                <cybox:Object id="meta_stix:DomainName-1f3ab8b4-4808-49b0-ad26-0884c88f7af4">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">adobes.software</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-fde4496d-e6a5-4f8e-ba55-a57b540bc846" timestamp="2022-10-13T21:03:08.331554+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-24c5cd8f-2054-4288-bd8c-4f109d4fc911">
+                <cybox:Object id="meta_stix:DomainName-15983b15-a776-4d00-b724-a5e192bdd2d2">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">alhds.net</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-d9bcc383-4ae4-41cd-9ede-5e3dca64309f" timestamp="2022-10-13T21:03:08.331695+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-8374bf56-8872-4c0a-8988-4a78db3e855e">
+                <cybox:Object id="meta_stix:DomainName-88c153ec-9e62-4295-ae60-42a1d87b81a2">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">apppure.cf</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-5bcb360a-d382-4320-863f-c0d24b15af28" timestamp="2022-10-13T21:03:08.331825+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-cca083a3-b234-4e0c-96bb-316365ad23b8">
+                <cybox:Object id="meta_stix:DomainName-b98dad61-0dd9-4c88-bb28-aa4d07631d02">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">bahri.site</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-b5d7eba6-3c27-4286-a50a-dbf9b91ecf0b" timestamp="2022-10-13T21:03:08.331958+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-6e5d693b-0b70-4343-8fd6-2b34303ec3d1">
+                <cybox:Object id="meta_stix:DomainName-ddcf6f93-6519-4b43-8302-ca97ca853d2b">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">bbcnews.email</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-fe3fdb60-040c-4f11-bd0f-db438406953c" timestamp="2022-10-13T21:03:08.332086+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-9ed15f4b-bb2e-491f-a7da-c5bd8476a696">
+                <cybox:Object id="meta_stix:DomainName-8971c7ec-d424-4853-807b-5c2a480c38f4">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">bitly.cam</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-8beb43e3-ff8e-4130-87a1-856ffa829a4c" timestamp="2022-10-13T21:03:08.332224+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-d6b6dfa6-c15b-4bcf-9d9e-cb03775f7064">
+                <cybox:Object id="meta_stix:DomainName-978c2c11-15c0-434c-ac90-65097998df35">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">biturl.cx</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-656ee719-9d62-42e6-86be-90b8fe5605a9" timestamp="2022-10-13T21:03:08.332347+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-83b29e11-710c-4af0-9a57-df5762c2a5bf">
+                <cybox:Object id="meta_stix:DomainName-a146c836-835e-44cc-bc2d-9a2797e0fce2">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">brdcst.email</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-a70e8911-8be8-473b-9c7c-4897cad9e9c3" timestamp="2022-10-13T21:03:08.332470+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-3f850991-5d68-4245-998c-cad93d503651">
+                <cybox:Object id="meta_stix:DomainName-ff087592-a5b9-4f2b-a4c7-c70a3ca93d5b">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">careeronestop.site</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-8bf2f8b0-012d-4796-b6c0-5f065e72986e" timestamp="2022-10-13T21:03:08.332620+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-ecf38f1b-1770-4ec9-9a29-99c5d5516fa9">
+                <cybox:Object id="meta_stix:DomainName-b28482d6-28ca-48c3-a94b-63b668996802">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">cc-security-inc.email</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-89117eec-e8ef-429b-876e-22a4f3fb7d66" timestamp="2022-10-13T21:03:08.332752+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-1aa3795d-8f4a-47ea-be6e-1d0f5b6954fc">
+                <cybox:Object id="meta_stix:DomainName-b9108b15-ea3b-4119-9da0-7f32a8639057">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">ccsecurity-mail-inc.email</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-4ebb2a7c-5461-4e41-a516-fac41584dacc" timestamp="2022-10-13T21:03:08.332879+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-c73a2695-08fa-488b-8edf-c23c9eb6f2af">
+                <cybox:Object id="meta_stix:DomainName-a3382412-b000-40f8-b189-8da9b13655cd">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">ccsecurity-mail-inc.services</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-7fb0815e-8211-400a-a2aa-734855375356" timestamp="2022-10-13T21:03:08.333005+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-ba7c7a6d-c1b9-4c6e-8094-5b42efc67cb7">
+                <cybox:Object id="meta_stix:DomainName-fc617113-b373-41be-b3a4-2a17460ea32d">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">citymyworkday.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-6f252dd8-140c-4048-9596-56a24b6b832b" timestamp="2022-10-13T21:03:08.333165+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-95465e4a-d787-4c31-a361-f79774479079">
+                <cybox:Object id="meta_stix:DomainName-ae5efa97-9c80-4a41-80d4-e9f62ca92256">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">cityofberkeley.support</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-117167c0-1716-4c9c-9c22-c0b302765e68" timestamp="2022-10-13T21:03:08.333293+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-47d2322d-d6cc-4d39-8571-1f0487bfdb13">
+                <cybox:Object id="meta_stix:DomainName-d50bc713-0c77-48ab-915d-401a2c673184">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">cnbcnews.email</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-1f9a3250-6590-4879-9414-c40a9de917be" timestamp="2022-10-13T21:03:08.333420+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-77808c60-f17e-4ed0-8b72-de881486aba4">
+                <cybox:Object id="meta_stix:DomainName-351b2c69-631a-4620-ab48-09fa4501c9cf">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">cnnnews.global</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-d59870c0-330c-4a72-aa0d-33a2403e5065" timestamp="2022-10-13T21:03:08.333551+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-0f3a21a9-8900-4cb2-ab7e-a97214bc413b">
+                <cybox:Object id="meta_stix:DomainName-09692e9a-24e1-4c28-a4ed-b8a234111418">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">codejquery-ui.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-ee719fb8-36e3-47af-9242-9da149e6c27d" timestamp="2022-10-13T21:03:08.333735+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-dd5d2d0b-ca51-4ae6-b7d3-19c008c9944c">
+                <cybox:Object id="meta_stix:DomainName-9f628e61-cd01-418f-b25a-ab289c5c9230">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">com-account-challenge.email</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-eaf01252-f71d-4ef5-81b0-d0c4392ca5af" timestamp="2022-10-13T21:03:08.333874+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-52cc4dfb-2303-463e-81e6-cd7fc31a3cbe">
+                <cybox:Object id="meta_stix:DomainName-fe733633-374b-45a8-a9e6-b496527f58f8">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">com-signin-v2.email</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-74ecf182-dd2e-4046-966c-a7b776da0975" timestamp="2022-10-13T21:03:08.334001+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-585101fa-89b5-46f8-b96a-e38fce7bdcd3">
+                <cybox:Object id="meta_stix:DomainName-1296207f-4261-412f-84b2-38624ee2e435">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">comlogin.online</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-f5a5b6a0-1dc5-407f-81e8-7c5d12f639c7" timestamp="2022-10-13T21:03:08.334124+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-aa9ca5aa-e4b1-41b4-acae-499fef5905c7">
+                <cybox:Object id="meta_stix:DomainName-2c50383a-0299-4797-ae45-55aa813f6d29">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">comlogin.services</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-28801e03-bcb0-4548-91f9-592cccbe7d4a" timestamp="2022-10-13T21:03:08.334248+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-b056ccfe-3398-464b-a729-06719d6a5e53">
+                <cybox:Object id="meta_stix:DomainName-87021daa-a195-4631-b917-24fde6f7e122">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">copyleft.today</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-93f9ce16-0f1f-4571-80d9-861bc2301bc5" timestamp="2022-10-13T21:03:08.334370+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-ed42c106-94d6-4489-9f08-7f3241e00684">
+                <cybox:Object id="meta_stix:DomainName-021c05d6-996a-4297-95dc-64936f92a88c">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">crisiswatchsupport.shop</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-e0aeea39-aaf9-44e3-807f-4efd8c8b5542" timestamp="2022-10-13T21:03:08.334491+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-939bb574-0a4a-492c-a56a-382ebe56e020">
+                <cybox:Object id="meta_stix:DomainName-7a098920-2a2c-48c6-9fea-d797b7c643b2">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">datacatch.xyz</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-b8597268-918d-41d5-90d7-c3234184fc71" timestamp="2022-10-13T21:03:08.334617+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-437ab038-1483-4c73-9e51-dd9110fea502">
+                <cybox:Object id="meta_stix:DomainName-d8b40d92-f592-4b39-b974-15d0f37e6027">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">dayzim.org</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-aee72e30-ebfd-40f5-8806-fe72411e52af" timestamp="2022-10-13T21:03:08.334738+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-6c5e56f4-14f1-4b3e-8324-ac32157119ec">
+                <cybox:Object id="meta_stix:DomainName-5f33944c-b12a-4e03-9428-6d15a5cf34ef">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">dh135.world</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-81d79aaf-5517-4d48-8e0c-a7fe76d45473" timestamp="2022-10-13T21:03:08.334892+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-c1285c59-a3d5-4436-974a-be1243c9689a">
+                <cybox:Object id="meta_stix:DomainName-a8294dff-b3dd-44cc-9046-8259c3b95b42">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">dollrealdoll.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-81c57d3b-612f-4e99-b619-c86fcbb53974" timestamp="2022-10-13T21:03:08.335015+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-cebcf950-28d5-482d-bef8-6b45af5ff031">
+                <cybox:Object id="meta_stix:DomainName-c09c4f3d-80a9-4d28-8490-d3a9815452c0">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">dollrealdoll.online</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-44f52e32-8f95-4c19-bc02-0415269c5e92" timestamp="2022-10-13T21:03:08.335175+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-ebf2d54a-5cda-4f15-b226-b5898b40a084">
+                <cybox:Object id="meta_stix:DomainName-632879ef-e304-4ab8-a4d2-b589ee366fb4">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">entrust.work</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-a9dc0fdb-ca2b-4490-9e2d-1ce68a19a4dc" timestamp="2022-10-13T21:03:08.335304+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-fe71ba4f-51f5-4637-8055-6eabbc4b7ea5">
+                <cybox:Object id="meta_stix:DomainName-492292d7-12f3-4f34-94f0-0567ee439981">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">erictrumpfundation.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-ed22d51f-1f82-4006-9746-08aa210f9a1b" timestamp="2022-10-13T21:03:08.335431+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-b5d0d485-98e3-4a4c-bb24-f5cfce18fce3">
+                <cybox:Object id="meta_stix:DomainName-f7083b8d-66c7-4721-b882-cee201817629">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">facebookservices.gq</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-f74fec12-8145-4ef6-b313-0d68f685f29e" timestamp="2022-10-13T21:03:08.335586+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-52f2f684-ae40-46de-9549-36a622f553ff">
+                <cybox:Object id="meta_stix:DomainName-6049f4ef-372d-4c56-923a-4d1ea9a3d724">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">fblogin.me</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-0eab0fe5-87cd-4765-b58f-921612f25f13" timestamp="2022-10-13T21:03:08.335718+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-4f60b0a8-7d67-4d51-9d8d-06ebf1dafbb4">
+                <cybox:Object id="meta_stix:DomainName-76ccd3d2-d340-4e65-a56e-98a7b6d81dc5">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">fileblade.ga</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-5372e48e-47b4-4d3d-ad03-6c721fec1ed5" timestamp="2022-10-13T21:03:08.335858+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-812ac747-737e-4126-be28-88d14d40f752">
+                <cybox:Object id="meta_stix:DomainName-8efadef2-f401-491d-9c07-32462538214d">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">findcareersatusbofa.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-00b086ab-f317-400a-829a-a1fde9c8e4cb" timestamp="2022-10-13T21:03:08.335990+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-aee32279-f547-4f10-97d6-40e24aa28b01">
+                <cybox:Object id="meta_stix:DomainName-36e9f027-0cf8-4f28-a0bf-6bce663053fc">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">fiservcareers.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-0cebcae7-1924-4bad-84a3-387f6d25cdb3" timestamp="2022-10-13T21:03:08.336123+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-e102cc51-62ca-48f2-9b2b-fe693b35814f">
+                <cybox:Object id="meta_stix:DomainName-00f4c116-e6dd-49c9-afe4-45ab6d13f3d8">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">goodreads.rest</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-c8bcf96b-7523-4202-86f4-09c6750d753d" timestamp="2022-10-13T21:03:08.336257+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-3908c385-0e08-46e1-be3e-7e39f7a82da6">
+                <cybox:Object id="meta_stix:DomainName-7658b6c9-da7a-4500-a92d-18729cfe3c2e">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">googl.club</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-3eb06ecf-e3e9-41ae-8a99-8ff87c5d3a6c" timestamp="2022-10-13T21:03:08.336386+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-2cbd2554-7b8d-49ec-b0f0-b1c302dc68ce">
+                <cybox:Object id="meta_stix:DomainName-fb87a922-37e5-427d-83db-4bc5c44dbf51">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">gropinggo.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-211043fa-dd40-44ae-ba5a-61d2fc642e65" timestamp="2022-10-13T21:03:08.336548+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-8c236e8f-b7b0-4943-9434-62fde044ffa7">
+                <cybox:Object id="meta_stix:DomainName-dcf2ffd0-de28-4b6e-8fb1-3d7886cf6dbc">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">hex6mak5z98nubb9vpd6t36cydkncfci9im872qx6hjci2egx8irq3qyt9pj.online</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-4a77c633-55fa-4ffe-a94c-5ae5ad444f44" timestamp="2022-10-13T21:03:08.336685+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-13ac0421-8cc7-4907-a2b1-d81a877e08c7">
+                <cybox:Object id="meta_stix:DomainName-7b3ac386-f098-4580-b3c0-b211c3cd4eeb">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">hike.studio</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-37c495c9-6352-4441-a775-1b379a92ee40" timestamp="2022-10-13T21:03:08.336819+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-3f5148f8-7f15-4392-9bf9-38c6d260be39">
+                <cybox:Object id="meta_stix:DomainName-7b57f3c9-7e5d-4de2-a2b7-e222f6266038">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">hiremilitaryheroes.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-1b7e0b23-1058-471b-be32-68301daeadf3" timestamp="2022-10-13T21:03:08.336952+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-58e35331-0635-4724-a032-e34b14b5deb8">
+                <cybox:Object id="meta_stix:DomainName-e6983d87-3d3f-4a82-aaf1-abcce9868ad6">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">hosted-microsoft.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-a17150b7-ddca-4397-a3fe-f5747ebccd24" timestamp="2022-10-13T21:03:08.337085+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-63eebcf4-961f-4da2-bbc1-337cd4367e8f">
+                <cybox:Object id="meta_stix:DomainName-718760be-0d8b-4aa5-a01e-866770e0d833">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">iemail.today</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-0f1f0dba-c1a2-4a1c-adf7-22f54565f128" timestamp="2022-10-13T21:03:08.337216+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-ff45d6ee-507b-4321-8d01-4cd66f359cd1">
+                <cybox:Object id="meta_stix:DomainName-1fb3481d-d3b4-400c-aa38-5c1f77354777">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">incognito.today</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-561b2c9f-5e37-4beb-82be-c1d280a4a688" timestamp="2022-10-13T21:03:08.337352+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-f7bcc0b9-6baa-42f9-ae67-dd89fee58a3e">
+                <cybox:Object id="meta_stix:DomainName-a805f598-9fa5-462d-b593-8836ff318e22">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">infoga.cam</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-d5013ade-ba29-4995-a184-af5c895555fb" timestamp="2022-10-13T21:03:08.337480+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-289cb7cf-c640-4659-a855-af97aa13fb56">
+                <cybox:Object id="meta_stix:DomainName-2bf91e0b-f89c-44a3-b8ba-885db039957b">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">iqtel.org</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-42af3547-f606-4d23-b3ee-401fc71da951" timestamp="2022-10-13T21:03:08.337612+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-2ec55d5e-4c17-4fd1-b35e-54d1f4bfeab5">
+                <cybox:Object id="meta_stix:DomainName-32b999bb-8e30-4f6b-bf44-2414c29a5e56">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">irtreporter.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-132bc09b-20c1-4e84-8d77-e86c82a639ee" timestamp="2022-10-13T21:03:08.337750+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-5fb068a3-0063-48a6-9406-98c288f31434">
+                <cybox:Object id="meta_stix:DomainName-676105aa-769e-4002-91b1-1d2fdf4ba5d4">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">itiee.life</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-e091261f-61a6-406e-9dcf-c0ebe0ed8935" timestamp="2022-10-13T21:03:08.337876+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-43aed388-fb4f-4306-ab6f-998dac3880db">
+                <cybox:Object id="meta_stix:DomainName-8b386644-c073-418e-83d7-d43435c7d293">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">itieee.life</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-f00cc3a2-edde-4698-b9b9-a0a7e250279b" timestamp="2022-10-13T21:03:08.338001+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-749ee866-5ab8-4629-a19e-05a676060956">
+                <cybox:Object id="meta_stix:DomainName-56aac92e-9c50-481a-8dfb-aada04a15a95">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">jessicamcgill.life</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-096f27a1-aac7-45a8-9373-b82cc3f7a816" timestamp="2022-10-13T21:03:08.338143+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-ae9741d5-93ba-434b-a533-a2cb2593a8b1">
+                <cybox:Object id="meta_stix:DomainName-1ddc712f-8cd1-4c8a-a72d-36498cb1fb85">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">jqueryui-code.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-2545bdb8-5433-4d61-82c1-273f57a67b4a" timestamp="2022-10-13T21:03:08.338301+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-da0a07c9-865f-4b0b-a147-ef1fb88c4763">
+                <cybox:Object id="meta_stix:DomainName-9905f128-afb8-462a-b17b-7b6fe2a25011">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">jumhuria.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-99fdc844-327d-4f08-b639-f5070c6c4e6e" timestamp="2022-10-13T21:03:08.338431+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-0055a0ab-fff1-4f43-b64c-4071e1639764">
+                <cybox:Object id="meta_stix:DomainName-1b9e7a14-a1bc-43e1-a492-9e8572c46106">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">kartick.net</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-07d013c3-e0e2-4f42-9644-73d0a830afb4" timestamp="2022-10-13T21:03:08.338567+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-11c1f0a6-3e86-42ba-8cd3-db5b601abf32">
+                <cybox:Object id="meta_stix:DomainName-5c322563-4bb1-4fce-b51d-3b069dbd34f6">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">kaspersky.team</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-9d4c64ae-57d5-4bd1-a55e-1817067f82e9" timestamp="2022-10-13T21:03:08.338712+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-d9480cc0-6f58-4e7c-8cec-7e7222b03587">
+                <cybox:Object id="meta_stix:DomainName-cbff61a7-899f-4d27-822e-0e43cbfa1ca2">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">linkgen.me</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-ca75cb3a-d83e-4151-b92a-a61b688f9a85" timestamp="2022-10-13T21:03:08.338842+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-3f4cd9e2-9c24-49d1-84b1-f16b6d2599cb">
+                <cybox:Object id="meta_stix:DomainName-4532223c-8ec9-4e71-be87-c72fb0cb0337">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">linksbit.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-47efe82d-880c-4f2d-bdf9-03e04a5ae6bb" timestamp="2022-10-13T21:03:08.338998+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-12b22783-0806-4d6d-a1ce-ca80ae018e07">
+                <cybox:Object id="meta_stix:DomainName-205bbbc0-4c75-4f2a-961f-cf38d3173395">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">linq.ink</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-b81b39b8-9340-47da-883b-4b6a8de052ee" timestamp="2022-10-13T21:03:08.339131+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-a53d328d-0947-4e2e-bbf5-e77c38c228a5">
+                <cybox:Object id="meta_stix:DomainName-05ed8931-c27a-4282-a91e-b12452423333">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">liveleak.cam</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-ffc6d6f4-aed3-49dc-bb0c-4ba3e2bb8a6f" timestamp="2022-10-13T21:03:08.339264+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-f747b72a-e1db-4988-abb4-1c819d1eedc8">
+                <cybox:Object id="meta_stix:DomainName-0dba9d98-f3d8-4b04-b5e1-11f183b5f9fd">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">liveuamap.live</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-c9eeb974-c771-4cf3-ad7a-f84d4ea9d176" timestamp="2022-10-13T21:03:08.339398+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-1eecd9bf-b035-4365-814c-1bd5a5f97613">
+                <cybox:Object id="meta_stix:DomainName-61306260-7029-42bb-aa25-6cc3b254b172">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">lockheedmartinjobs.us</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-83dab9bc-0a74-43c2-8ad0-020d0d421880" timestamp="2022-10-13T21:03:08.339533+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-b96259a3-77d9-4d52-986d-81187d8afb3e">
+                <cybox:Object id="meta_stix:DomainName-dc5d978e-10bf-4bbc-b600-abf44cf1a824">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">loginaccount.email</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-d59c4341-e3cb-4c13-b89c-e4097b502d3a" timestamp="2022-10-13T21:03:08.339665+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-e1179653-3564-43db-afe9-88c976797cf7">
+                <cybox:Object id="meta_stix:DomainName-46fb386c-5d8c-4a64-91f2-253a863a160b">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">logonexchangeonline.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-e9fc6ad2-9838-4e25-9c27-d9804946d162" timestamp="2022-10-13T21:03:08.339796+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-d5b5240b-f6f9-4925-9b83-ff983fcd07d8">
+                <cybox:Object id="meta_stix:DomainName-be3071a9-29b4-467a-b6d8-2adf01780fe6">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">logonmicrosoftonline.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-0976c7f7-04d7-44dd-b07f-d206bd8b29f2" timestamp="2022-10-13T21:03:08.339963+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-0f11b966-20e0-4724-9a62-e27e61cd4f9f">
+                <cybox:Object id="meta_stix:DomainName-0f55ac5b-a1e1-452c-a114-7b1eca055f26">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">lskjirn.life</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-d08845b1-9636-47a8-95a6-500b53b5ec6a" timestamp="2022-10-13T21:03:08.340098+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-da9758c1-9516-47ee-bf04-a34b73f51142">
+                <cybox:Object id="meta_stix:DomainName-8d21af17-8620-44a2-a97f-c810d0a79cc4">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">mail2go.live</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-9b8fc043-da6e-4145-aee0-1ea2f07f6e3f" timestamp="2022-10-13T21:03:08.340232+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-aa65b34d-fe19-48bb-a143-1d5a0c4c62ad">
+                <cybox:Object id="meta_stix:DomainName-865e1c37-ad09-46ac-baac-25ff1a3cf119">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">mail2go.online</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-0552612a-c363-40fc-97b0-949bbcbb8cf3" timestamp="2022-10-13T21:03:08.340388+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-6b848572-45ca-4cd5-89e7-7fe4c50f7423">
+                <cybox:Object id="meta_stix:DomainName-77f47660-b01e-4dfc-b974-e52d49165ff8">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">mail2u.live</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-867f009e-447b-4d2b-b413-e6250244bf7c" timestamp="2022-10-13T21:03:08.340524+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-a5683b75-1e1e-4eab-b6d8-f4fbc8d322cd">
+                <cybox:Object id="meta_stix:DomainName-795666a6-bbc3-4f92-b69f-cd9c12a441af">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">mailaccountlive.email</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-b7500190-efac-4240-8023-a4c8c4a7cccd" timestamp="2022-10-13T21:03:08.340654+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-92bbdf73-959c-434a-b628-c2a228bcadac">
+                <cybox:Object id="meta_stix:DomainName-eeccaed4-d2cb-42c6-8dd5-6c11b1ec897e">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">mailaccountlive.support</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-d098c07e-bdff-4004-ad2f-b17c8234b4ce" timestamp="2022-10-13T21:03:08.340787+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-5c7c6d5c-bfe5-4223-89e8-34fefac2664f">
+                <cybox:Object id="meta_stix:DomainName-36defec7-50fc-4a07-a766-51363a408619">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">mailpublisher.live</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-35079f18-eff8-4f51-b53b-d58c0b8ed40f" timestamp="2022-10-13T21:03:08.340917+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-8d3e2ce7-6023-4a1a-8cee-f127ff92b1b4">
+                <cybox:Object id="meta_stix:DomainName-138d8dec-2ecc-4d62-95fe-242ba8c3ff2b">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">mails.center</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-0d719a5a-cf1a-4b50-a93f-ee5b77211eb0" timestamp="2022-10-13T21:03:08.341048+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-65192e3b-102a-4916-9d24-bec8a0037824">
+                <cybox:Object id="meta_stix:DomainName-32dd886d-f523-4782-acbb-23e179cbd279">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">metacafe.live</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-2d8e1e84-5877-4c4e-8dff-88644d310fa7" timestamp="2022-10-13T21:03:08.341181+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-b1c3e91b-0b12-46a5-96eb-13446f8079f0">
+                <cybox:Object id="meta_stix:DomainName-db0180bc-f561-4d55-81ae-4d8d9a214379">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">micorsoftonilne.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-0ae480be-45a1-4c2f-9978-6dbf0df2545c" timestamp="2022-10-13T21:03:08.341312+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-b4199657-d4b4-490f-ac24-01ad2c807313">
+                <cybox:Object id="meta_stix:DomainName-ad249b93-f737-4a75-b774-83eaf382190f">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">micorsoftonline.website</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-ed97017b-eb2d-4021-8a90-f945a67e09f4" timestamp="2022-10-13T21:03:08.341445+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-7c893209-0024-442c-b683-dff7b19a3372">
+                <cybox:Object id="meta_stix:DomainName-45b17eb5-85f5-4032-bf1d-07704d6b936d">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">micorsoftonline.xyz</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-4fb76961-4034-461d-977d-36fa9c05df0c" timestamp="2022-10-13T21:03:08.341588+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-d22825f5-11d0-4221-9ca0-5eae4c226cbb">
+                <cybox:Object id="meta_stix:DomainName-050bfadd-7307-4dbd-979d-2e2ce78894e1">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">microsoftoffice.systems</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-91b37749-1321-4c91-b022-0a5aeebf85a1" timestamp="2022-10-13T21:03:08.341741+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-b7cfc21e-f2e6-41b4-941e-b532263847a6">
+                <cybox:Object id="meta_stix:DomainName-53b8ee76-fc96-475a-89df-c09c3979cb18">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">microsoftonilne.cloud</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-03a00369-e737-484c-8c59-d80eba1b32a2" timestamp="2022-10-13T21:03:08.341862+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-5af13c40-4bed-43d8-8aed-27f74458dfe2">
+                <cybox:Object id="meta_stix:DomainName-2dba1596-fc9f-4cc1-8e00-30a7eddebe55">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">mispace.cam</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-424b8147-96db-4ea3-bbb1-92666030ce4a" timestamp="2022-10-13T21:03:08.342005+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-b3091fa2-9f93-444f-94f4-07b8f353d30d">
+                <cybox:Object id="meta_stix:DomainName-f675d328-bc66-4b4b-a7de-7676b0e15406">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">msol.live</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-f067f22c-eb7e-4942-b493-4c514403239b" timestamp="2022-10-13T21:03:08.342133+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-c9eab010-e95a-4e54-9b58-8a7fd460474e">
+                <cybox:Object id="meta_stix:DomainName-d63400d2-9dd1-4d32-98b9-11cf316a1c43">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">msonline.live</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-b9861859-9a57-4500-86c5-84007f2c5d8b" timestamp="2022-10-13T21:03:08.342264+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-405174e8-4337-44f5-b722-d8ca6e2de335">
+                <cybox:Object id="meta_stix:DomainName-7005d450-d9f4-40d9-837a-68381bed556c">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">mssecurityaccount.online</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-cc03c776-7135-44c3-98aa-1393c880f77d" timestamp="2022-10-13T21:03:08.342412+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-f52a1d42-0bf3-461a-bbe2-bbeecf518d61">
+                <cybox:Object id="meta_stix:DomainName-67f6e3ad-6ecc-4707-8248-797cf61334a2">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">mydomainxyz.xyz</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-8b68f82d-1396-4fb3-a938-ae44d432ec07" timestamp="2022-10-13T21:03:08.342542+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-6734b15d-dc95-45d1-952d-6ea0ec08d2c5">
+                <cybox:Object id="meta_stix:DomainName-36bc4180-1bcc-4360-bd30-ae8fcbcd05bd">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">news-smtp2go.email</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-a19161d3-c471-40cb-995e-33058dd44848" timestamp="2022-10-13T21:03:08.342675+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-f3c787ca-e37e-49fb-a842-596123d282f0">
+                <cybox:Object id="meta_stix:DomainName-6f067f3b-0121-4df5-81ec-c331040f57dc">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">newsl.ink</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-236c3094-42e6-446a-904e-da56a6f1abe1" timestamp="2022-10-13T21:03:08.342803+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-7d08105e-18b6-46d8-a6d6-9fca97b43755">
+                <cybox:Object id="meta_stix:DomainName-477142c6-de1a-40e8-b021-eba6e7f672b2">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">noreplay.email</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-6af0e13b-9bdf-4249-a04b-ff538aaf6ddf" timestamp="2022-10-13T21:03:08.342938+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-33760fb6-5e45-4b5c-83f3-dea391fbc8ca">
+                <cybox:Object id="meta_stix:DomainName-42a4d955-9fd3-4a01-b8e0-83408c35a049">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">novafile.tk</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-f0664e86-215d-4167-96b5-5b72965d82e8" timestamp="2022-10-13T21:03:08.343067+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-1247ef48-b0ed-4b13-a343-c954adb141f6">
+                <cybox:Object id="meta_stix:DomainName-d5688132-49d3-41bd-b272-f77b92f0d41c">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">onpointcorp.co</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-f87b053d-6fdc-4f06-8c47-7e2b51b11db4" timestamp="2022-10-13T21:03:08.343206+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-edb3ba19-f378-46f4-9b4a-c4595fd6af0a">
+                <cybox:Object id="meta_stix:DomainName-e61814c8-0ff3-4309-a14e-03cb72da60b6">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">outlook-services.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-40c95fce-a1a8-4aed-be7f-ff8ac69ee8e0" timestamp="2022-10-13T21:03:08.343337+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-fa8074c8-30ac-4ce9-b28b-e7e71a1ff9fa">
+                <cybox:Object id="meta_stix:DomainName-7043ae64-d997-4028-8a31-88905a36fbe9">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">outlookservices.live</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-608859f2-def4-4afa-9f08-3eabeb9ab334" timestamp="2022-10-13T21:03:08.343494+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-a1cceb90-6575-4424-ab37-0c3d82a685a3">
+                <cybox:Object id="meta_stix:DomainName-84219b22-d3af-4dea-845d-5e2ffe203c12">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">outlookservices.me</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-c701aaf4-744d-4131-9994-3a41e17a98b8" timestamp="2022-10-13T21:03:08.343633+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-5138d724-6af3-4981-aaab-075d920eb3bf">
+                <cybox:Object id="meta_stix:DomainName-9e4ac454-9ba1-4460-b0b0-548edd79efac">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">outube.live</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-5d99f17f-4eda-408b-8992-23ad4e0f8101" timestamp="2022-10-13T21:03:08.343756+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-fea63ee1-e495-4bcc-a683-e341ba88f8cd">
+                <cybox:Object id="meta_stix:DomainName-7c3fca2e-0a99-4945-9468-6c454227632a">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">pic-shareonline.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-78f56c82-c5ac-4d1e-9fa4-a9c560949e2a" timestamp="2022-10-13T21:03:08.343879+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-891d758a-c7f5-4dbe-bfdb-11b884e2bc0d">
+                <cybox:Object id="meta_stix:DomainName-0e804374-9ba4-4cd5-b20e-88d274eec79d">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">pixlr.live</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-2bdf7817-5e1e-4f7d-9279-889d4f6ec0aa" timestamp="2022-10-13T21:03:08.344002+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-dabb9fbb-0a0a-4be8-a827-e64631e011d8">
+                <cybox:Object id="meta_stix:DomainName-145510c6-7f06-403c-8ec6-86d0341b4d72">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">pixlr.myftp.org</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-34c727b8-3972-4de2-8b24-cd9db566d8b7" timestamp="2022-10-13T21:03:08.344124+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-f013e910-282d-44cc-b564-11d5fb188f9d">
+                <cybox:Object id="meta_stix:DomainName-d4dded45-4e4b-4f7e-b7b0-d44d0dc0d912">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">post-jquery.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-b27ea8e8-10cc-4ce7-bdc2-4d5ac76f46da" timestamp="2022-10-13T21:03:08.344247+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-378ca81f-04d4-4ac7-a584-2dbb6d81aa57">
+                <cybox:Object id="meta_stix:DomainName-72c28dd0-06a0-40e4-bacc-c33670149779">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">prefiles.ml</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-1fe7ef69-b8e3-43f0-ac57-593ccee1d5c0" timestamp="2022-10-13T21:03:08.344368+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-934c8981-384d-484c-9c81-530f8105a188">
+                <cybox:Object id="meta_stix:DomainName-6698eb38-b643-470d-a8ad-29714d72eaa8">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">publicsgroupe.net</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-a489de68-8eed-4df9-9d1f-dfda91a549f7" timestamp="2022-10-13T21:03:08.344509+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-fd3a1c7f-e80f-45c6-80b3-3b18a2a3df2a">
+                <cybox:Object id="meta_stix:DomainName-a974aa4b-d5be-45c2-9e60-186aec90d1a0">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">pwutc.live</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-05af3a6a-22d9-4f0f-ad29-d06c7d105d0c" timestamp="2022-10-13T21:03:08.344634+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-ef546900-1a57-4a92-97c3-a658d3ec12d6">
+                <cybox:Object id="meta_stix:DomainName-8072b9ba-5a7d-4a60-90ed-c85ab2403a34">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">rali.live</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-8cc478af-3907-46d3-8fbc-34f0ffc8e15b" timestamp="2022-10-13T21:03:08.344756+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-17cf2fc8-cd1e-49fa-a9b4-7b22e74cdd9a">
+                <cybox:Object id="meta_stix:DomainName-9329e9d4-351b-4e9c-906e-2c3b40ce667b">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">recruitme.international</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-822889c0-c155-42ea-83b8-edd5cfc38cd2" timestamp="2022-10-13T21:03:08.344877+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-18f515cf-4a30-44c8-bcee-8ee9b12db596">
+                <cybox:Object id="meta_stix:DomainName-c6200170-b6e1-43b0-8d5f-a8cbbacf70c9">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">robotics.land</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-bc555da0-fa2d-4298-8823-545f63e1aad7" timestamp="2022-10-13T21:03:08.345001+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-3738157e-a8aa-410a-bca2-3ea2ed38e3fb">
+                <cybox:Object id="meta_stix:DomainName-398ab7f0-e6f8-42e0-a0df-9872c266f656">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">sabic.work</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-55c413f4-b13e-4896-9c35-c6df67210227" timestamp="2022-10-13T21:03:08.345153+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-3c9a499f-b70e-4546-bb2a-2df7f25f7da6">
+                <cybox:Object id="meta_stix:DomainName-c1d7ceac-05bb-4451-9d5c-bae56bcf8fd2">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">sandsngo.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-af083b01-9a89-43df-b14c-f58a027d290a" timestamp="2022-10-13T21:03:08.345278+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-fa261efe-0232-41d6-a46c-7f0f8492e8db">
+                <cybox:Object id="meta_stix:DomainName-e17e2aa9-0494-4531-970f-2c72d779cba7">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">saudivisions2030.org</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-fad22966-38f3-4d5f-8aaa-5da4389a51b1" timestamp="2022-10-13T21:03:08.345400+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-9117c2da-5530-4d18-9e7e-c63794a54c9d">
+                <cybox:Object id="meta_stix:DomainName-e1709304-f883-4b9b-818e-0bd3d9f1cad7">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">securityaccountreply.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-23419278-fcc8-48e4-98d9-f47970335183" timestamp="2022-10-13T21:03:08.345523+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-7d62d477-dbc9-4c36-b005-9c0f7c4ed794">
+                <cybox:Object id="meta_stix:DomainName-d7d50156-e854-474f-aa8e-508ebcfa516d">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">seery.online</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-850edfcb-47c5-4747-8446-04059b5149ed" timestamp="2022-10-13T21:03:08.345666+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-9da08034-813a-42f1-a6d8-e3975de4418f">
+                <cybox:Object id="meta_stix:DomainName-b263ecf0-57a5-4986-ace2-758e41c72e8f">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">sendblaster.org</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-fa5c8350-685e-4923-9bcb-bb81748ac132" timestamp="2022-10-13T21:03:08.345795+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-b0e0e625-238f-40cd-becf-2b5424643956">
+                <cybox:Object id="meta_stix:DomainName-ed032eac-8ca8-42e3-96dc-3cd279fedba2">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">sender.gb.net</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-4434ada7-d016-4da3-ac59-d94d6fbe4eee" timestamp="2022-10-13T21:03:08.345925+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-a922db1c-44a7-424c-8677-256143a99b60">
+                <cybox:Object id="meta_stix:DomainName-574ded3e-6691-480b-9745-798f9aa02893">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">shareae.cf</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-c0a1f8a1-75e8-4cff-a04d-ba839f2601b1" timestamp="2022-10-13T21:03:08.346052+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-37482382-2459-486f-b935-f831c283b916">
+                <cybox:Object id="meta_stix:DomainName-08d9c065-eec2-4df4-8406-f8bba8167064">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">shlink.run</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-2b3f31a0-7f85-40a8-85db-86f0a540ce3a" timestamp="2022-10-13T21:03:08.346199+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-23df2fe0-301b-454b-8e49-d836855b89a3">
+                <cybox:Object id="meta_stix:DomainName-48f7f91e-e223-483a-8432-c211769f07f7">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">shlnk.run</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-ed492156-0408-46f1-b917-483f3ef50753" timestamp="2022-10-13T21:03:08.346329+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-ca07c3c0-b480-401d-bf66-daa17db1874b">
+                <cybox:Object id="meta_stix:DomainName-5b094a78-509c-42b5-bc14-c7d2619d3594">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">short-l.link</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-25df8b5b-b1a5-476b-95d9-aaea6f1cd0cc" timestamp="2022-10-13T21:03:08.346461+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-49e4cfb0-b2a4-46a1-ba2b-e5e5943aac99">
+                <cybox:Object id="meta_stix:DomainName-aa27bfe4-e452-4533-9f69-20886e8d1c46">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">shortli.live</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-12aa380c-bce8-4a91-8003-0548001c85ae" timestamp="2022-10-13T21:03:08.346589+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-f5e9dad2-33ac-4bc1-87b6-4b7031fe4856">
+                <cybox:Object id="meta_stix:DomainName-f032a01f-bfc8-4565-905c-25c9dfab5afd">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">shrt.rip</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-1ef519ee-79f3-4e1f-aede-1b93fabf44ad" timestamp="2022-10-13T21:03:08.347159+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-f8c9a37c-92fe-4702-a5a1-13e238f0cad1">
+                <cybox:Object id="meta_stix:DomainName-4c003b80-65f2-404c-98bf-09dfd00a69f2">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">shur.live</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-964af2b0-59bf-4453-a2dd-29b386813fa8" timestamp="2022-10-13T21:03:08.347320+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-96b4c8b9-9a6a-4a54-a498-998ef15a1584">
+                <cybox:Object id="meta_stix:DomainName-ec557794-43c8-4622-bfc4-fc2822f9d992">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">shurl.site</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-74e4bfa6-debf-41b7-b3a2-3d610bc36e18" timestamp="2022-10-13T21:03:08.347473+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-5db57c0a-756e-4a64-9a82-70ffe5f60d8b">
+                <cybox:Object id="meta_stix:DomainName-dff9ffe6-eed1-4a96-830d-f4b65b4d7752">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">site1.life</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-655abb11-5976-4032-9502-9852e07ba8c0" timestamp="2022-10-13T21:03:08.347601+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-15990590-b8ad-409f-a400-b496a220afd8">
+                <cybox:Object id="meta_stix:DomainName-28606844-021c-423c-9617-777a97c11d97">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">smtp-2go.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-ef23e7ce-80e1-465b-a8a4-ec210468f0b6" timestamp="2022-10-13T21:03:08.347724+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-9c8dc392-6b96-4249-8673-11d80c29f695">
+                <cybox:Object id="meta_stix:DomainName-60e08d2f-7e2c-41fd-8d42-40ceb2a320a8">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">smtp2go.best</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-e0a202b6-839a-47d7-b881-27576fc8673e" timestamp="2022-10-13T21:03:08.347855+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-7d2f41fe-198f-40b4-ba49-9679eec5f3c2">
+                <cybox:Object id="meta_stix:DomainName-024785e9-961c-42a5-817e-a51037f95d99">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">smtp2go.club</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-117f0ae2-4e2e-4221-8587-50bd4e1a0ac3" timestamp="2022-10-13T21:03:08.347994+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-c0d1ac38-6882-4052-818d-9dfdc962e1a1">
+                <cybox:Object id="meta_stix:DomainName-178a2682-15f0-461d-9b4c-266c0a3f2286">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">smtp2go.email</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-bf6beed9-e0fe-4c56-b991-8c42b728c177" timestamp="2022-10-13T21:03:08.348140+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-fc72fb5d-37d0-4964-9edc-4787d6cb84dd">
+                <cybox:Object id="meta_stix:DomainName-495edc81-2dc7-477b-a30f-5e1b7c59d3e4">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">smtp2go.fun</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-8bc199a1-9b07-44fe-9be9-379b5c726f14" timestamp="2022-10-13T21:03:08.348274+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-f58229b1-208c-427d-a69b-d4ee920d0b00">
+                <cybox:Object id="meta_stix:DomainName-7a8b5c30-6643-4011-bd3a-16ed8b8a993e">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">smtp2go.icu</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-242f3ff2-a7b8-4785-b804-283a4095a27f" timestamp="2022-10-13T21:03:08.348402+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-b94f0a1b-27d4-492e-b19f-a67735751bf0">
+                <cybox:Object id="meta_stix:DomainName-1b13306e-8d7e-4324-9007-d2f1bb3ca693">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">smtp2go.live</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-e35379de-9f8b-4848-b8b4-b49a315f9e51" timestamp="2022-10-13T21:03:08.348540+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-4a9b8a7a-ec1f-412b-ae85-6ceb3bf6bc4d">
+                <cybox:Object id="meta_stix:DomainName-b4565c1c-c495-49a4-ae4e-6f1c97894a04">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">smtp2go.me</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-f78e14fb-5056-42f5-ac9d-05374178066f" timestamp="2022-10-13T21:03:08.348671+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-a2183eff-60cc-4352-b382-278f8397070e">
+                <cybox:Object id="meta_stix:DomainName-7a7b8328-3403-4afb-9dab-1e638edd3104">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">smtp2go.pw</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-632e2be6-e8fd-4de1-acf2-e93b5153094b" timestamp="2022-10-13T21:03:08.348804+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-da1340f4-cbaa-4172-b82d-f8501761aa7d">
+                <cybox:Object id="meta_stix:DomainName-d6311982-f983-4be7-9beb-84870067cecc">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">smtp2go.site</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-c7a229d5-5591-4927-85c1-a4550cdb74c8" timestamp="2022-10-13T21:03:08.359843+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-b6c9cc08-a6c6-43c6-b62d-8486d6e11e00">
+                <cybox:Object id="meta_stix:DomainName-6d0033e2-e1a2-412f-a5f5-c9b9381a33f7">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">smtp2go.space</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-dfd5cf17-24ce-4d08-a010-75d3152f6654" timestamp="2022-10-13T21:03:08.360009+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-64dd082c-a11f-4355-98b7-10e9f9f31a12">
+                <cybox:Object id="meta_stix:DomainName-17562c9b-3723-419f-8ebd-b74ba531e5b6">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">smtp2go.website</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-6ce6eec8-7c27-4363-b9d8-93f6fb0620d9" timestamp="2022-10-13T21:03:08.360146+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-a12681c5-5b40-4c01-bcb7-f29f0c333633">
+                <cybox:Object id="meta_stix:DomainName-971a7dcd-b92d-4a06-86f3-4a34bc44c5ba">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">smtper.center</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-b27b0786-997d-4320-b08d-c1c4f3105486" timestamp="2022-10-13T21:03:08.360290+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-1508886c-a0ce-4763-81ff-7daaa5a3802a">
+                <cybox:Object id="meta_stix:DomainName-4929e15b-3ed1-4bc9-b5d5-1d308bf91ae4">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">smtptogo.pw</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-9df730ad-93fd-4ed9-9a64-559bf9334960" timestamp="2022-10-13T21:03:08.360421+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-185b5a99-5006-4470-b610-a93f4ea3e258">
+                <cybox:Object id="meta_stix:DomainName-d466a19a-8ba8-4f28-9142-140b80a52b40">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">soc-usa.email</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-4fb95cab-81f6-453b-b79a-a5d44244c95d" timestamp="2022-10-13T21:03:08.360543+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-13a895f6-63cf-4bc2-a5de-d0b8bcc02e58">
+                <cybox:Object id="meta_stix:DomainName-f0d0c95a-2b55-47f6-926a-d89c8667adb0">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">soundcloud.fun</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-bcd49e62-d505-4670-9df9-74aa6470e1fc" timestamp="2022-10-13T21:03:08.360669+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-b3f11751-e459-47d4-9a9c-cd75fb660982">
+                <cybox:Object id="meta_stix:DomainName-4d8ebe4d-1a60-41ac-8fce-caee5b4c1b44">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">soundcloud.live</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-be2ebe63-4dea-4d86-88ef-2176a2880e61" timestamp="2022-10-13T21:03:08.360792+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-ccdb27fd-6ba5-4cb5-ac0a-9cab6d15289e">
+                <cybox:Object id="meta_stix:DomainName-cf4a4d9e-5436-42eb-b848-ca13b3df4a38">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">spreadme.international</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-5fb47775-3b39-4bd6-bd12-560b918bff0e" timestamp="2022-10-13T21:03:08.360914+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-46b1c35d-a242-4482-b66f-b24ec5f1ef71">
+                <cybox:Object id="meta_stix:DomainName-8ce26329-4d20-4d6d-a34a-7fa0b67e026b">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">src-ymlang.link</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-aee1bad7-7214-4aec-a8d0-05b2dc150085" timestamp="2022-10-13T21:03:08.361039+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-05c345c1-b974-43c6-ad68-37e4ec81e9f1">
+                <cybox:Object id="meta_stix:DomainName-7149ba58-ab4b-4c93-a31d-b1945b0aba93">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">support-securitymail.email</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-14c4d1d2-4eb2-4171-bdfa-bee8ceb67355" timestamp="2022-10-13T21:03:08.361169+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-4e726623-6cb7-414a-8374-419467b4ae01">
+                <cybox:Object id="meta_stix:DomainName-bd29aa2d-1df8-4df1-ad66-38dad1dd46b7">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">support-ymail-team.online</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-6d8aa135-9ae5-47e4-80ad-c521b4f73b68" timestamp="2022-10-13T21:03:08.361333+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-538a8950-9841-40cf-8c45-aec2a50867b3">
+                <cybox:Object id="meta_stix:DomainName-d7952a24-8bf1-422f-a32c-28fde0f32417">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">surl.ist</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-645a85fd-b2a8-4b23-a30f-0b6de971009e" timestamp="2022-10-13T21:03:08.361484+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-58d702c8-503a-43d5-aed5-c7ef89c4dc38">
+                <cybox:Object id="meta_stix:DomainName-3ede5069-8608-43c3-bdc2-7c4b5782caf3">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">surl.live</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-3c873ca4-2284-4755-bc6d-9327e536513b" timestamp="2022-10-13T21:03:08.361612+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-af176c00-4b50-47b3-8be8-6e34670f7b11">
+                <cybox:Object id="meta_stix:DomainName-28e06d20-8165-4663-8665-4f2038303d9e">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">sxk8xrjtaikv3dxl7hgghw3vptvxpzzxeynrcltu4k3yeecjq3.online</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-d9485cc2-2fef-427a-8d2c-01803f5848bf" timestamp="2022-10-13T21:03:08.361735+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-7e473b07-4c98-4169-9328-6fa8834863d4">
+                <cybox:Object id="meta_stix:DomainName-05794c14-2fd5-4bb3-8fcd-05e33c70095c">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">systembackend.site</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-a414061e-2deb-454e-be7f-56e9d4b856ac" timestamp="2022-10-13T21:03:08.361858+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-07839e51-4521-40c5-8787-2d7d768883f4">
+                <cybox:Object id="meta_stix:DomainName-144fc117-ee1c-4362-a432-2836d46286b4">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">techmahindra.support</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-1dc4e9bd-5b1a-4aab-b5e1-ff1300d5b4f1" timestamp="2022-10-13T21:03:08.361987+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-cf716cc5-7d9a-43ab-978d-9e96b722814e">
+                <cybox:Object id="meta_stix:DomainName-467002f2-29dd-46b7-8ccd-0b9072e29b3e">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">teleweb.world</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-3d576e7e-f30d-4af2-9735-83a5c1ae3f8a" timestamp="2022-10-13T21:03:08.362108+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-ef6f2a11-db8a-4cf6-8a92-c64b4e8cc359">
+                <cybox:Object id="meta_stix:DomainName-b73c5dbd-949e-4e76-9799-79150d5a2cf8">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">tetra.email</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-b0c4f97b-7d3f-4cb3-9d63-1315696d5e03" timestamp="2022-10-13T21:03:08.362234+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-88fe704b-8ccd-428d-bda0-f7ceb73efd3c">
+                <cybox:Object id="meta_stix:DomainName-e26fc8d1-f576-4d26-b291-ab8e7e285695">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">thegardian.ml</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-6fc808c0-b391-45b8-8649-641ffaeb836d" timestamp="2022-10-13T21:03:08.362358+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-9f55560b-2edf-4a25-8f16-8cc0356f7c8a">
+                <cybox:Object id="meta_stix:DomainName-c729a075-17b6-4c08-b467-b026f06dda1b">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">thegaurdian.live</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-3609f4de-32e8-475c-80b1-17ec42dbfc10" timestamp="2022-10-13T21:03:08.362480+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-58ff51d2-aee8-441f-95f9-b3424cb21d1a">
+                <cybox:Object id="meta_stix:DomainName-aea7b15a-5400-4f0e-affd-cbc5253ebf0c">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">thomsonsreuters.email</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-aa4cd041-ffcb-471f-8ec6-25efd49cc132" timestamp="2022-10-13T21:03:08.362605+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-5a8742bb-b9a2-4987-bd06-659d05b94f33">
+                <cybox:Object id="meta_stix:DomainName-668ee265-36f0-44f4-9871-01ac859ac617">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">thomsonsreuters.eu</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-dcda65b0-0345-4279-bc4a-8451b1ddda55" timestamp="2022-10-13T21:03:08.362726+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-6e065a6f-41b2-4351-b5b7-2c2950b5f9a8">
+                <cybox:Object id="meta_stix:DomainName-8b528c1f-9fb1-4c1d-abeb-2ff46a6984aa">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">thomsonsreuters.link</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-d3a6b964-3855-4271-b175-4e5233fd7de9" timestamp="2022-10-13T21:03:08.362848+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-17cedafe-ad18-4a56-896a-cf6bac839b80">
+                <cybox:Object id="meta_stix:DomainName-0453477b-890f-4639-81dd-e8e32ce6acec">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">thomsonsreuters.net</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-c3259f0f-ca95-4232-968b-645d8ddb7c9d" timestamp="2022-10-13T21:03:08.362973+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-38139c2d-2f72-4496-a2e0-aa6becadefd3">
+                <cybox:Object id="meta_stix:DomainName-72263a14-a282-42f7-b77a-d1e46f53024a">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">tinil.ink</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-c06fd633-085a-445c-bacc-b1bd450c91a9" timestamp="2022-10-13T21:03:08.363125+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-c775381e-5f79-4720-a2fc-a218a6cfa1b6">
+                <cybox:Object id="meta_stix:DomainName-a22bd001-0018-42db-a9c7-4b2752f0ff3f">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">tinly.me</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-46d3e928-9a05-4a84-89b5-631200607b68" timestamp="2022-10-13T21:03:08.363248+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-2c7935bd-8411-498b-aeeb-4cf779a7106d">
+                <cybox:Object id="meta_stix:DomainName-a5830e7d-bed6-4576-b6f1-34bfb95f2893">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">tinylink.pro</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-b44cb25e-3508-4ff4-a973-262093e83047" timestamp="2022-10-13T21:03:08.363371+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-c65ed24a-22a7-43b0-a79c-7462683ce1f7">
+                <cybox:Object id="meta_stix:DomainName-632752c3-e957-4f32-9964-07e63b219ba9">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">tinyurl.gold</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-e4b0da71-6d97-4629-8a58-96dec1d5bab5" timestamp="2022-10-13T21:03:08.363491+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-b01b00de-9b54-446d-8f11-e1ca9f2a5ee2">
+                <cybox:Object id="meta_stix:DomainName-679d3576-de19-45fb-843a-3801356a78b2">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">tiwpan.xyz</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-97b2db0d-a8a5-4071-be76-799c8ddf0445" timestamp="2022-10-13T21:03:08.363616+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-1500ed6e-347d-4661-af59-b4f036619428">
+                <cybox:Object id="meta_stix:DomainName-d699087a-e591-4ac9-93fa-4c6284563618">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">tox.cheap</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-5f3854f0-fce0-4f0a-9c73-19e85ae3e9a1" timestamp="2022-10-13T21:03:08.363754+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-3896ce09-c401-43bf-9cc0-53fb23d5078e">
+                <cybox:Object id="meta_stix:DomainName-8de333b2-e79c-4e6c-a545-30980cb5d243">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">treasury.email</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-d5ec9d5f-1c78-4116-be02-d9f195c090c2" timestamp="2022-10-13T21:03:08.363902+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-349146b0-63ab-4658-8321-5578a9fb3175">
+                <cybox:Object id="meta_stix:DomainName-709691ed-cd15-4840-87b7-a5f805a7c9f5">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">treporter.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-1a9affe6-231d-4860-93eb-d21436f7e2b0" timestamp="2022-10-13T21:03:08.364032+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-02d36e12-2800-4048-a8c4-c24b3770be8b">
+                <cybox:Object id="meta_stix:DomainName-dba471b6-db3a-4173-90a2-9478085c87e7">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">trumphotel.net</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-07891736-4ff7-41f2-82e2-1b953eb1e3b7" timestamp="2022-10-13T21:03:08.364165+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-52393496-3c50-40f9-9568-b21612828495">
+                <cybox:Object id="meta_stix:DomainName-876d2d30-e7de-4d1b-883c-6e7dd96dcc69">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">trumpnationallosangeles.email</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-8c2e1158-fad5-4151-9631-16e5b72868c5" timestamp="2022-10-13T21:03:08.364300+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-63252bad-26c1-4b99-baa1-2b16e77b953a">
+                <cybox:Object id="meta_stix:DomainName-f8e897b0-9c68-4e2e-bf19-ed25b0cbdb50">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">trumporganization.world</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-482bbf7d-f33c-43c6-9c40-4279f9b3ece2" timestamp="2022-10-13T21:03:08.364428+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-d07a75a6-fed8-49bb-b613-66e9492c54ea">
+                <cybox:Object id="meta_stix:DomainName-f6fead9a-ed54-4b7f-afd0-5e70888a4467">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">trumporganizations.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-c6d786cf-7615-44d3-930a-25f3362fdde0" timestamp="2022-10-13T21:03:08.364562+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-7b25eadd-f85a-4e60-bf82-178700a33e95">
+                <cybox:Object id="meta_stix:DomainName-7a02dede-a20a-4b33-8e93-04ff61eed8a7">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">tv-youtube.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-63009987-6952-48b5-91db-ea1a00d31b9a" timestamp="2022-10-13T21:03:08.364718+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-5abe181b-a937-44a3-bc4f-a73d9a8279f7">
+                <cybox:Object id="meta_stix:DomainName-776ef841-5cd5-458c-b3cb-863aaf17d0e4">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">uploaderfile.cf</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-7c283d04-631b-49b4-a511-fb4f938f0a18" timestamp="2022-10-13T21:03:08.364854+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-205c84db-aec5-4026-88b0-92b27c8a31a1">
+                <cybox:Object id="meta_stix:DomainName-103bba83-5fa3-402c-923c-f1bb0aec9a30">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">usdailypost.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-5608f475-78ce-4c63-85c8-728091268791" timestamp="2022-10-13T21:03:08.364989+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-3f3743d3-6766-4120-9856-70d97a2b9a2e">
+                <cybox:Object id="meta_stix:DomainName-8c12ff38-2705-45aa-9384-e35aca13786d">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">usdailypost.net</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-cb3a642d-42d6-4d3b-8097-d51a66cf53c6" timestamp="2022-10-13T21:03:08.365130+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-9b354141-1ec8-446d-b9e9-b0966d6237fe">
+                <cybox:Object id="meta_stix:DomainName-63638235-881f-479c-a336-d1a002f5103c">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">usdp.news</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-636fa462-4f83-4386-b1cc-6896d560c17f" timestamp="2022-10-13T21:03:08.365258+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-a6268cf3-2a5b-436b-948b-60ba33e594a0">
+                <cybox:Object id="meta_stix:DomainName-df833ed9-50e5-45bf-9000-e149eb7c783c">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">vps.limited</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-d8770697-d5b9-47f1-a472-a0ed9c3e2658" timestamp="2022-10-13T21:03:08.365386+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-ce8b7941-f6f6-4e2d-b0a8-2b0a91eb6081">
+                <cybox:Object id="meta_stix:DomainName-b25cd803-7a85-4553-8e94-732ff32fa97a">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">watch-youtube.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-1b7cc3ce-ddbb-46eb-b0aa-fab87e3aa455" timestamp="2022-10-13T21:03:08.365514+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-022613eb-4ce0-4789-b3b4-a5c953705c38">
+                <cybox:Object id="meta_stix:DomainName-5bb6acfa-55e1-4136-8cf9-fc3dbff83dd2">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">wikileaks.email</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-045c88e7-0664-4fc8-ae4e-ee79c2fd8364" timestamp="2022-10-13T21:03:08.365643+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-1ac6762a-29a2-47ff-8709-249a98950bc5">
+                <cybox:Object id="meta_stix:DomainName-14547ade-581a-4fe5-9504-fa003d68e722">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">workshopplatform.network</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-8bc7a5ac-2aac-4c10-a352-01a562e6b906" timestamp="2022-10-13T21:03:08.365778+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-ba4fe580-3918-45b6-9fc0-b065e9faf6e6">
+                <cybox:Object id="meta_stix:DomainName-c5f7b6ac-1599-4bb0-b45d-59471453d287">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">xn--rumphotels-vcc.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-df1bc212-6859-411a-b8a7-e1122e937b1f" timestamp="2022-10-13T21:03:08.365909+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-51844aee-3602-485c-b945-36d88274481b">
+                <cybox:Object id="meta_stix:DomainName-e06e18dc-41a7-4112-8529-3263d2592321">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">xn--twitte-u9a.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-9f496a17-3f28-474f-9ca0-1f4b9e1f371c" timestamp="2022-10-13T21:03:08.366034+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-604200df-e38d-465a-b30c-07a245741b38">
+                <cybox:Object id="meta_stix:DomainName-6da1f04c-eab1-4ba0-84dc-b510356239b5">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">xyzsitexyz.xyz</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-9da9c729-a3dc-45f1-a5b9-054244595692" timestamp="2022-10-13T21:03:08.366153+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-43ea95db-9a00-4aaa-83f4-f6c555c04353">
+                <cybox:Object id="meta_stix:DomainName-3594af84-306b-4285-a14e-0046035598bb">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">ymail-account.support</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-2975c004-e36b-452f-89d7-4b634b8bbf30" timestamp="2022-10-13T21:03:08.366280+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-4abe0ad2-3371-4d52-aba0-61c0e49ad997">
+                <cybox:Object id="meta_stix:DomainName-f9d94a96-0d08-4f6e-b898-404f042daccf">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">ymail-security-support.email</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-760fa60e-2030-4511-b0d1-e8a473e68607" timestamp="2022-10-13T21:03:08.366430+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-aff12818-d0f7-4bfa-a3ed-667558d85b20">
+                <cybox:Object id="meta_stix:DomainName-a42b7395-8b6a-4b15-b38d-a95c2c81d0fa">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">ymail-security.support</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-c3c52bc6-4454-4b23-95e3-05a928053792" timestamp="2022-10-13T21:03:08.366557+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-82d39d79-9143-4190-87ac-c3f0e54fe31b">
+                <cybox:Object id="meta_stix:DomainName-7c0fde77-dd40-40a9-ba71-1e65e0a925fb">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">ymailaccounts.us</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-6c90864c-e917-4c6e-8a4a-be4bc58326dc" timestamp="2022-10-13T21:03:08.366681+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-47444478-0f6d-407b-8385-af0dfe7c7036">
+                <cybox:Object id="meta_stix:DomainName-efc5bca9-8479-44d7-b261-78edef98d028">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">ymailsupport.info</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2021_07_taking_action_against_hackers_in_iran:domain_name-af345683-1605-49d7-9a41-25c21db68ac1" timestamp="2022-10-13T21:03:08.366812+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>Iran: Tortoiseshell related Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-574034f8-02e8-4c6b-aa0e-f26089d76d29">
+                <cybox:Object id="meta_stix:DomainName-5d6d0716-e88b-4f83-b216-116352a4c7c9">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">zain.network</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+    </stix:Indicators>
+</stix:STIX_Package>
