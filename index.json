@@ -7,7 +7,9 @@
 		"indicators" : {
 			"csv_files" : ["indicators/csv/2022_malicious_mobile_apps.csv"],
 			"json_files" : ["indicators/json/2022_malicious_mobile_apps.json"],
-			"tsv_files" : ["indicators/tsv/2022_malicious_mobile_apps.tsv"]
+			"tsv_files" : ["indicators/tsv/2022_malicious_mobile_apps.tsv"],
+			"stix1_files" : ["indicators/stix1/2022_malicious_mobile_apps.xml"],
+			"stix2_files" : []
 		},
 		"signatures" : {
 			"yara_files" : []
@@ -21,7 +23,9 @@
 		"indicators" : {
 			"csv_files" : ["indicators/csv/2022_09_removing_coordinated_inauthentic_behavior_from_china_and_russia.csv"],
 			"json_files" : ["indicators/json/2022_09_removing_coordinated_inauthentic_behavior_from_china_and_russia.json"],
-			"tsv_files" : ["indicators/tsv/2022_09_removing_coordinated_inauthentic_behavior_from_china_and_russia.tsv"]
+			"tsv_files" : ["indicators/tsv/2022_09_removing_coordinated_inauthentic_behavior_from_china_and_russia.tsv"],
+			"stix1_files" : ["indicators/stix1/2022_09_removing_coordinated_inauthentic_behavior_from_china_and_russia.xml"],
+			"stix2_files" : []
 		},
 		"signatures" : {
 			"yara_files" : []
@@ -35,7 +39,9 @@
 		"indicators" : {
 			"csv_files" : ["indicators/csv/2022_08_metas_adversarial_threat_report_q2.csv"],
 			"json_files" : ["indicators/json/2022_08_metas_adversarial_threat_report_q2.json"],
-			"tsv_files" : ["indicators/tsv/2022_08_metas_adversarial_threat_report_q2.tsv"]
+			"tsv_files" : ["indicators/tsv/2022_08_metas_adversarial_threat_report_q2.tsv"],
+			"stix1_files" : ["indicators/stix1/2022_08_metas_adversarial_threat_report_q2.xml"],
+			"stix2_files" : []
 		},
 		"signatures" : {
 			"yara_files" : ["signatures/yara/2022_08_metas_adversarial_threat_report_q2.yara"]
@@ -49,7 +55,9 @@
 		"indicators" : {
 			"csv_files" : ["indicators/csv/2022_04_metas_adversarial_threat_report_q1.csv"],
 			"json_files" : ["indicators/json/2022_04_metas_adversarial_threat_report_q1.json"],
-			"tsv_files" : ["indicators/tsv/2022_04_metas_adversarial_threat_report_q1.tsv"]
+			"tsv_files" : ["indicators/tsv/2022_04_metas_adversarial_threat_report_q1.tsv"],
+			"stix1_files" : ["indicators/stix1/2022_04_metas_adversarial_threat_report_q1.xml"],
+			"stix2_files" : []
 		},
 		"signatures" : {
 			"yara_files" : ["signatures/yara/2022_04_metas_adversarial_threat_report_q1.yara"]
@@ -63,7 +71,9 @@
 		"indicators" : {
 			"csv_files" : ["indicators/csv/2021_12_taking_action_against_surveillance_for_hire.csv"],
 			"json_files" : ["indicators/json/2021_12_taking_action_against_surveillance_for_hire.json"],
-			"tsv_files" : ["indicators/tsv/2021_12_taking_action_against_surveillance_for_hire.tsv"]
+			"tsv_files" : ["indicators/tsv/2021_12_taking_action_against_surveillance_for_hire.tsv"],
+			"stix1_files" : ["indicators/stix1/2021_12_taking_action_against_surveillance_for_hire.xml"],
+			"stix2_files" : []
 		},
 		"signatures" : {
 			"yara_files" : []
@@ -77,7 +87,9 @@
 		"indicators" : {
 			"csv_files" : ["indicators/csv/2021_11_action_against_hackers_in_pakistan_and_syria.csv"],
 			"json_files" : ["indicators/json/2021_11_action_against_hackers_in_pakistan_and_syria.json"],
-			"tsv_files" : ["indicators/tsv/2021_11_action_against_hackers_in_pakistan_and_syria.tsv"]
+			"tsv_files" : ["indicators/tsv/2021_11_action_against_hackers_in_pakistan_and_syria.tsv"],
+			"stix1_files" : ["indicators/stix1/2021_11_action_against_hackers_in_pakistan_and_syria.xml"],
+			"stix2_files" : []
 		},
 		"signatures" : {
 			"yara_files" : []
@@ -91,7 +103,9 @@
 		"indicators" : {
 			"csv_files" : ["indicators/csv/2021_07_taking_action_against_hackers_in_iran.csv"],
 			"json_files" : ["indicators/json/2021_07_taking_action_against_hackers_in_iran.json"],
-			"tsv_files" : ["indicators/tsv/2021_07_taking_action_against_hackers_in_iran.tsv"]
+			"tsv_files" : ["indicators/tsv/2021_07_taking_action_against_hackers_in_iran.tsv"],
+			"stix1_files" : ["indicators/stix1/2021_07_taking_action_against_hackers_in_iran.xml"],
+			"stix2_files" : []
 		},
 		"signatures" : {
 			"yara_files" : []
@@ -105,7 +119,9 @@
 		"indicators" : {
 			"csv_files" : ["indicators/csv/2021_04_taking_action_against_hackers_in_palestine.csv"],
 			"json_files" : ["indicators/json/2021_04_taking_action_against_hackers_in_palestine.json"],
-			"tsv_files" : ["indicators/tsv/2021_04_taking_action_against_hackers_in_palestine.tsv"]
+			"tsv_files" : ["indicators/tsv/2021_04_taking_action_against_hackers_in_palestine.tsv"],
+			"stix1_files" : ["indicators/stix1/2021_04_taking_action_against_hackers_in_palestine.xml"],
+			"stix2_files" : []
 		},
 		"signatures" : {
 			"yara_files" : []
@@ -119,7 +135,9 @@
 		"indicators" : {
 			"csv_files" : ["indicators/csv/2021_03_taking_action_against_hackers_in_china.csv"],
 			"json_files" : ["indicators/json/2021_03_taking_action_against_hackers_in_china.json"],
-			"tsv_files" : ["indicators/tsv/2021_03_taking_action_against_hackers_in_china.tsv"]
+			"tsv_files" : ["indicators/tsv/2021_03_taking_action_against_hackers_in_china.tsv"],
+			"stix1_files" : ["indicators/stix1/2021_03_taking_action_against_hackers_in_china.xml"],
+			"stix2_files" : []
 		},
 		"signatures" : {
 			"yara_files" : []
@@ -133,7 +151,9 @@
 		"indicators" : {
 			"csv_files" : ["indicators/csv/2020_12_taking_action_against_hackers_in_bangladesh_and_vietnam.csv"],
 			"json_files" : ["indicators/json/2020_12_taking_action_against_hackers_in_bangladesh_and_vietnam.json"],
-			"tsv_files" : ["indicators/tsv/2020_12_taking_action_against_hackers_in_bangladesh_and_vietnam.tsv"]
+			"tsv_files" : ["indicators/tsv/2020_12_taking_action_against_hackers_in_bangladesh_and_vietnam.tsv"],
+			"stix1_files" : ["indicators/stix1/2020_12_taking_action_against_hackers_in_bangladesh_and_vietnam.xml"],
+			"stix2_files" : []
 		},
 		"signatures" : {
 			"yara_files" : ["signatures/yara/2020_12_taking_action_against_hackers_in_bangladesh_and_vietnam.yara"]

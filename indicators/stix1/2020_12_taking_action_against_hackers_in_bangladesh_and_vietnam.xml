@@ -1,0 +1,139 @@
+<stix:STIX_Package 
+	xmlns:stixVocabs="http://stix.mitre.org/default_vocabularies-1"
+	xmlns:cyboxVocabs="http://cybox.mitre.org/default_vocabularies-2"
+	xmlns:FileObj="http://cybox.mitre.org/objects#FileObject-2"
+	xmlns:DomainNameObj="http://cybox.mitre.org/objects#DomainNameObject-1"
+	xmlns:cyboxCommon="http://cybox.mitre.org/common-2"
+	xmlns:cybox="http://cybox.mitre.org/cybox-2"
+	xmlns:stixCommon="http://stix.mitre.org/common-1"
+	xmlns:indicator="http://stix.mitre.org/Indicator-2"
+	xmlns:stix="http://stix.mitre.org/stix-1"
+	xmlns:meta_stix="https://meta.com/stix"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:ds="http://www.w3.org/2000/09/xmldsig#"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	 id="meta_stix:Package-7a704338-c66a-4240-affc-2bf254179b53" version="1.2">
+    <stix:Indicators>
+        <stix:Indicator id="2020_12_taking_action_against_hackers_in_bangladesh_and_vietnam:hash-891c3c16-6907-492e-843b-2f1f9225d7cb" timestamp="2022-10-13T21:03:34.155282+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT32: Malware Hash (sha256)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-c57c1979-8311-45e2-8c67-59c3ab5f84bb">
+                <cybox:Object id="meta_stix:File-910c4c72-e161-4123-9104-7b90e49482ba">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">SHA256</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>768510fa9eb807bba9c3dcb3c7f87b771e20fa3d81247539e9ea4349205e39eb</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2020_12_taking_action_against_hackers_in_bangladesh_and_vietnam:hash-5e188ed4-8bd3-48c8-9a13-1d4383944336" timestamp="2022-10-13T21:03:34.156756+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT32: Malware Hash (sha256)</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">File Hash Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-fd0a0d3d-d041-40cb-88f2-42658005e9bd">
+                <cybox:Object id="meta_stix:File-fc0fa75a-1aeb-4545-8a2b-3e1b248338ac">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">SHA256</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>69730f2c2bb9668a17f8dfa1f1523e0e1e997ba98f027ce98f5cbaa869347383</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2020_12_taking_action_against_hackers_in_bangladesh_and_vietnam:domain_name-5ee60c48-b471-4a2d-9e9f-87cb68462a24" timestamp="2022-10-13T21:03:34.156941+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT32: Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-ef20091a-bf2f-41df-a414-f520ac7474e3">
+                <cybox:Object id="meta_stix:DomainName-6fa39f1e-de40-4b85-8586-359b11c59bcd">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">tocaoonline.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2020_12_taking_action_against_hackers_in_bangladesh_and_vietnam:domain_name-9427fda5-2866-4b7b-abf8-86e0c5bd40d9" timestamp="2022-10-13T21:03:34.157087+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT32: Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-976d426e-5065-45c8-bb6e-ca79a3a3d43d">
+                <cybox:Object id="meta_stix:DomainName-be4f8bb5-4fec-4cec-9b57-0e67fd321424">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">qh2020.org</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2020_12_taking_action_against_hackers_in_bangladesh_and_vietnam:domain_name-d8ee0e04-0ec9-49c6-8a4a-ed5b43a10ef9" timestamp="2022-10-13T21:03:34.157222+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT32: Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-96f850de-5f97-4567-b6cf-18b0a9bbfb3d">
+                <cybox:Object id="meta_stix:DomainName-f7c48a1b-7026-4599-b637-3c07af6b5c17">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">tinmoivietnam.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2020_12_taking_action_against_hackers_in_bangladesh_and_vietnam:domain_name-daf36fa3-02e6-4708-94bf-d0cea612f928" timestamp="2022-10-13T21:03:34.157352+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT32: Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-9689d4b6-c85c-47ab-a9ec-4d85462d23cc">
+                <cybox:Object id="meta_stix:DomainName-dcb891da-9e1c-426d-985b-d16e605ce92e">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">nhansudaihoi13.org</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2020_12_taking_action_against_hackers_in_bangladesh_and_vietnam:domain_name-e15ae0bd-6b83-471e-87ac-ca73b2254498" timestamp="2022-10-13T21:03:34.157483+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT32: Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-c821493f-806f-4526-9e52-9c474dd1f6bc">
+                <cybox:Object id="meta_stix:DomainName-c9c49885-1a6e-4dda-a79f-6f70b8bdde22">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">chatluongvacuocsong.vn</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2020_12_taking_action_against_hackers_in_bangladesh_and_vietnam:domain_name-7bec926a-a71d-47e7-800d-96e05ff1cf39" timestamp="2022-10-13T21:03:34.157612+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT32: Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-b19efd13-0911-4f92-a51c-37772e8ac075">
+                <cybox:Object id="meta_stix:DomainName-270d5907-1a21-43e5-8999-f7d89a65b4b3">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">tocaoonline.org</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2020_12_taking_action_against_hackers_in_bangladesh_and_vietnam:domain_name-6c5d5b84-53e4-4754-95ec-8721fb434624" timestamp="2022-10-13T21:03:34.157736+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT32: Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-5264a606-6324-41d7-b41c-d6ccdfe14f2c">
+                <cybox:Object id="meta_stix:DomainName-cac735d9-0b27-4946-89f9-3ddec9038676">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">facebookdeck.com</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+        <stix:Indicator id="2020_12_taking_action_against_hackers_in_bangladesh_and_vietnam:domain_name-90d4840c-8e62-4799-9b80-3f93eef50814" timestamp="2022-10-13T21:03:34.157898+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>APT32: Domain</indicator:Title>
+            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
+            <indicator:Observable id="meta_stix:Observable-9abdce23-31bd-4ef1-bf4e-9a2c150108f9">
+                <cybox:Object id="meta_stix:DomainName-f8934365-73fa-431b-aa15-5abc331537e1">
+                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
+                        <DomainNameObj:Value condition="Equals">thundernews.org</DomainNameObj:Value>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+        </stix:Indicator>
+    </stix:Indicators>
+</stix:STIX_Package>
