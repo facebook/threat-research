@@ -16,6 +16,7 @@ This repository contains indicators and methods for detecting malware and other 
 * `android_package_name` - An Android package name (e.g. com.example.app) _For STIX v1 this is placed within a File object in the "Filename" field_
 * `ios_app_id` - An iOS App ID (e.g. 10000000001) _For STIX v1 this is placed within a File object in the "Filename" field_
 * `domain_name` - A domain name
+* `url` - A URL
 * `md5` - An MD5 Hash
 * `sha256` - A SHA256 Hash
 * `ip` - An IP Address
@@ -62,6 +63,7 @@ Open an Issue on Github and we'll look into it
 Under the MIT License (see `LICENSE`)
 
 ## Index of Filenames
+* 2023_05_malware_iocs (csv, json, stix1, tsv) - https://about.fb.com/news/2023/05/how-meta-protects-businesses-from-malware/
 * 2022_malicious_mobile_apps (csv, json, stix1, tsv) - https://about.fb.com/news/2022/10/protecting-people-from-malicious-account-compromise-apps/
 * 2022_09_removing_coordinated_inauthentic_behavior_from_china_and_russia (csv, json, stix1, tsv) - https://about.fb.com/news/2022/09/removing-coordinated-inauthentic-behavior-from-china-and-russia/
 * 2022_08_metas_adversarial_threat_report_q2 (csv, json, stix1, tsv, yara) - https://about.fb.com/news/2022/08/metas-adversarial-threat-report-q2-2022/

@@ -1,5 +1,21 @@
 [
 	{
+		"id" : "2023_05_malware_iocs",
+		"added_ds" : "2023-05-03",
+		"reported_ds" : "2023-05-03",
+		"reference_urls" : ["https://about.fb.com/news/2023/05/how-meta-protects-businesses-from-malware/"],
+		"indicators" : {
+			"csv_files" : ["indicators/csv/2023_05_malware_iocs.csv"],
+			"json_files" : ["indicators/json/2023_05_malware_iocs.json"],
+			"tsv_files" : ["indicators/tsv/2023_05_malware_iocs.tsv"],
+			"stix1_files" : ["indicators/stix1/2023_05_malware_iocs.xml"],
+			"stix2_files" : []
+		},
+		"signatures" : {
+			"yara_files" : []
+		}
+	},
+	{
 		"id" : "2022_malicious_mobile_apps",
 		"added_ds" : "2022-10-04",
 		"reported_ds" : "2022-10-03",
