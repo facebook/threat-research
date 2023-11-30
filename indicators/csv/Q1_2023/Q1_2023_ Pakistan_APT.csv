@@ -1,0 +1,86 @@
+Tactic,Technique,Procedure,Indicator,Commernts
+0 Acquiring Assets,0.6 Acquiring domains,"0.6.1 Acquiring domains to host, deploy, and
+support malware campaigns",bingechat[.]net,Domain hosting GravityRAT malware
+0 Acquiring Assets,0.6 Acquiring domains,"0.6.1 Acquiring domains to host, deploy, and
+support malware campaigns",cloudinfinity[.]co[.]uk,Domain hosting GravityRAT malware
+0 Acquiring Assets,0.6 Acquiring domains,"0.6.1 Acquiring domains to host, deploy, and
+support malware campaigns",vaultcloud[.]net,Domain hosting GravityRAT malware
+0 Acquiring Assets,0.6 Acquiring domains,"0.6.1 Acquiring domains to host, deploy, and
+support malware campaigns",cloudstore[.]net[.]in,Domain hosting GravityRAT malware
+0 Acquiring Assets,0.6 Acquiring domains,"0.6.1 Acquiring domains to host, deploy, and
+support malware campaigns",chatico[.]co[.]uk,Domain hosting GravityRAT malware
+0 Acquiring Assets,0.6 Acquiring domains,"0.6.1 Acquiring domains to host, deploy, and
+support malware campaigns",textra360[.]com,Domain likely used to host cross-compiled Gravity RAT malware for MacOS
+0 Acquiring Assets,0.6 Acquiring domains,"0.6.1 Acquiring domains to host, deploy, and
+support malware campaigns",moviedate[.]co[.]uk,
+0 Acquiring Assets,0.6 Acquiring domains,"0.6.1 Acquiring domains to host, deploy, and
+support malware campaigns",sexyber[.]net,
+0 Acquiring Assets,0.6 Acquiring domains,"0.6.1 Acquiring domains to host, deploy, and
+support malware campaigns",webbucket[.]co[.]uk,
+0 Acquiring Assets,0.6 Acquiring domains,"0.6.1 Acquiring domains to host, deploy, and
+support malware campaigns",cvscout[.]uk,
+0 Acquiring Assets,0.6 Acquiring domains,"0.6.1 Acquiring domains to host, deploy, and
+support malware campaigns",cvwriter[.]co[.]in,
+0 Acquiring Assets,0.6 Acquiring domains,"0.6.1 Acquiring domains to host, deploy, and
+support malware campaigns",androidwebkit[.]com,
+0 Acquiring Assets,0.6 Acquiring domains,"0.6.1 Acquiring domains to host, deploy, and
+support malware campaigns",comicum[.]co[.]uk,
+0 Acquiring Assets,0.6 Acquiring domains,"0.6.1 Acquiring domains to host, deploy, and
+support malware campaigns",craftwithme[.]uk,
+0 Acquiring Assets,0.6 Acquiring domains,"0.6.1 Acquiring domains to host, deploy, and
+support malware campaigns",recoverbin[.]co[.]uk,
+0 Acquiring Assets,0.6 Acquiring domains,"0.6.1 Acquiring domains to host, deploy, and
+support malware campaigns",crypted[.]co[.]in,
+0 Acquiring Assets,0.6 Acquiring domains,"0.6.1 Acquiring domains to host, deploy, and
+support malware campaigns",hookups4u[.]com,
+0 Acquiring Assets,0.7 Acquiring malware,0.7.1 Developing custom malware,3f827039964a09f1179f66d6b2f9fe31,BingeChat (Gravity RAT) hash
+0 Acquiring Assets,0.7 Acquiring malware,0.7.1 Developing custom malware,7d6a6edc28579ac632d666d0dae86d0b,CloudStore (Gravity RAT) hash
+0 Acquiring Assets,0.7 Acquiring malware,0.7.1 Developing custom malware,dc00d22c2c04c49a40cb7cbd81080a7a,Chatico (Gravity RAT) hash
+0 Acquiring Assets,0.7 Acquiring malware,0.7.1 Developing custom malware,de54f9b71f957808ea84fbda7895e329,WebBucket (attacker controlled-application) hash
+0 Acquiring Assets,0.7 Acquiring malware,0.7.1 Developing custom malware,f3c868403b3d468a2ab013a4d79613b0,Textra360 application (attacker-controlled application) hash
+0 Acquiring Assets,0.7 Acquiring malware,0.7.1 Developing custom malware,de47f3525c4de36096f2888ac0947deb,CVScout (attacker-controlled application) hash
+0 Acquiring Assets,0.7 Acquiring malware,0.7.1 Developing custom malware,321817f1f1d1a78b89682a79fdda0485,Sexyber (attacker-controlled application) hash
+0 Acquiring Assets,0.9 Acquiring social media acounts,0.9.1 Acquiring Facebook assets,About 120 accounts on Facebook and Instagram,
+0 Acquiring Assets,0.9 Acquiring social media acounts,0.9.2 Acquiring Instagram accounts,About 120 accounts on Facebook and Instagram,
+,,,,
+1 Disguising assets,1.2 Posing as non-existent person,1.2.1 Posing as person seeking romance,Posing as women seeking romance,
+1 Disguising assets,1.2 Posing as non-existent person,1.2.2 Posing as fictional journalist,Posing as journalists,
+1 Disguising assets,1.2 Posing as non-existent person,1.2.5 Posing as fictional military personnel,Posing as military personnel,
+1 Disguising assets,1.2 Posing as non-existent person,1.2.6 Posing as fictional recruiter / potential employer,Posing as recruiters for defense companies (real or fictitious),
+1 Disguising assets,1.2 Posing as non-existent person,1.2.6 Posing as fictional recruiter / potential employer,Posing as government recruiters,
+1 Disguising assets,1.6 Disguising malware sites,1.6.1 Disguising malware as romantic site,Disguising malware sites as dating sites,
+1 Disguising assets,1.6 Disguising malware sites,1.6.2 Disguising malware sites as CV / resumé advice sites / apps,Disguising malware sites as CV / resumé advice sites / apps,
+1 Disguising assets,1.6 Disguising malware sites,1.6.3 Disguising malware sites as cloud storage providers or file sharing services,Disguising malware sites as cloud storage providers or file sharing services,
+1 Disguising assets,1.6 Disguising malware sites,1.6.4 Disguising malware site as entertainment site,Disguising malware site as entertainment site,
+,,,,
+3 Coordinating and planning,3.4 Running command and control infrastructure,3.4.1 Using domains and subdomains for command and control (C2),dev.jdklibraries[.]com,
+3 Coordinating and planning,3.4 Running command and control infrastructure,3.4.1 Using domains and subdomains for command and control (C2),jre.jdklibraries[.]com,
+3 Coordinating and planning,3.4 Running command and control infrastructure,3.4.1 Using domains and subdomains for command and control (C2),androidadbserver[.]com,
+3 Coordinating and planning,3.4 Running command and control infrastructure,3.4.1 Using domains and subdomains for command and control (C2),api2.androidsdkstream[.]com,
+3 Coordinating and planning,3.4 Running command and control infrastructure,3.4.1 Using domains and subdomains for command and control (C2),api4.androidsdkstream[.]com,
+3 Coordinating and planning,3.4 Running command and control infrastructure,3.4.1 Using domains and subdomains for command and control (C2),adb.androidadbserver[.]com,
+3 Coordinating and planning,3.4 Running command and control infrastructure,3.4.1 Using domains and subdomains for command and control (C2),ping.androidadbserver[.]com,
+3 Coordinating and planning,3.4 Running command and control infrastructure,3.4.1 Using domains and subdomains for command and control (C2),cld.androidadbserver[.]com,
+3 Coordinating and planning,3.4 Running command and control infrastructure,3.4.1 Using domains and subdomains for command and control (C2),jupiter.playstoreapi[.]net,
+3 Coordinating and planning,3.4 Running command and control infrastructure,3.4.1 Using domains and subdomains for command and control (C2),moon.playstoreapi[.]net,
+3 Coordinating and planning,3.4 Running command and control infrastructure,3.4.1 Using domains and subdomains for command and control (C2),mars.playstoreapi[.]net,
+3 Coordinating and planning,3.4 Running command and control infrastructure,3.4.1 Using domains and subdomains for command and control (C2),venus.playstoreapi[.]net,
+,,,,
+5 Evading detection,5.1 Privacy protection,5.1.1 Privacy protecting website registrations,Registering domains with Tucows Domains,
+5 Evading detection,5.1 Privacy protection,5.1.1 Privacy protecting website registrations,Registering domains with Internet Domain Services BS Corp t/a Internet.bs,
+5 Evading detection,5.1 Privacy protection,5.1.1 Privacy protecting website registrations,Registering domains with Ionos SE,
+5 Evading detection,5.1 Privacy protection,5.1.1 Privacy protecting website registrations,Registering domains with TLD Registrar Solutions Ltd.,
+5 Evading detection,5.1 Privacy protection,5.1.1 Privacy protecting website registrations,Registering domains with Namecheap Inc,
+5 Evading detection,5.5 Obfuscating infrastructure,5.5.3 Using third-party hosting providers,Using third party file hosting providers to host and distribute malware,
+,,,,
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,Sharing malicious links & files via non-malicious custom applications ,Inferred behavior
+,,,,
+8 Compromising assets,8.1 Social engineering,8.1.1 Socially engineering targets to deliver malware,Socially engineering targets to visit sites hosting malware,
+8 Compromising assets,8.1 Social engineering,8.1.1 Socially engineering targets to deliver malware,"Socially engineering targets to download Windows, Android, or MacOS malware",
+,,,,
+9 Enabling longevity,9.4 Upgrading capabilities,9.4.1 Upgrading malware capabilities ,Releasing Gravity RAT for Windows,
+9 Enabling longevity,9.4 Upgrading capabilities,9.4.1 Upgrading malware capabilities ,Releasing Gravity RAT for Android,
+9 Enabling longevity,9.4 Upgrading capabilities,9.4.1 Upgrading malware capabilities ,Releasing Gravity RAT for MacOS,
+9 Enabling longevity,9.4 Upgrading capabilities,9.4.1 Upgrading malware capabilities ,Adding resilience to command-and-control infrastructure in response to disruptions and exposures,
+9 Enabling longevity,9.5 Replacing infrastructure,9.5.2 Changing domains,Creating new domains to host malware after older ones were exposed,
+9 Enabling longevity,9.5 Replacing infrastructure,9.5.1 Changing social media accounts ,Creating new fake social media accounts to replace disabled ones,
