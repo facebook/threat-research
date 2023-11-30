@@ -6,8 +6,8 @@ Welcome to the Meta Threat Research Indicator Repository, a dedicated resource f
 
 ## 📚 Resources
 - **Threat Reports:** For comprehensive threat analysis, [visit our Transparency Center]( https://transparency.fb.com/metasecurity/threat-reporting/)
-- **IOC & Threat Indicator Folders:** Access the repository of Indicators of Compromise and threat indicators [here](#)
-- **Index of tactics, techniques and procedures (TTPs) :** For an index of the current TTPs [here](#)
+- **IOC & Threat Indicator Folders:** Access the repository of Indicators of Compromise and threat indicators [here](https://github.com/facebook/threat-research/tree/main/indicators)
+- **Index of tactics, techniques and procedures (TTPs) :** For an index of the current TTPs [here](https://github.com/facebook/threat-research/blob/main/Online_Operations_Killchain-TTPs.csv)
 
 ## 🛠️ The Online Operations Killchain
 To help the broader research community to study and protect people across different internet services, we’ve collated and organized these indicators according to the Online Operations Kill Chain framework, which we use at Meta to analyze many sorts of malicious online operations, identify the earliest opportunities to disrupt them, and share information across investigative teams. The kill chain describes the sequence of steps that threat actors go through to establish a presence across the internet, disguise their operations, engage with potential audiences, and respond to takedowns. 
