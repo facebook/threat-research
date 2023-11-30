@@ -34,7 +34,7 @@ We regularly update the IOCs as part of our broader threat reporting. For furthe
 
 
 ## 📝 License
-All the data in this repository is provided under the MIT License. For the full license text, refer to the [LICENSE](#) file.
+All the data in this repository is provided under the MIT License. For the full license text, refer to the [LICENSE](https://github.com/facebook/threat-research/blob/main/LICENSE) file.
 
 
 
