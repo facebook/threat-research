@@ -1,0 +1,52 @@
+Tactic	Technique	Procedure	Indicator	Comments
+0 Acquiring assets	0.4 Acquiring business assets	0.4.1 Registering company	London New Europe Media Ltd	
+0 Acquiring assets	0.6 Acquiring domains	0.6.2 Acquiring domains to support influence operations	https://neweurope[.]online	
+0 Acquiring assets	0.9 Acquiring social media accounts	0.9.1 Acquiring Facebook assets	117 Facebook accounts	
+0 Acquiring assets	0.9 Acquiring social media accounts	0.9.1 Acquiring Facebook assets	38 Pages	
+0 Acquiring assets	0.9 Acquiring social media accounts	0.9.1 Acquiring Facebook assets	6 Groups	
+0 Acquiring assets	0.9 Acquiring social media accounts	0.9.2 Acquiring Instagram accounts	38 accounts	
+0 Acquiring assets	0.9 Acquiring social media accounts	0.9.4 Acquiring X / Twitter accounts	https://twitter[.]com/new_observation	
+0 Acquiring assets	0.9 Acquiring social media accounts	0.9.4 Acquiring X / Twitter accounts	https://twitter[.]com/Dream_andFuture	
+0 Acquiring assets	0.9 Acquiring social media accounts	0.9.5 Acquiring YouTube channels	https://www.youtube[.]com/@Durban_Declaration	
+0 Acquiring assets	0.9 Acquiring social media accounts	0.9.7 Acquiring Telegram channels	http://t[.]me/new_europe	
+0 Acquiring assets	0.9 Acquiring social media accounts	0.9.8 Acquiring accounts on online forums	https://safechat[.]com/u/new_observation	Acquiring safechat[.]com accounts
+0 Acquiring assets	0.9 Acquiring social media accounts	0.9.8 Acquiring accounts on online forums	https://safechat[.]com/u/dreams_and_future	Acquiring safechat[.]com accounts
+0 Acquiring assets	0.9 Acquiring social media accounts	0.9.8 Acquiring accounts on online forums	https://org162532576[.]wordpress[.]com/	Acquiring WordPress blog
+0 Acquiring assets	0.9 Acquiring social media accounts	0.9.8 Acquiring accounts on online forums	http://89ijlop.blogspot[.]com	Acquiring Blogspot accounts
+0 Acquiring assets	0.9 Acquiring social media accounts	0.9.8 Acquiring accounts on online forums	http://hkjluhol.blogspot[.]com	Acquiring Blogspot accounts
+0 Acquiring assets	0.9 Acquiring social media accounts	0.9.8 Acquiring accounts on online forums	https://www.reddit[.]com/user/New-Europe-1993	Acquiring Reddit account
+				
+1 Disguising assets	1.1 Adopting visual disguise	1.1.1 Copying profile pictures 	Copying profile pictures from publicly available online sources	
+1 Disguising assets	1.1 Adopting visual disguise	1.1.2 Using profile pictures like created using generative adversarial networks (GAN)	Using profile pictures likely generated using machine learning techniques like GAN	
+1 Disguising assets	1.2 Posing as non-existent person	1.2.3 Posing as fictional activist	Fake accounts posed as supporters of the Uyghur community	
+1 Disguising assets	1.2 Posing as non-existent person	1.2.2 Posing as fictional journalist	Some of the network's fake accounts posed as employees of New Europe Observation	Fake employees posed as editorial staff of London New Europe Media
+1. Disguising assets	1.2 Posing as non-existent person	1.2.7 Creating fictitious byline	The website sometimes altered the headlines of its copied articles, and routinely replaced the genuine byline with a fictitious one	
+1 Disguising assets	1.3 Posing as non-existent institution	1.3.1 Creating fictitious news outlet 	The network created the New Europe Observation brand across multiple internet services	
+1 Disguising assets	1.5 Impersonating real institution	1.5.2 Impersonating government institution	The network impersonated public offices in Europe, a US think tank, and a US technology company	
+1 Disguising assets	1.5 Impersonating real institution	1.5.3 Impersonating think tank	The network impersonated public offices in Europe, a US think tank, and a US technology company	
+1 Disguising assets	1.5 Impersonating real institution	1.5.4 Impersonating commercial company	The network impersonated public offices in Europe, a US think tank, and a US technology company	
+				
+2. Gathering information	2.1. Soliciting information	2.1.1 Publicly soliciting information	The network advertised for freelance analysts to write on geopolitical subjects, particularly in Central Asia	
+				
+3. Coordinating and planning	3.6 Coordinating via closed system	3.6.1 Cordinating via email	The network solicited for freelance writers to contact it by email at neweuropeobservation[at]outlook.com	
+				
+5. Evading detection	5.1 Privacy protection	5.1.1 Privacy protecting website registrations	Registering domain with privacyprotect[.]org	
+5. Evading detection	5.2 Camouflaging content	5.2.2 Editing copied content	The website sometimes altered the headlines of its copied articles, and routinely replaced the genuine byline with a fictitious one	
+5. Evading detection	5.4 Copying authentic content	5.4.1 Copying authentic news articles	The New Europe Observation website appears to have copied its content from authentic sources, including Euractiv and Foreign Policy	
+				
+6. Indiscriminate engagement	6.1 Posting on websites 	6.1.3 Posting original content on blogs	https://org162532576[.]wordpress[.]com/2021/12/06/why-boyc ott-beijing-winter-olympics%ef%bf%bc/	
+6. Indiscriminate engagement	6.1 Posting on websites 	6.1.3 Posting original content on blogs	http://89ijlop.blogspot[.]com/2021/12/why-boycott-beijing-win ter-olympics_5.html	
+6. Indiscriminate engagement	6.1 Posting on websites 	6.1.3 Posting original content on blogs	http://hkjluhol.blogspot[.]com/2021/12/why-boycott-beijing-wi nter-olympics_21.html	
+6. Indiscriminate engagement	6.2 Amplifying with likely fake accounts on social media	6.2.1 Amplifying with likely fake accounts on Facebook	Sharing on Facebook	
+6. Indiscriminate engagement	6.2 Amplifying with likely fake accounts on social media	6.2.2 Amplifying with likely fake accounts on Instagram	Sharing on Instagram	
+6. Indiscriminate engagement	6.2 Amplifying with likely fake accounts on social media	6.2.4 Amplifying with likely fake accounts on X/Twitter	Sharing on X / Twitter	
+6. Indiscriminate engagement	6.2 Amplifying with likely fake accounts on social media	6.2.8 Amplifying with likely fake accounts on online forums	Sharing on Reddit	
+6. Indiscriminate engagement	6.2 Amplifying with likely fake accounts on social media	6.2.8 Amplifying with likely fake accounts on online forums	Sharing on safechat[.]com	
+				
+7. Targeted engagement	7.4 Co-opting real people / organizations	7.4.1 Hiring freelance content creators 	https://www[.]freelancer[.]com/projects/articles/ Writing-article s-35666510/details	Advertising for freelance writers
+7. Targeted engagement	7.4 Co-opting real people / organizations	7.4.1 Hiring freelance content creators 	The network advertised for people to voice videos according to its script	Advertising for freelance video creators
+7. Targeted engagement	7.4 Co-opting real people / organizations	7.4.2 Hiring paid protesters	https://twitter[.]com/new_observation/status/1562640310273 921025	Advertising for paid protesters
+7. Targeted engagement	7.4 Co-opting real people / organizations	7.4.3 Partnering with real organizations	The network partnered with a real NGO in Uganda	The network's logo featured on a banner and T-shirts at an on-the-ground event in Uganda run by the partner NGO
+7. Targeted engagement	7.5 Directing online traffic	7.5.1 Directing audience to other social media	Directing audience towards network's blogs and YouTube channel	
+7. Targeted engagement	7.5 Directing online traffic	7.5.2 Directing audience to website	Directing audience towards network's website,	
+7. Targeted engagement	7.6 Posting about individuals or institutions	7.6.1 Posting negative content about named individuals or institutions	The network posted hostile commentary about Uyghur activists and critics of China	

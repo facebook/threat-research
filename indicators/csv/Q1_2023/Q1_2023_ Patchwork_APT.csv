@@ -1,0 +1,83 @@
+Tactic,Technique,Procedure,Indicator,Comments
+0 Acquiring assets,0.8 Acquiring apps,0.8.1 Creating apps,9481f10c51e9ad5b36846978587b4374,JustPing hash
+0 Acquiring assets,0.8 Acquiring apps,0.8.1 Creating apps,c11ed89d2584564fdb99d6ba1b42bd7d,Howdee hash
+0 Acquiring assets,0.8 Acquiring apps,0.8.1 Creating apps,a626a32a17bc49d2858798dcae3f36ee,Click hash
+0 Acquiring assets,0.9 Acquiring social media accounts,0.9.1 Acquiring Facebook assets,About 50 accounts on Facebook and Instagram,
+0 Acquiring assets,0.9 Acquiring social media accounts,0.9.2 Acquiring Instagram accounts,About 50 accounts on Facebook and Instagram,
+0 Acquiring assets,0.9 Acquiring social media accounts,0.9.8 Acquiring accounts on online forums,securemessagingapps[.]blogspot[.]com,
+,,,,
+1 Disguising assets,1.2 Posing as non-existent person,1.2.2 Posing as fictional journalist,Posing as journalists for news media outlets,
+1 Disguising assets,1.2 Posing as non-existent person,1.2.2 Posing as fictional journalist,Posing as journalists for fictional outlets,
+1 Disguising assets,1.2 Posing as non-existent person,1.2.5 Posing as fictional military personnel,Posing as military personnel,
+1 Disguising assets,1.2 Posing as non-existent person,1.2.8 Posing as fictional person in target region,Posing as defense intelligence consultants,
+1 Disguising assets,1.7 Disguising malicious apps,1.7.1 Disguising apps as chat apps,9481f10c51e9ad5b36846978587b4374,JustPing hash
+1 Disguising assets,1.7 Disguising malicious apps,1.7.1 Disguising apps as chat apps,c11ed89d2584564fdb99d6ba1b42bd7d,Howdee hash
+1 Disguising assets,1.7 Disguising malicious apps,1.7.1 Disguising apps as chat apps,a626a32a17bc49d2858798dcae3f36ee,Click hash
+,,,,
+5 Evading detection,5.2 Camouflaging content,5.2.1 Using link shortening services,Using tinyurl[.]com to hide the ultimate destination of malicious links,
+5 Evading detection,5.2 Camouflaging content,5.2.1 Using link shortening services,Using rebrand[.]ly to hide the ultimate destination of malicious links,
+5 Evading detection,5.2 Camouflaging content,5.2.1 Using link shortening services,Using bit[.]ly to hide the ultimate destination of malicious links,
+5 Evading detection,5.2 Camouflaging content,5.2.6 Disguising links,Distributing images of malicious links,
+5 Evading detection,5.2 Camouflaging content,5.2.6 Disguising links,Distributing broken malicious links,
+,,,,
+7 Targeted engagement,7.5 Directing online traffic,7.5.2 Directing audience to website,https://securemessagingapps.blogspot[.]com/2020/03/best-apps-for-secret-texting-to-try-in.html,Planting false review to draw attention to malicious app
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,https://tinyurl[.]com/DeM-bayanat-download,redirects to: http://file-downloader[.]ga/bayanat_au.apk
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,https://bit[.]ly/39roCMd,redirects to: https://apzshare[.]club/poahbcyskdh/cable.apk
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,https://rebrand[.]ly/14d3hxt,redirects to: https://faridun[.]com/jlkjlkjkl/ZangiV2[.]apk
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,https://rebrand[.]ly/wmkzuxc,redirects to: https://faridun[.]com/wqwqwqwq/ZangiV4[.]apk
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,https://rebrand[.]ly/prv163,redirects to: https://stockapp-fresh[.]com/yhnlcxwzf/Pry1.63.apk
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,"https://tinyurl[.]com/invitation-join-nahida
+",redirects to: https://www.webmails-authentication[.]tk/google_user_authentication/
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,http://bayanat[.]co[.]nf/Bayanat.apk,
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,http://beautifullimages[.]co[.]nf/Image.apk,
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,http://newice[.]hopto[.]org/psiphon3.exe,
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,https://kashmirundergroundnews[.]ml:4040/rapeinkashmir/,
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,"https://tinyurl[.]com/Cucu-chatv2
+","Malicious links disguised as downloads for chat / communication apps
+Redirects to: http://www.drive-sharefiles-downloads[.]ga/cucu2/CucuChat.apk"
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,https://rebrand[.]ly/YoTalk,"Malicious links disguised as downloads for chat / communication apps
+Redirects to: https://appplace[.]life/vdfogrglj/YoTalk.apk"
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,https://rebrand[.]ly/crazytalk ,Malicious links disguised as downloads for chat / communication apps
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,https://bit[.]ly/3c5e9sx ,"Malicious links disguised as downloads for chat / communication apps
+Redirects to: https://chirrups-download[.]ml/chirrups/images/chirrups.apk"
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,https://bit[.]ly/3aPM6fU,"Malicious links disguised as downloads for chat / communication apps
+Redirects to: https://file-star[.]buzz/gdgtgdt1245435/chirrups.apk"
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,https://tinyurl[.]com/cucuchat-download-2019,"Malicious links disguised as downloads for chat / communication apps
+Redirects to: https://drive-sharefiles-downloads[.]gq/CucuChat.apk"
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,https://tinyurl[.]com/fruitchat19 ,"Malicious links disguised as downloads for chat / communication apps
+Redirects to: https://fileshares[.]online/Fruitchat.apk"
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,https://tinyurl[.]com/Fruitchatv4 ,"Malicious links disguised as downloads for chat / communication apps
+Redirects to: https://fileshares[.]online/Fruitchatv4.apk"
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,https://tinyurl[.]com/Just-You-apk ,"Malicious links disguised as downloads for chat / communication apps
+Redirects to: https://fileshares[.]online/Just-You.apk"
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,https://bit[.]ly/37AktWN,Malicious links disguised as downloads for chat / communication apps
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,http://rebrand[.]ly/ptalkk,"Malicious links disguised as downloads for chat / communication apps
+Redirects to: https://fun.socialyte[.]site/BABBLEv3.apk"
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,http://videvideocaller[.]ml/video/vide_videocall.apk,Malicious links disguised as downloads for chat / communication apps
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,https://tinyurl[.]com/Google-VPN-apk,"Malicious links disguised as downloads for VPN service
+Redirects to: http://file-downloader[.]ga/vpn_oa.apk"
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,"https://tinyurl[.]com/google-vpn-download
+redirects to: ","Malicious links disguised as downloads for VPN service
+Redirects to: http://thenewsnation[.]ml:9371/vpn_au.apk"
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,"https://tinyurl[.]com/latest-vpn-downloads
+","Malicious links disguised as downloads for VPN service
+Redirects to: http://vpndownloads.ddns[.]net:2808/vpn_ag.apk"
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,http://bit[.]do/VPN_latest_secure-apk,Malicious links disguised as downloads for VPN service
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,http://downloader-file[.]cf/vpn_hh.apk,Malicious links disguised as downloads for VPN service
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,http://downloadvpn[.]comli[.]com/VPN.apk,Malicious links disguised as downloads for VPN service
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,http://vpndl[.]co[.]nf/VPN.apk,Malicious links disguised as downloads for VPN service
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,http://vpndownload[.]co[.]nf/VPN.apk,Malicious links disguised as downloads for VPN service
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,http://vpndownload[.]webutu[.]com/hh/f/n/VPN.apk,Malicious links disguised as downloads for VPN service
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,http://vpndownloads[.]co[.]nf/VPN.apk,Malicious links disguised as downloads for VPN service
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,http://vpndownloads[.]ddns[.]net:2808/vpn_hh.apk,Malicious links disguised as downloads for VPN service
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,https://tinyurl[.]com/Dukhtaran-e-Millat-Updates,"Malicious links disguised as downloads for news / update services
+Redirects to: http://islamicbayanat.ddns[.]net:2808/app_bb.apk"
+7 Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links,https://tinyurl[.]com/APHC-updates-live,"Malicious links disguised as downloads for news / update services
+Redirects to: http://185.82.216[.]57:2125/google_user_authentication/"
+7 Targeted engagement,7.9 Distributing malware,7.9.2 Uploading malicious apps to online stores,https://play.google[.]com/store/apps/details?id=com.pinglabs.justping,Uploading apps to Google Playstore
+7 Targeted engagement,7.9 Distributing malware,7.9.2 Uploading malicious apps to online stores,https://play.google[.]com/store/apps/details?id=com.click.chatapp,Uploading apps to Google Playstore
+7 Targeted engagement,7.9 Distributing malware,7.9.2 Uploading malicious apps to online stores,https://play.google[.]com/store/apps/details?id=com.how.chatapp,Uploading apps to Google Playstore
+,,,,
+8 Compromising assets,8.1 Social engineering,8.1.1 Socially engineering targets to deliver malware,Using fake personas to persuade targets to visit sites hosting malware,
+8 Compromising assets,8.1 Social engineering,8.1.1 Socially engineering targets to deliver malware,Persuading targets to install malicious apps,
+8 Compromising assets,8.1 Social engineering,8.1.4 Using non-malicious apps,"Some of the APT’s apps for Android avoided explicit malicious functionality, relying on user permissions to acquire information",
