@@ -4,8 +4,8 @@ Tactic,Technique,Procedure
 0. Acquiring assets,0.2 Acquiring email addresses,0.2.1 Acquiring email addresses on owned domains
 0. Acquiring assets,0.2 Acquiring email addresses,0.2.2 Acquiring freely available email addresses
 0. Acquiring assets,0.2 Acquiring email addresses,0.2.3 Acquiring encrypted email
-0. Acquiring assets,0.3 Acquiring phone ,0.3.1 Acquiring mobile phone
-0. Acquiring assets,0.3 Acquiring phone ,0.3.2 Acquiring VOIP phone
+0. Acquiring assets,0.3 Acquiring phone,0.3.1 Acquiring mobile phone
+0. Acquiring assets,0.3 Acquiring phone,0.3.2 Acquiring VOIP phone
 0. Acquiring assets,0.4 Acquiring business assets,0.4.1 Registering company
 0. Acquiring assets,0.4 Acquiring business assets,0.4.2 Acquiring business premises
 0. Acquiring assets,0.5 Acquiring financial instruments,0.5.1 Acquiring Paypal account
@@ -26,7 +26,7 @@ support malware campaigns"
 0. Acquiring assets,0.9 Acquiring social media accounts,0.9.8 Acquiring accounts on online forums
 0. Acquiring assets,0.9 Acquiring social media accounts,0.9.9 Acquiring and repurposing accounts
 ,,
-1. Disguising assets,1.1 Adopting visual disguise,1.1.1 Copying profile pictures 
+1. Disguising assets,1.1 Adopting visual disguise,1.1.1 Copying profile pictures
 1. Disguising assets,1.1 Adopting visual disguise,1.1.2 Using profile pictures like created using generative adversarial networks (GAN)
 1. Disguising assets,1.1 Adopting visual disguise,1.1.3 Adopting visual brand
 1. Disguising assets,1.1 Adopting visual disguise,1.1.4 Using animals as profile picture
@@ -40,11 +40,11 @@ support malware campaigns"
 1. Disguising assets,1.2 Posing as non-existent person,1.2.6 Posing as fictional recruiter / potential employer
 1. Disguising assets,1.2 Posing as non-existent person,1.2.7 Creating fictitious byline
 1. Disguising assets,1.2 Posing as non-existent person,1.2.8 Posing as fictional person in target region
-1. Disguising assets,1.3 Posing as non-existent institution,1.3.1 Creating fictitious news outlet 
+1. Disguising assets,1.3 Posing as non-existent institution,1.3.1 Creating fictitious news outlet
 1. Disguising assets,1.3 Posing as non-existent institution,1.3.2 Creating fictitious NGO
 1. Disguising assets,1.4 Impersonating real person,1.4.1 Impersonating researcher or think tanker
-1. Disguising assets,1.4 Impersonating real person,1.4.2 Using duplicate accounts 
-1. Disguising assets,1.5 Impersonating real institution,1.5.1 Impersonating news website 
+1. Disguising assets,1.4 Impersonating real person,1.4.2 Using duplicate accounts
+1. Disguising assets,1.5 Impersonating real institution,1.5.1 Impersonating news website
 1. Disguising assets,1.5 Impersonating real institution,1.5.2 Impersonating government institution
 1. Disguising assets,1.5 Impersonating real institution,1.5.3 Impersonating think tank
 1. Disguising assets,1.5 Impersonating real institution,1.5.4 Impersonating commercial company
@@ -53,6 +53,7 @@ support malware campaigns"
 1. Disguising assets,1.6 Disguising malware sites,1.6.3 Disguising malware sites as cloud storage providers or file sharing services
 1. Disguising assets,1.6 Disguising malware sites,1.6.4 Disguising malware site as entertainment site
 1. Disguising assets,1.6 Disguising malware sites,1.6.5 Disguising malware site as chat app
+1. Disguising assets,1.6 Disguising malware sites,1.6.6 Disguising malware site as blog
 1. Disguising assets,1.7 Disguising malicious apps,1.7.1 Disguising apps as chat apps
 1. Disguising assets,1.7 Disguising malicious apps,1.7.2 Disguising apps as VPN providers
 1. Disguising assets,1.7 Disguising malicious apps,1.7.3 Disguising app as document reader
@@ -95,11 +96,11 @@ support malware campaigns"
 5. Evading detection,5.5 Obfuscating infrastructure,5.5.3 Using third-party hosting providers
 5. Evading detection,5.5 Obfuscating infrastructure,5.5.4 Using compromised accounts to manage assets
 5. Evading detection,5.6 Faking social interactions,5.6.1 Faking conversation
-5. Evading detection,5.6 Faking social interactions,5.6.2 Creating fake family 
+5. Evading detection,5.6 Faking social interactions,5.6.2 Creating fake family
 ,,
-6. Indiscriminate engagement,6.1 Posting on websites ,6.1.1 Posting original content on websites 
-6. Indiscriminate engagement,6.1 Posting on websites ,6.1.2 Posting copied content on websites
-6. Indiscriminate engagement,6.1 Posting on websites ,6.1.3 Posting original content on blogs
+6. Indiscriminate engagement,6.1 Posting on websites,6.1.1 Posting original content on websites
+6. Indiscriminate engagement,6.1 Posting on websites,6.1.2 Posting copied content on websites
+6. Indiscriminate engagement,6.1 Posting on websites,6.1.3 Posting original content on blogs
 6. Indiscriminate engagement,6.2 Amplifying with likely fake accounts on social media,6.2.1 Amplifying with likely fake accounts on Facebook
 6. Indiscriminate engagement,6.2 Amplifying with likely fake accounts on social media,6.2.2 Amplifying with likely fake accounts on Instagram
 6. Indiscriminate engagement,6.2 Amplifying with likely fake accounts on social media,6.2.3 Amplifying with likely fake accounts on Threads
@@ -119,10 +120,10 @@ support malware campaigns"
 7. Targeted engagement,7.2 Engaging with users outside the operation,7.2.3 Acquiring Group members
 7. Targeted engagement,7.2 Engaging with users outside the operation,7.2.4 Acquiring Instagram followers
 7. Targeted engagement,7.2 Engaging with users outside the operation,7.2.5 Acquiring Twitter followers
-7. Targeted engagement,7.3 Engaging with specific audience,7.3.1 Using audience-specific hashtags 
+7. Targeted engagement,7.3 Engaging with specific audience,7.3.1 Using audience-specific hashtags
 7. Targeted engagement,7.3 Engaging with specific audience,7.3.2 Posting into specifically themed Groups
 7. Targeted engagement,7.3 Engaging with specific audience,7.3.3 Commenting on specific posts
-7. Targeted engagement,7.4 Co-opting real people / organizations,7.4.1 Hiring freelance content creators 
+7. Targeted engagement,7.4 Co-opting real people / organizations,7.4.1 Hiring freelance content creators
 7. Targeted engagement,7.4 Co-opting real people / organizations,7.4.2 Hiring paid protesters
 7. Targeted engagement,7.4 Co-opting real people / organizations,7.4.3 Partnering with real organizations
 7. Targeted engagement,7.4 Co-opting real people / organizations,7.4.4 Employing local advertisers
@@ -132,11 +133,11 @@ support malware campaigns"
 7. Targeted engagement,7.6 Posting about individuals or institutions,7.6.2 Posting positive content about named individuals institutions
 7. Targeted engagement,7.6 Posting about individuals or institutions,7.6.3 Mass harassment
 7. Targeted engagement,7.6 Posting about individuals or institutions,7.6.4 Offering or posting allegedly hacked material about individuals or institutions
-7. Targeted engagement,7.7 Making payments,7.7.1 Paying by PayPal 
+7. Targeted engagement,7.7 Making payments,7.7.1 Paying by PayPal
 7. Targeted engagement,7.7 Making payments,7.7.2 Paying with cryptocurrency
 7. Targeted engagement,7.8 Direct outreach,7.8.1 Tagging social media users
 7. Targeted engagement,7.8 Direct outreach,7.8.2 Replying to social media users
-7. Targeted engagement,7.8 Direct outreach,7.8.3 Contacting news organizations 
+7. Targeted engagement,7.8 Direct outreach,7.8.3 Contacting news organizations
 7. Targeted engagement,7.9 Distributing malware,7.9.1 Distributing malicious links
 7. Targeted engagement,7.9 Distributing malware,7.9.2 Uploading malicious apps to online stores
 ,,
@@ -144,22 +145,22 @@ support malware campaigns"
 8. Compromising assets,8.1 Social engineering,8.1.2 Socially engineering targets to hand over credentials
 8. Compromising assets,8.1 Social engineering,8.1.3 Socially engineering platform employees
 8. Compromising assets,8.1 Social engineering,8.1.4 Using non-malicious apps
-8. Compromising assets,8.2 Compromising websites,8.2.1 Defacing websites 
+8. Compromising assets,8.2 Compromising websites,8.2.1 Defacing websites
 8. Compromising assets,8.2 Compromising websites,8.2.2 Compromising website subscriber lists
-8. Compromising assets,8.3 Compromising data,8.3.1 Extracting data 
+8. Compromising assets,8.3 Compromising data,8.3.1 Extracting data
 ,,
-9. Enabling longevity,9.1 Changing personas,9.1.1 Creating new persona 
+9. Enabling longevity,9.1 Changing personas,9.1.1 Creating new persona
 9. Enabling longevity,9.1 Changing personas,9.1.2 Deleting persona
 9. Enabling longevity,9.2 Changing platforms,9.2.1 Moving fake personas / brands to new platforms
 9. Enabling longevity,9.2 Changing platforms,9.2.2 Moving community to new platforms
 9. Enabling longevity,9.2 Changing platforms,9.2.3 Dispersing content across many platforms
 9. Enabling longevity,9.3 Persisting with personas,9.3.1 Acquiring new account in old name
-9. Enabling longevity,9.4 Upgrading capabilities,9.4.1 Upgrading malware capabilities 
+9. Enabling longevity,9.4 Upgrading capabilities,9.4.1 Upgrading malware capabilities
 9. Enabling longevity,9.4 Upgrading capabilities,9.4.2 Upgrading disguise
-9. Enabling longevity,9.5 Replacing infrastructure,9.5.1 Changing social media accounts 
+9. Enabling longevity,9.5 Replacing infrastructure,9.5.1 Changing social media accounts
 9. Enabling longevity,9.5 Replacing infrastructure,9.5.2 Changing domains
 9. Enabling longevity,9.5 Replacing infrastructure,9.5.3 Using redirect domains
-9. Enabling longevity,9.6 Denying exposure,9.6.1 Public denial 
+9. Enabling longevity,9.6 Denying exposure,9.6.1 Public denial
 9. Enabling longevity,9.6 Denying exposure,9.6.2 Private denial to core targets
-9. Enabling longevity,9.8 Perception hacking,9.7.1 Posting exaggerated claims 
+9. Enabling longevity,9.8 Perception hacking,9.7.1 Posting exaggerated claims
 9. Enabling longevity,9.8 Perception hacking,9.7.2 Posting entirely false claims
