@@ -14,6 +14,11 @@ To help the broader research community to study and protect people across differ
 
 This section includes the latest threat indicators and is not meant to provide a full cross-internet, historic view into these operations. It’s important to note that, in our assessment, the mere sharing of these operations’ links or engaging with them by online users would be insufficient to attribute accounts to a given campaign without corroborating evidence. 
 
+## 📋 Published Threat Indicators
+
+| Date | Report | Origin | Targets |
+|---|---|---|---|
+| H1 2026 | [Russia-Based CIB Network Targeting Sub-Saharan Africa](indicators/meta-h1-2026-russia-based-cib-network-1.md) | Russia | Angola, Ghana, Kenya, South Africa |
 
 
 
