@@ -1,6 +1,8 @@
-# meta-h1-2026-russia-based-cib-network-1
+# Indicators of Compromise: Russia-Based Influence Operation Network Targeting Sub-Saharan Africa
 
-## ATR Summary
+Meta disrupted a Russia-based Coordinated Inauthentic Behavior (CIB) network targeting Sub-Saharan Africa. This file contains Indicators of Compromise (IOCs) from Meta's Adversarial Threat Report H1 2026.
+
+## Meta's Adversarial Threat Report Network Summary
 
 ** TEST TEST TEST TEST **
 
@@ -22,7 +24,8 @@ The operation, which began in August 2025, promoted primarily authentic, off-pla
 
 ## Cross-Links
 
-- **Full ATR Report:** [Meta Adversarial Threat Report H1 2026](https://transparency.meta.com/sr/first-half-2026-Adversarial-threat-report/)
+- **Full ATR Report:** [Meta Adversarial Threat Report H1 2026](https://transparency.meta.com/sr/h1-2026-adversarial-threat-report/)
 - **AlienVault OTX Pulse:** [meta-h1-2026-russia-based-cib-network-1 on OTX](https://otx.alienvault.com/pulse/meta-h1-2026-russia-based-cib-network-1)
+- **IOC File (GitHub):** [meta-h1-2026-russia-based-cib-network-1 on GitHub](https://github.com/facebook/threat-research/blob/main/indicators/meta-h1-2026-russia-based-cib-network-1.md )
 
 ** TEST TEST TEST TEST **
