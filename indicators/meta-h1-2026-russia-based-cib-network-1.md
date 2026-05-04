@@ -22,7 +22,7 @@ The operation, which began in August 2025, promoted primarily authentic, off-pla
 
 ## Cross-Links
 
-- **Full ATR Report:** [Meta Adversarial Threat Report H1 2026](https://transparency.meta.com/sr/h1-2026-adversarial-threat-report/)
+- **Full ATR Report:** [Meta Adversarial Threat Report H1 2026]([https://transparency.meta.com/sr/h1-2026-adversarial-threat-report/](https://transparency.meta.com/sr/first-half-2026-Adversarial-threat-report/))
 - **AlienVault OTX Pulse:** [meta-h1-2026-russia-based-cib-network-1 on OTX](https://otx.alienvault.com/pulse/meta-h1-2026-russia-based-cib-network-1)
 
 ** TEST TEST TEST TEST **
