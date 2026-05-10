@@ -2130,6 +2130,12 @@
     "ds": "2022-10-03"
   },
   {
+    "indicator_type": "android_package_name",
+    "indicator_value": "gb.packlivewalls.fournatewren",
+    "comment": "Walls Light - Wallpapers Pack",
+    "ds": "2022-04-30"
+  }
+  {
     "indicator_type": "ios_app_id",
     "indicator_value": "1555651942",
     "comment": "FB Advertising Optimization",
