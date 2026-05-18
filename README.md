@@ -18,6 +18,12 @@ This section includes the latest threat indicators and is not meant to provide a
 
 | Date | Report | Origin | Targets |
 |---|---|---|---|
+| H1 2026 | [Russia-Based Influence Operation Network Targeting Eastern Europe](https://github.com/facebook/threat-research/blob/main/indicators/meta-h1-2026-russia-based-cib-network-2.md) | Russia | Eastern Europe |
+| H1 2026 | [Deep Dive: Domestic Pakistani Activity Displaying Wide Use of AI](https://github.com/facebook/threat-research/blob/main/indicators/meta-h1-2026-pakistan-based-cib-network.md) | Deep Dive: Domestic Pakistani Activity Displaying Wide Use of AI |  |
+| H1 2026 | [China-Based Influence Operation Network Targeting Taiwan](https://github.com/facebook/threat-research/blob/main/indicators/meta-h1-2026-china-based-cib-network.md) | China | Taiwan |
+| H1 2026 | [Iran-Based Influence Operation Network Targeting Azerbaijan](https://github.com/facebook/threat-research/blob/main/indicators/meta-h1-2026-iran-based-cib-network-2.md) | Iran | Azerbaijan |
+| H1 2026 | [Deep Dive: Dissecting the Kill Chain of an Early-Stage Iranian Influence Operation](https://github.com/facebook/threat-research/blob/main/indicators/meta-h1-2026-iran-based-cib-network-1.md) | Deep Dive: Dissecting the Kill Chain of an Early-Stage Iranian Influence Operation |  |
+| H1 2026 | [Russia-Based Influence Operation Network Targeting Sub-Saharan Africa](https://github.com/facebook/threat-research/blob/main/indicators/meta-h1-2026-russia-based-cib-network-1.md) | Russia | Sub-Saharan Africa |
 | H1 2026 | [Russia-Based CIB Network Targeting Sub-Saharan Africa](indicators/meta-h1-2026-russia-based-cib-network-1.md) | Russia | Angola, Ghana, Kenya, South Africa |
 
 
