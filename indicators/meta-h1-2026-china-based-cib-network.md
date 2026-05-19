@@ -22,6 +22,6 @@ The network operated several pages, such as Taiwan Gossip Net and New Generation
 
 ## Cross-Links
 
-- **Full ATR Report:** [Meta Adversarial Threat Report H1 2026](TBD)
+- **Full ATR Report:** [Meta Adversarial Threat Report H1 2026](https://transparency.meta.com/sr/first-half-2026-Adversarial-threat-report/)
 - **AlienVault OTX Pulse:** [meta-h1-2026-china-based-cib-network on OTX](https://otx.alienvault.com/pulse/meta-h1-2026-china-based-cib-network)
 - **IOC File (GitHub):** [meta-h1-2026-china-based-cib-network on GitHub](https://github.com/facebook/threat-research/blob/main/indicators/meta-h1-2026-china-based-cib-network.md)
