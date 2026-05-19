@@ -16,6 +16,6 @@ This operation, which began in early 2025, was notable for its focus on short-fo
 
 ## Cross-Links
 
-- **Full ATR Report:** [Meta Adversarial Threat Report H1 2026](TBD)
+- **Full ATR Report:** [Meta Adversarial Threat Report H1 2026](https://transparency.meta.com/sr/first-half-2026-Adversarial-threat-report/)
 - **AlienVault OTX Pulse:** [meta-h1-2026-russia-based-cib-network-2 on OTX](https://otx.alienvault.com/pulse/meta-h1-2026-russia-based-cib-network-2)
 - **IOC File (GitHub):** [meta-h1-2026-russia-based-cib-network-2 on GitHub](https://github.com/facebook/threat-research/blob/main/indicators/meta-h1-2026-russia-based-cib-network-2.md)
