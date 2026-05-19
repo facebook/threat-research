@@ -48,6 +48,6 @@ Content quality was notably compromised in this phase. The new accounts engaged 
 
 ## Cross-Links
 
-- **Full ATR Report:** [Meta Adversarial Threat Report H1 2026](https://transparency.meta.com/sr/first-half-2026-Adversarial-threat-report/)
+- **Full ATR Report:** [Meta Adversarial Threat Report H1 2026](TBD)
 - **AlienVault OTX Pulse:** [meta-h1-2026-iran-based-cib-network-1 on OTX](https://otx.alienvault.com/pulse/meta-h1-2026-iran-based-cib-network-1)
 - **IOC File (GitHub):** [meta-h1-2026-iran-based-cib-network-1 on GitHub](https://github.com/facebook/threat-research/blob/main/indicators/meta-h1-2026-iran-based-cib-network-1.md)
