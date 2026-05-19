@@ -49,6 +49,6 @@ We found this activity as a result of an internal investigation into suspected c
 
 ## Cross-Links
 
-- **Full ATR Report:** [Meta Adversarial Threat Report H2 2025](https://transparency.meta.com/sr/Q2-Q3-2025-Adversarial-threat-report/)
+- **Full ATR Report:** [Meta Adversarial Threat Report H2 2025](TBD)
 - **AlienVault OTX Pulse:** [meta-h2-2025-russia-based-cib-network-2 on OTX](https://otx.alienvault.com/pulse/meta-h2-2025-russia-based-cib-network-2)
 - **IOC File (GitHub):** [meta-h2-2025-russia-based-cib-network-2 on GitHub](https://github.com/facebook/threat-research/blob/main/indicators/meta-h2-2025-russia-based-cib-network-2.md)
