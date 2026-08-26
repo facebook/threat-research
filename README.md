@@ -18,6 +18,7 @@ This section includes the latest threat indicators and is not meant to provide a
 
 | Date | Report | Origin | Targets |
 |---|---|---|---|
+| H2 2026 | [Ukraine and Bulgaria-Based Influence Operation Targeting United States, Germany, Italy, the United Kingdom, the Netherlands, France, Belgium, Latvia, Ukraine, and Moldova](https://github.com/facebook/threat-research/blob/main/indicators/h2-2026-ukraine-and-bulgaria-cib-based-network.md) | Ukraine and Bulgaria | United States, Germany, Italy, the United Kingdom, the Netherlands, France, Belgium, Latvia, Ukraine, and Moldova |
 | H1 2026 | [Russia-Based Influence Operation Network Targeting Eastern Europe](https://github.com/facebook/threat-research/blob/main/indicators/meta-h1-2026-russia-based-cib-network-2.md) | Russia | Eastern Europe |
 | H1 2026 | [Deep Dive: Domestic Pakistani Activity Displaying Wide Use of AI](https://github.com/facebook/threat-research/blob/main/indicators/meta-h1-2026-pakistan-based-cib-network.md) | Pakistan | Pakistan |
 | H1 2026 | [China-Based Influence Operation Network Targeting Taiwan](https://github.com/facebook/threat-research/blob/main/indicators/meta-h1-2026-china-based-cib-network.md) | China | Taiwan |
