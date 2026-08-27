@@ -18,6 +18,15 @@ This section includes the latest threat indicators and is not meant to provide a
 
 | Date | Report | Origin | Targets |
 |---|---|---|---|
+| H2 2026 | [Russia-Based Influence Operation Targeting Western Audiences](https://github.com/facebook/threat-research/blob/main/indicators/meta-h2-2026-russia-cib-based-network-2.md) | Russia | Western Audiences |
+| H2 2026 | [Israel-Based Influence Operation Targeting France, the UK, Australia, and Africa](https://github.com/facebook/threat-research/blob/main/indicators/meta-h2-2026-israel-cib-based-network.md) | Israel | France, the United Kingdom, Australia, Iran, Togo, Gabon, and Angola |
+| H2 2026 | [Iran-Based Influence Operation Targeting United States](https://github.com/facebook/threat-research/blob/main/indicators/meta-h2-2026-iran-cib-based-network.md) | Iran | United States |
+| H2 2026 | [Iran-Based Influence Operation Targeting Sub-Saharan Africa](https://github.com/facebook/threat-research/blob/main/indicators/meta-h2-2026-iran-cib-based-network-3.md) | Iran | Sub-Saharan Africa |
+| H2 2026 | [Iran-Based Influence Operation Targeting Azerbaijan](https://github.com/facebook/threat-research/blob/main/indicators/meta-h2-2026-iran-cib-based-network-2.md) | Iran | Azerbaijan |
+| H2 2026 | [France and Spain-Based Influence Operation Targeting Sub-Saharan Africa](https://github.com/facebook/threat-research/blob/main/indicators/meta-h2-2026-france-and-spain-cib-based-network.md) | France and Spain | France, Mali, Chad, DRC, Senegal, Cameroon, Burkina Faso, and Côte d’Ivoire |
+| H2 2026 | [Russia-Based Influence Operation Targeting Hungary](https://github.com/facebook/threat-research/blob/main/indicators/meta-h2-2026-russia-cib-based-network-3.md) | Russia | Hungary |
+| H2 2026 | [Deep Dive: Beyond Brute Force—Doppelganger’s Changing Operations](https://github.com/facebook/threat-research/blob/main/indicators/meta-h2-2026-russia-cib-based-network-4.md) | Russia | France, Germany, Hungary |
+| H2 2026 | [Russia-Based Influence Operation Targeting Europe, the Middle East, and Africa](https://github.com/facebook/threat-research/blob/main/indicators/meta-h2-2026-russia-cib-based-network.md) | Russia | Europe, the Middle East, and Africa |
 | H2 2026 | [Ukraine and Bulgaria-Based Influence Operation Targeting United States, Germany, Italy, the United Kingdom, the Netherlands, France, Belgium, Latvia, Ukraine, and Moldova](https://github.com/facebook/threat-research/blob/main/indicators/h2-2026-ukraine-and-bulgaria-cib-based-network.md) | Ukraine and Bulgaria | United States, Germany, Italy, the United Kingdom, the Netherlands, France, Belgium, Latvia, Ukraine, and Moldova |
 | H1 2026 | [Russia-Based Influence Operation Network Targeting Eastern Europe](https://github.com/facebook/threat-research/blob/main/indicators/meta-h1-2026-russia-based-cib-network-2.md) | Russia | Eastern Europe |
 | H1 2026 | [Deep Dive: Domestic Pakistani Activity Displaying Wide Use of AI](https://github.com/facebook/threat-research/blob/main/indicators/meta-h1-2026-pakistan-based-cib-network.md) | Pakistan | Pakistan |
